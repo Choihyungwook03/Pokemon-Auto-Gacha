@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 1,
-  "updatedAt": "2026-09-16T01:42:12.574Z",
+  "totalPulls": 2,
+  "updatedAt": "2026-09-16T01:47:31.239Z",
   "lastPull": {
-    "id": 531,
-    "name": "audino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+    "id": 660,
+    "name": "diggersby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
     "types": [
-      "normal"
+      "normal",
+      "ground"
     ],
-    "totalStats": 445,
+    "totalStats": 423,
     "grade": "R",
-    "pulledAt": "2026-09-16T01:42:12.574Z"
+    "pulledAt": "2026-09-16T01:47:31.239Z"
   },
   "pulls": [
+    {
+      "id": 660,
+      "name": "diggersby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+      "types": [
+        "normal",
+        "ground"
+      ],
+      "totalStats": 423,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:47:31.239Z"
+    },
     {
       "id": 531,
       "name": "audino",
@@ -41,6 +54,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:12.574Z",
       "lastPulledAt": "2026-09-16T01:42:12.574Z"
+    },
+    "660": {
+      "id": 660,
+      "name": "diggersby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+      "types": [
+        "normal",
+        "ground"
+      ],
+      "totalStats": 423,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:47:31.239Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:47:31.239Z",
+      "lastPulledAt": "2026-09-16T01:47:31.239Z"
     }
   },
   "typeTotals": {
