@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 4,
-  "updatedAt": "2026-09-16T11:54:37.954Z",
+  "totalPulls": 5,
+  "updatedAt": "2026-09-16T16:06:04.624Z",
   "lastPull": {
-    "id": 795,
-    "name": "pheromosa",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
+    "id": 865,
+    "name": "sirfetchd",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
     "types": [
-      "bug",
       "fighting"
     ],
-    "totalStats": 570,
+    "totalStats": 507,
     "grade": "SR",
-    "pulledAt": "2026-09-16T11:54:37.954Z"
+    "pulledAt": "2026-09-16T16:06:04.624Z"
   },
   "pulls": [
+    {
+      "id": 865,
+      "name": "sirfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T16:06:04.624Z"
+    },
     {
       "id": 795,
       "name": "pheromosa",
@@ -126,6 +136,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:54:37.954Z",
       "lastPulledAt": "2026-09-16T11:54:37.954Z"
+    },
+    "865": {
+      "id": 865,
+      "name": "sirfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T16:06:04.624Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T16:06:04.624Z",
+      "lastPulledAt": "2026-09-16T16:06:04.624Z"
     }
   },
   "typeTotals": {
