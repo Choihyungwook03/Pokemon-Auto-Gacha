@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 2,
-  "updatedAt": "2026-09-16T01:47:31.239Z",
+  "totalPulls": 3,
+  "updatedAt": "2026-09-16T06:24:02.572Z",
   "lastPull": {
-    "id": 660,
-    "name": "diggersby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+    "id": 468,
+    "name": "togekiss",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
     "types": [
-      "normal",
-      "ground"
+      "fairy",
+      "flying"
     ],
-    "totalStats": 423,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:47:31.239Z"
+    "totalStats": 545,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T06:24:02.572Z"
   },
   "pulls": [
+    {
+      "id": 468,
+      "name": "togekiss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "totalStats": 545,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T06:24:02.572Z"
+    },
     {
       "id": 660,
       "name": "diggersby",
@@ -40,6 +52,22 @@
     }
   ],
   "pokemon": {
+    "468": {
+      "id": 468,
+      "name": "togekiss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "totalStats": 545,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T06:24:02.572Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T06:24:02.572Z",
+      "lastPulledAt": "2026-09-16T06:24:02.572Z"
+    },
     "531": {
       "id": 531,
       "name": "audino",
