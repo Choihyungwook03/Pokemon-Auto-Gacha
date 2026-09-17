@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 10,
-  "updatedAt": "2026-09-17T10:15:24.986Z",
+  "totalPulls": 11,
+  "updatedAt": "2026-09-17T15:04:31.258Z",
   "lastPull": {
-    "id": 414,
-    "name": "mothim",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
+    "id": 292,
+    "name": "shedinja",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
     "types": [
       "bug",
-      "flying"
+      "ghost"
     ],
-    "totalStats": 424,
-    "grade": "R",
-    "pulledAt": "2026-09-17T10:15:24.986Z"
+    "totalStats": 236,
+    "grade": "N",
+    "pulledAt": "2026-09-17T15:04:31.258Z"
   },
   "pulls": [
+    {
+      "id": 292,
+      "name": "shedinja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+      "types": [
+        "bug",
+        "ghost"
+      ],
+      "totalStats": 236,
+      "grade": "N",
+      "pulledAt": "2026-09-17T15:04:31.258Z"
+    },
     {
       "id": 414,
       "name": "mothim",
@@ -118,17 +130,6 @@
       "totalStats": 423,
       "grade": "R",
       "pulledAt": "2026-09-16T01:47:31.239Z"
-    },
-    {
-      "id": 531,
-      "name": "audino",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 445,
-      "grade": "R",
-      "pulledAt": "2026-09-16T01:42:12.574Z"
     }
   ],
   "pokemon": {
@@ -146,6 +147,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:31:51.049Z",
       "lastPulledAt": "2026-09-16T19:31:51.049Z"
+    },
+    "292": {
+      "id": 292,
+      "name": "shedinja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+      "types": [
+        "bug",
+        "ghost"
+      ],
+      "totalStats": 236,
+      "grade": "N",
+      "pulledAt": "2026-09-17T15:04:31.258Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T15:04:31.258Z",
+      "lastPulledAt": "2026-09-17T15:04:31.258Z"
     },
     "414": {
       "id": 414,
