@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 12,
-  "updatedAt": "2026-09-17T18:59:10.382Z",
+  "totalPulls": 13,
+  "updatedAt": "2026-09-17T22:03:23.979Z",
   "lastPull": {
-    "id": 706,
-    "name": "goodra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "id": 197,
+    "name": "umbreon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
     "types": [
-      "dragon"
+      "dark"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-17T18:59:10.382Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-09-17T22:03:23.979Z"
   },
   "pulls": [
+    {
+      "id": 197,
+      "name": "umbreon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T22:03:23.979Z"
+    },
     {
       "id": 706,
       "name": "goodra",
@@ -116,18 +127,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-16T11:54:37.954Z"
-    },
-    {
-      "id": 468,
-      "name": "togekiss",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
-      "types": [
-        "fairy",
-        "flying"
-      ],
-      "totalStats": 545,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T06:24:02.572Z"
     }
   ],
   "pokemon": {
@@ -145,6 +144,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:31:51.049Z",
       "lastPulledAt": "2026-09-16T19:31:51.049Z"
+    },
+    "197": {
+      "id": 197,
+      "name": "umbreon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-17T22:03:23.979Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T22:03:23.979Z",
+      "lastPulledAt": "2026-09-17T22:03:23.979Z"
     },
     "292": {
       "id": 292,
