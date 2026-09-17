@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 8,
-  "updatedAt": "2026-09-17T00:38:52.463Z",
+  "totalPulls": 9,
+  "updatedAt": "2026-09-17T05:23:07.446Z",
   "lastPull": {
-    "id": 612,
-    "name": "haxorus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "id": 885,
+    "name": "dreepy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
     "types": [
-      "dragon"
+      "dragon",
+      "ghost"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-09-17T00:38:52.463Z"
+    "totalStats": 270,
+    "grade": "N",
+    "pulledAt": "2026-09-17T05:23:07.446Z"
   },
   "pulls": [
+    {
+      "id": 885,
+      "name": "dreepy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-17T05:23:07.446Z"
+    },
     {
       "id": 612,
       "name": "haxorus",
@@ -229,6 +242,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:06:04.624Z",
       "lastPulledAt": "2026-09-16T16:06:04.624Z"
+    },
+    "885": {
+      "id": 885,
+      "name": "dreepy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-17T05:23:07.446Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T05:23:07.446Z",
+      "lastPulledAt": "2026-09-17T05:23:07.446Z"
     }
   },
   "typeTotals": {
