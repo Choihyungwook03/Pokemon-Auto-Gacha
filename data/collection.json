@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 11,
-  "updatedAt": "2026-09-17T15:04:31.258Z",
+  "totalPulls": 12,
+  "updatedAt": "2026-09-17T18:59:10.382Z",
   "lastPull": {
-    "id": 292,
-    "name": "shedinja",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+    "id": 706,
+    "name": "goodra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
     "types": [
-      "bug",
-      "ghost"
+      "dragon"
     ],
-    "totalStats": 236,
-    "grade": "N",
-    "pulledAt": "2026-09-17T15:04:31.258Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-17T18:59:10.382Z"
   },
   "pulls": [
+    {
+      "id": 706,
+      "name": "goodra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-17T18:59:10.382Z"
+    },
     {
       "id": 292,
       "name": "shedinja",
@@ -118,18 +128,6 @@
       "totalStats": 545,
       "grade": "SR",
       "pulledAt": "2026-09-16T06:24:02.572Z"
-    },
-    {
-      "id": 660,
-      "name": "diggersby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
-      "types": [
-        "normal",
-        "ground"
-      ],
-      "totalStats": 423,
-      "grade": "R",
-      "pulledAt": "2026-09-16T01:47:31.239Z"
     }
   ],
   "pokemon": {
@@ -256,6 +254,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:31.239Z",
       "lastPulledAt": "2026-09-16T01:47:31.239Z"
+    },
+    "706": {
+      "id": 706,
+      "name": "goodra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-17T18:59:10.382Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T18:59:10.382Z",
+      "lastPulledAt": "2026-09-17T18:59:10.382Z"
     },
     "795": {
       "id": 795,
