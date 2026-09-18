@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 15,
-  "updatedAt": "2026-09-18T04:50:59.046Z",
+  "totalPulls": 16,
+  "updatedAt": "2026-09-18T09:22:44.710Z",
   "lastPull": {
-    "id": 536,
-    "name": "palpitoad",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
+    "id": 525,
+    "name": "boldore",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
     "types": [
-      "water",
-      "ground"
+      "rock"
     ],
-    "totalStats": 384,
+    "totalStats": 390,
     "grade": "N",
-    "pulledAt": "2026-09-18T04:50:59.046Z"
+    "pulledAt": "2026-09-18T09:22:44.710Z"
   },
   "pulls": [
+    {
+      "id": 525,
+      "name": "boldore",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-09-18T09:22:44.710Z"
+    },
     {
       "id": 536,
       "name": "palpitoad",
@@ -118,17 +128,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-09-16T22:18:04.892Z"
-    },
-    {
-      "id": 86,
-      "name": "seel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 325,
-      "grade": "N",
-      "pulledAt": "2026-09-16T19:31:51.049Z"
     }
   ],
   "pokemon": {
@@ -224,6 +223,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:24:02.572Z",
       "lastPulledAt": "2026-09-16T06:24:02.572Z"
+    },
+    "525": {
+      "id": 525,
+      "name": "boldore",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-09-18T09:22:44.710Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T09:22:44.710Z",
+      "lastPulledAt": "2026-09-18T09:22:44.710Z"
     },
     "531": {
       "id": 531,
