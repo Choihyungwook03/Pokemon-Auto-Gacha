@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 19,
-  "updatedAt": "2026-09-18T19:42:05.386Z",
+  "totalPulls": 20,
+  "updatedAt": "2026-09-18T21:55:09.764Z",
   "lastPull": {
-    "id": 882,
-    "name": "dracovish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "id": 259,
+    "name": "marshtomp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
     "types": [
       "water",
-      "dragon"
+      "ground"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-09-18T19:42:05.386Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-09-18T21:55:09.764Z"
   },
   "pulls": [
+    {
+      "id": 259,
+      "name": "marshtomp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-18T21:55:09.764Z"
+    },
     {
       "id": 882,
       "name": "dracovish",
@@ -117,18 +129,6 @@
       "totalStats": 236,
       "grade": "N",
       "pulledAt": "2026-09-17T15:04:31.258Z"
-    },
-    {
-      "id": 414,
-      "name": "mothim",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 424,
-      "grade": "R",
-      "pulledAt": "2026-09-17T10:15:24.986Z"
     }
   ],
   "pokemon": {
@@ -161,6 +161,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T22:03:23.979Z",
       "lastPulledAt": "2026-09-17T22:03:23.979Z"
+    },
+    "259": {
+      "id": 259,
+      "name": "marshtomp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-18T21:55:09.764Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T21:55:09.764Z",
+      "lastPulledAt": "2026-09-18T21:55:09.764Z"
     },
     "292": {
       "id": 292,
