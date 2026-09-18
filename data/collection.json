@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 16,
-  "updatedAt": "2026-09-18T09:22:44.710Z",
+  "totalPulls": 17,
+  "updatedAt": "2026-09-18T13:43:40.926Z",
   "lastPull": {
-    "id": 525,
-    "name": "boldore",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+    "id": 86,
+    "name": "seel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
     "types": [
-      "rock"
+      "water"
     ],
-    "totalStats": 390,
+    "totalStats": 325,
     "grade": "N",
-    "pulledAt": "2026-09-18T09:22:44.710Z"
+    "pulledAt": "2026-09-18T13:43:40.926Z"
   },
   "pulls": [
+    {
+      "id": 86,
+      "name": "seel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-18T13:43:40.926Z"
+    },
     {
       "id": 525,
       "name": "boldore",
@@ -117,17 +128,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-09-17T00:38:52.463Z"
-    },
-    {
-      "id": 427,
-      "name": "buneary",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-09-16T22:18:04.892Z"
     }
   ],
   "pokemon": {
@@ -141,10 +141,10 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-09-16T19:31:51.049Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:31:51.049Z",
-      "lastPulledAt": "2026-09-16T19:31:51.049Z"
+      "lastPulledAt": "2026-09-18T13:43:40.926Z"
     },
     "197": {
       "id": 197,
