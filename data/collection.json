@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 14,
-  "updatedAt": "2026-09-18T00:11:27.600Z",
+  "totalPulls": 15,
+  "updatedAt": "2026-09-18T04:50:59.046Z",
   "lastPull": {
-    "id": 777,
-    "name": "togedemaru",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+    "id": 536,
+    "name": "palpitoad",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
     "types": [
-      "electric",
-      "steel"
+      "water",
+      "ground"
     ],
-    "totalStats": 435,
-    "grade": "R",
-    "pulledAt": "2026-09-18T00:11:27.600Z"
+    "totalStats": 384,
+    "grade": "N",
+    "pulledAt": "2026-09-18T04:50:59.046Z"
   },
   "pulls": [
+    {
+      "id": 536,
+      "name": "palpitoad",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 384,
+      "grade": "N",
+      "pulledAt": "2026-09-18T04:50:59.046Z"
+    },
     {
       "id": 777,
       "name": "togedemaru",
@@ -117,17 +129,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-09-16T19:31:51.049Z"
-    },
-    {
-      "id": 865,
-      "name": "sirfetchd",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 507,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T16:06:04.624Z"
     }
   ],
   "pokemon": {
@@ -238,6 +239,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:12.574Z",
       "lastPulledAt": "2026-09-16T01:42:12.574Z"
+    },
+    "536": {
+      "id": 536,
+      "name": "palpitoad",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 384,
+      "grade": "N",
+      "pulledAt": "2026-09-18T04:50:59.046Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T04:50:59.046Z",
+      "lastPulledAt": "2026-09-18T04:50:59.046Z"
     },
     "612": {
       "id": 612,
