@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 13,
-  "updatedAt": "2026-09-17T22:03:23.979Z",
+  "totalPulls": 14,
+  "updatedAt": "2026-09-18T00:11:27.600Z",
   "lastPull": {
-    "id": 197,
-    "name": "umbreon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "id": 777,
+    "name": "togedemaru",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
     "types": [
-      "dark"
+      "electric",
+      "steel"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-09-17T22:03:23.979Z"
+    "totalStats": 435,
+    "grade": "R",
+    "pulledAt": "2026-09-18T00:11:27.600Z"
   },
   "pulls": [
+    {
+      "id": 777,
+      "name": "togedemaru",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-09-18T00:11:27.600Z"
+    },
     {
       "id": 197,
       "name": "umbreon",
@@ -115,18 +128,6 @@
       "totalStats": 507,
       "grade": "SR",
       "pulledAt": "2026-09-16T16:06:04.624Z"
-    },
-    {
-      "id": 795,
-      "name": "pheromosa",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
-      "types": [
-        "bug",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T11:54:37.954Z"
     }
   ],
   "pokemon": {
@@ -283,6 +284,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T18:59:10.382Z",
       "lastPulledAt": "2026-09-17T18:59:10.382Z"
+    },
+    "777": {
+      "id": 777,
+      "name": "togedemaru",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-09-18T00:11:27.600Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T00:11:27.600Z",
+      "lastPulledAt": "2026-09-18T00:11:27.600Z"
     },
     "795": {
       "id": 795,
