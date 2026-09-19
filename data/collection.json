@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 24,
-  "updatedAt": "2026-09-19T12:25:59.525Z",
+  "totalPulls": 25,
+  "updatedAt": "2026-09-19T15:59:48.884Z",
   "lastPull": {
-    "id": 561,
-    "name": "sigilyph",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+    "id": 392,
+    "name": "infernape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
     "types": [
-      "psychic",
-      "flying"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-19T12:25:59.525Z"
+    "totalStats": 534,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T15:59:48.884Z"
   },
   "pulls": [
+    {
+      "id": 392,
+      "name": "infernape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T15:59:48.884Z"
+    },
     {
       "id": 561,
       "name": "sigilyph",
@@ -118,18 +130,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-09-18T09:22:44.710Z"
-    },
-    {
-      "id": 536,
-      "name": "palpitoad",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 384,
-      "grade": "N",
-      "pulledAt": "2026-09-18T04:50:59.046Z"
     }
   ],
   "pokemon": {
@@ -210,6 +210,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:04:31.258Z",
       "lastPulledAt": "2026-09-17T15:04:31.258Z"
+    },
+    "392": {
+      "id": 392,
+      "name": "infernape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T15:59:48.884Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T15:59:48.884Z",
+      "lastPulledAt": "2026-09-19T15:59:48.884Z"
     },
     "414": {
       "id": 414,
