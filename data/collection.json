@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 27,
-  "updatedAt": "2026-09-19T20:58:31.192Z",
+  "totalPulls": 28,
+  "updatedAt": "2026-09-19T22:50:26.393Z",
   "lastPull": {
-    "id": 453,
-    "name": "croagunk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+    "id": 787,
+    "name": "tapu-bulu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
     "types": [
-      "poison",
-      "fighting"
+      "grass",
+      "fairy"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-19T20:58:31.192Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T22:50:26.393Z"
   },
   "pulls": [
+    {
+      "id": 787,
+      "name": "tapu-bulu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T22:50:26.393Z"
+    },
     {
       "id": 453,
       "name": "croagunk",
@@ -121,17 +133,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-18T19:42:05.386Z"
-    },
-    {
-      "id": 869,
-      "name": "alcremie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-18T17:15:53.211Z"
     }
   ],
   "pokemon": {
@@ -446,6 +447,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T00:11:27.600Z",
       "lastPulledAt": "2026-09-18T00:11:27.600Z"
+    },
+    "787": {
+      "id": 787,
+      "name": "tapu-bulu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T22:50:26.393Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T22:50:26.393Z",
+      "lastPulledAt": "2026-09-19T22:50:26.393Z"
     },
     "795": {
       "id": 795,
