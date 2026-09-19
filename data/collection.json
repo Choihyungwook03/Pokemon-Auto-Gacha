@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-19T03:03:53.994Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-19T07:58:48.809Z",
   "lastPull": {
-    "id": 139,
-    "name": "omastar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+    "id": 622,
+    "name": "golett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
     "types": [
-      "rock",
-      "water"
+      "ground",
+      "ghost"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-09-19T03:03:53.994Z"
+    "totalStats": 303,
+    "grade": "N",
+    "pulledAt": "2026-09-19T07:58:48.809Z"
   },
   "pulls": [
+    {
+      "id": 622,
+      "name": "golett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-09-19T07:58:48.809Z"
+    },
     {
       "id": 139,
       "name": "omastar",
@@ -118,17 +130,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-09-18T00:11:27.600Z"
-    },
-    {
-      "id": 197,
-      "name": "umbreon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T22:03:23.979Z"
     }
   ],
   "pokemon": {
@@ -332,6 +333,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:38:52.463Z",
       "lastPulledAt": "2026-09-17T00:38:52.463Z"
+    },
+    "622": {
+      "id": 622,
+      "name": "golett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-09-19T07:58:48.809Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T07:58:48.809Z",
+      "lastPulledAt": "2026-09-19T07:58:48.809Z"
     },
     "660": {
       "id": 660,
