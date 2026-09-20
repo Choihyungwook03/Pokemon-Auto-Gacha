@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 30,
-  "updatedAt": "2026-09-20T05:23:34.163Z",
+  "totalPulls": 31,
+  "updatedAt": "2026-09-20T09:56:55.800Z",
   "lastPull": {
-    "id": 915,
-    "name": "lechonk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
+    "id": 191,
+    "name": "sunkern",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 254,
+    "totalStats": 180,
     "grade": "N",
-    "pulledAt": "2026-09-20T05:23:34.163Z"
+    "pulledAt": "2026-09-20T09:56:55.800Z"
   },
   "pulls": [
+    {
+      "id": 191,
+      "name": "sunkern",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 180,
+      "grade": "N",
+      "pulledAt": "2026-09-20T09:56:55.800Z"
+    },
     {
       "id": 915,
       "name": "lechonk",
@@ -120,17 +131,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-19T03:03:53.994Z"
-    },
-    {
-      "id": 526,
-      "name": "gigalith",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T23:51:56.891Z"
     }
   ],
   "pokemon": {
@@ -164,6 +164,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T03:03:53.994Z",
       "lastPulledAt": "2026-09-19T03:03:53.994Z"
+    },
+    "191": {
+      "id": 191,
+      "name": "sunkern",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 180,
+      "grade": "N",
+      "pulledAt": "2026-09-20T09:56:55.800Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T09:56:55.800Z",
+      "lastPulledAt": "2026-09-20T09:56:55.800Z"
     },
     "197": {
       "id": 197,
