@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 34,
-  "updatedAt": "2026-09-20T19:38:06.359Z",
+  "totalPulls": 35,
+  "updatedAt": "2026-09-20T21:49:02.017Z",
   "lastPull": {
-    "id": 194,
-    "name": "wooper",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+    "id": 226,
+    "name": "mantine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
     "types": [
       "water",
-      "ground"
+      "flying"
     ],
-    "totalStats": 210,
-    "grade": "N",
-    "pulledAt": "2026-09-20T19:38:06.359Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-20T21:49:02.017Z"
   },
   "pulls": [
+    {
+      "id": 226,
+      "name": "mantine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-20T21:49:02.017Z"
+    },
     {
       "id": 194,
       "name": "wooper",
@@ -120,18 +132,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-19T18:33:16.323Z"
-    },
-    {
-      "id": 392,
-      "name": "infernape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T15:59:48.884Z"
     }
   ],
   "pokemon": {
@@ -227,6 +227,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T22:03:23.979Z",
       "lastPulledAt": "2026-09-17T22:03:23.979Z"
+    },
+    "226": {
+      "id": 226,
+      "name": "mantine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-20T21:49:02.017Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T21:49:02.017Z",
+      "lastPulledAt": "2026-09-20T21:49:02.017Z"
     },
     "259": {
       "id": 259,
