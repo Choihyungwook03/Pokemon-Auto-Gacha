@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 28,
-  "updatedAt": "2026-09-19T22:50:26.393Z",
+  "totalPulls": 29,
+  "updatedAt": "2026-09-20T00:37:21.427Z",
   "lastPull": {
-    "id": 787,
-    "name": "tapu-bulu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+    "id": 448,
+    "name": "lucario",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
     "types": [
-      "grass",
-      "fairy"
+      "fighting",
+      "steel"
     ],
-    "totalStats": 570,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-09-19T22:50:26.393Z"
+    "pulledAt": "2026-09-20T00:37:21.427Z"
   },
   "pulls": [
+    {
+      "id": 448,
+      "name": "lucario",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T00:37:21.427Z"
+    },
     {
       "id": 787,
       "name": "tapu-bulu",
@@ -121,18 +133,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-18T21:55:09.764Z"
-    },
-    {
-      "id": 882,
-      "name": "dracovish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
-      "types": [
-        "water",
-        "dragon"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T19:42:05.386Z"
     }
   ],
   "pokemon": {
@@ -260,6 +260,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:18:04.892Z",
       "lastPulledAt": "2026-09-16T22:18:04.892Z"
+    },
+    "448": {
+      "id": 448,
+      "name": "lucario",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T00:37:21.427Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T00:37:21.427Z",
+      "lastPulledAt": "2026-09-20T00:37:21.427Z"
     },
     "453": {
       "id": 453,
