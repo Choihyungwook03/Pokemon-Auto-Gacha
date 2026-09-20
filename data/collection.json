@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 31,
-  "updatedAt": "2026-09-20T09:56:55.800Z",
+  "totalPulls": 32,
+  "updatedAt": "2026-09-20T13:59:45.383Z",
   "lastPull": {
-    "id": 191,
-    "name": "sunkern",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+    "id": 42,
+    "name": "golbat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
     "types": [
-      "grass"
+      "poison",
+      "flying"
     ],
-    "totalStats": 180,
-    "grade": "N",
-    "pulledAt": "2026-09-20T09:56:55.800Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-09-20T13:59:45.383Z"
   },
   "pulls": [
+    {
+      "id": 42,
+      "name": "golbat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-20T13:59:45.383Z"
+    },
     {
       "id": 191,
       "name": "sunkern",
@@ -119,21 +132,25 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-09-19T07:58:48.809Z"
-    },
-    {
-      "id": 139,
-      "name": "omastar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
-      "types": [
-        "rock",
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-19T03:03:53.994Z"
     }
   ],
   "pokemon": {
+    "42": {
+      "id": 42,
+      "name": "golbat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-20T13:59:45.383Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T13:59:45.383Z",
+      "lastPulledAt": "2026-09-20T13:59:45.383Z"
+    },
     "86": {
       "id": 86,
       "name": "seel",
