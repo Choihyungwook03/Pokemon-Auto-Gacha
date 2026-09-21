@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 39,
-  "updatedAt": "2026-09-21T14:07:06.624Z",
+  "totalPulls": 40,
+  "updatedAt": "2026-09-21T19:22:53.922Z",
   "lastPull": {
-    "id": 698,
-    "name": "amaura",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
+    "id": 235,
+    "name": "smeargle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
     "types": [
-      "rock",
-      "ice"
+      "normal"
     ],
-    "totalStats": 362,
+    "totalStats": 250,
     "grade": "N",
-    "pulledAt": "2026-09-21T14:07:06.624Z"
+    "pulledAt": "2026-09-21T19:22:53.922Z"
   },
   "pulls": [
+    {
+      "id": 235,
+      "name": "smeargle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-21T19:22:53.922Z"
+    },
     {
       "id": 698,
       "name": "amaura",
@@ -118,17 +128,6 @@
       "totalStats": 180,
       "grade": "N",
       "pulledAt": "2026-09-20T09:56:55.800Z"
-    },
-    {
-      "id": 915,
-      "name": "lechonk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 254,
-      "grade": "N",
-      "pulledAt": "2026-09-20T05:23:34.163Z"
     }
   ],
   "pokemon": {
@@ -270,6 +269,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T21:49:02.017Z",
       "lastPulledAt": "2026-09-20T21:49:02.017Z"
+    },
+    "235": {
+      "id": 235,
+      "name": "smeargle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-21T19:22:53.922Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T19:22:53.922Z",
+      "lastPulledAt": "2026-09-21T19:22:53.922Z"
     },
     "259": {
       "id": 259,
