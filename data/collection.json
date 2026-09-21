@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 40,
-  "updatedAt": "2026-09-21T19:22:53.922Z",
+  "totalPulls": 41,
+  "updatedAt": "2026-09-21T22:42:33.908Z",
   "lastPull": {
-    "id": 235,
-    "name": "smeargle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+    "id": 653,
+    "name": "fennekin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
     "types": [
-      "normal"
+      "fire"
     ],
-    "totalStats": 250,
+    "totalStats": 307,
     "grade": "N",
-    "pulledAt": "2026-09-21T19:22:53.922Z"
+    "pulledAt": "2026-09-21T22:42:33.908Z"
   },
   "pulls": [
+    {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-09-21T22:42:33.908Z"
+    },
     {
       "id": 235,
       "name": "smeargle",
@@ -117,17 +128,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-20T13:59:45.383Z"
-    },
-    {
-      "id": 191,
-      "name": "sunkern",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 180,
-      "grade": "N",
-      "pulledAt": "2026-09-20T09:56:55.800Z"
     }
   ],
   "pokemon": {
@@ -535,6 +535,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T07:58:48.809Z",
       "lastPulledAt": "2026-09-19T07:58:48.809Z"
+    },
+    "653": {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-09-21T22:42:33.908Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T22:42:33.908Z",
+      "lastPulledAt": "2026-09-21T22:42:33.908Z"
     },
     "660": {
       "id": 660,
