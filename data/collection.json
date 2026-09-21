@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 37,
-  "updatedAt": "2026-09-21T01:38:31.312Z",
+  "totalPulls": 38,
+  "updatedAt": "2026-09-21T07:09:49.958Z",
   "lastPull": {
-    "id": 65,
-    "name": "alakazam",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "id": 909,
+    "name": "fuecoco",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
     "types": [
-      "psychic"
+      "fire"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-21T01:38:31.312Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-09-21T07:09:49.958Z"
   },
   "pulls": [
+    {
+      "id": 909,
+      "name": "fuecoco",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-21T07:09:49.958Z"
+    },
     {
       "id": 65,
       "name": "alakazam",
@@ -117,18 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-20T00:37:21.427Z"
-    },
-    {
-      "id": 787,
-      "name": "tapu-bulu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
-      "types": [
-        "grass",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T22:50:26.393Z"
     }
   ],
   "pokemon": {
@@ -678,6 +677,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:23:07.446Z",
       "lastPulledAt": "2026-09-17T05:23:07.446Z"
+    },
+    "909": {
+      "id": 909,
+      "name": "fuecoco",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-21T07:09:49.958Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T07:09:49.958Z",
+      "lastPulledAt": "2026-09-21T07:09:49.958Z"
     },
     "915": {
       "id": 915,
