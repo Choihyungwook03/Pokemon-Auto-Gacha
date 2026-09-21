@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 36,
-  "updatedAt": "2026-09-20T23:36:12.319Z",
+  "totalPulls": 37,
+  "updatedAt": "2026-09-21T01:38:31.312Z",
   "lastPull": {
-    "id": 200,
-    "name": "misdreavus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+    "id": 65,
+    "name": "alakazam",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
     "types": [
-      "ghost"
+      "psychic"
     ],
-    "totalStats": 435,
-    "grade": "R",
-    "pulledAt": "2026-09-20T23:36:12.319Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-21T01:38:31.312Z"
   },
   "pulls": [
+    {
+      "id": 65,
+      "name": "alakazam",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T01:38:31.312Z"
+    },
     {
       "id": 200,
       "name": "misdreavus",
@@ -118,18 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-19T22:50:26.393Z"
-    },
-    {
-      "id": 453,
-      "name": "croagunk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
-      "types": [
-        "poison",
-        "fighting"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-19T20:58:31.192Z"
     }
   ],
   "pokemon": {
@@ -148,6 +147,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T13:59:45.383Z",
       "lastPulledAt": "2026-09-20T13:59:45.383Z"
+    },
+    "65": {
+      "id": 65,
+      "name": "alakazam",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T01:38:31.312Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T01:38:31.312Z",
+      "lastPulledAt": "2026-09-21T01:38:31.312Z"
     },
     "86": {
       "id": 86,
