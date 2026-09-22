@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-22T16:14:55.568Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-22T19:46:01.005Z",
   "lastPull": {
-    "id": 15,
-    "name": "beedrill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "id": 702,
+    "name": "dedenne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
     "types": [
-      "bug",
-      "poison"
+      "electric",
+      "fairy"
     ],
-    "totalStats": 395,
-    "grade": "N",
-    "pulledAt": "2026-09-22T16:14:55.568Z"
+    "totalStats": 431,
+    "grade": "R",
+    "pulledAt": "2026-09-22T19:46:01.005Z"
   },
   "pulls": [
+    {
+      "id": 702,
+      "name": "dedenne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 431,
+      "grade": "R",
+      "pulledAt": "2026-09-22T19:46:01.005Z"
+    },
     {
       "id": 15,
       "name": "beedrill",
@@ -115,17 +127,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-21T01:38:31.312Z"
-    },
-    {
-      "id": 200,
-      "name": "misdreavus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 435,
-      "grade": "R",
-      "pulledAt": "2026-09-20T23:36:12.319Z"
     }
   ],
   "pokemon": {
@@ -626,6 +627,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T14:07:06.624Z",
       "lastPulledAt": "2026-09-21T14:07:06.624Z"
+    },
+    "702": {
+      "id": 702,
+      "name": "dedenne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 431,
+      "grade": "R",
+      "pulledAt": "2026-09-22T19:46:01.005Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T19:46:01.005Z",
+      "lastPulledAt": "2026-09-22T19:46:01.005Z"
     },
     "706": {
       "id": 706,
