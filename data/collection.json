@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 46,
-  "updatedAt": "2026-09-22T19:46:01.005Z",
+  "totalPulls": 47,
+  "updatedAt": "2026-09-22T22:26:20.807Z",
   "lastPull": {
-    "id": 702,
-    "name": "dedenne",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "id": 572,
+    "name": "minccino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
     "types": [
-      "electric",
-      "fairy"
+      "normal"
     ],
-    "totalStats": 431,
-    "grade": "R",
-    "pulledAt": "2026-09-22T19:46:01.005Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-09-22T22:26:20.807Z"
   },
   "pulls": [
+    {
+      "id": 572,
+      "name": "minccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-22T22:26:20.807Z"
+    },
     {
       "id": 702,
       "name": "dedenne",
@@ -116,17 +126,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-09-21T07:09:49.958Z"
-    },
-    {
-      "id": 65,
-      "name": "alakazam",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-21T01:38:31.312Z"
     }
   ],
   "pokemon": {
@@ -549,6 +548,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T12:25:59.525Z",
       "lastPulledAt": "2026-09-19T12:25:59.525Z"
+    },
+    "572": {
+      "id": 572,
+      "name": "minccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-22T22:26:20.807Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T22:26:20.807Z",
+      "lastPulledAt": "2026-09-22T22:26:20.807Z"
     },
     "612": {
       "id": 612,
