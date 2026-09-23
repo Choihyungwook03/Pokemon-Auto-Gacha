@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 48,
-  "updatedAt": "2026-09-23T00:50:31.144Z",
+  "totalPulls": 49,
+  "updatedAt": "2026-09-23T05:28:44.654Z",
   "lastPull": {
-    "id": 756,
-    "name": "shiinotic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png",
+    "id": 214,
+    "name": "heracross",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
     "types": [
-      "grass",
-      "fairy"
+      "bug",
+      "fighting"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-23T00:50:31.144Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-23T05:28:44.654Z"
   },
   "pulls": [
+    {
+      "id": 214,
+      "name": "heracross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T05:28:44.654Z"
+    },
     {
       "id": 756,
       "name": "shiinotic",
@@ -116,18 +128,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-09-21T19:22:53.922Z"
-    },
-    {
-      "id": 698,
-      "name": "amaura",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
-      "types": [
-        "rock",
-        "ice"
-      ],
-      "totalStats": 362,
-      "grade": "N",
-      "pulledAt": "2026-09-21T14:07:06.624Z"
     }
   ],
   "pokemon": {
@@ -284,6 +284,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T23:36:12.319Z",
       "lastPulledAt": "2026-09-20T23:36:12.319Z"
+    },
+    "214": {
+      "id": 214,
+      "name": "heracross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T05:28:44.654Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T05:28:44.654Z",
+      "lastPulledAt": "2026-09-23T05:28:44.654Z"
     },
     "226": {
       "id": 226,
