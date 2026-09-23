@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 52,
-  "updatedAt": "2026-09-23T19:00:53.790Z",
+  "totalPulls": 53,
+  "updatedAt": "2026-09-23T22:14:35.515Z",
   "lastPull": {
-    "id": 836,
-    "name": "boltund",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+    "id": 578,
+    "name": "duosion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
     "types": [
-      "electric"
+      "psychic"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-23T19:00:53.790Z"
+    "totalStats": 370,
+    "grade": "N",
+    "pulledAt": "2026-09-23T22:14:35.515Z"
   },
   "pulls": [
+    {
+      "id": 578,
+      "name": "duosion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-09-23T22:14:35.515Z"
+    },
     {
       "id": 836,
       "name": "boltund",
@@ -118,17 +129,6 @@
       "totalStats": 446,
       "grade": "R",
       "pulledAt": "2026-09-22T11:51:39.716Z"
-    },
-    {
-      "id": 119,
-      "name": "seaking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-09-22T06:19:21.346Z"
     }
   ],
   "pokemon": {
@@ -614,6 +614,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T22:26:20.807Z",
       "lastPulledAt": "2026-09-22T22:26:20.807Z"
+    },
+    "578": {
+      "id": 578,
+      "name": "duosion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-09-23T22:14:35.515Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T22:14:35.515Z",
+      "lastPulledAt": "2026-09-23T22:14:35.515Z"
     },
     "612": {
       "id": 612,
