@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 51,
-  "updatedAt": "2026-09-23T15:04:48.619Z",
+  "totalPulls": 52,
+  "updatedAt": "2026-09-23T19:00:53.790Z",
   "lastPull": {
-    "id": 461,
-    "name": "weavile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "id": 836,
+    "name": "boltund",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
     "types": [
-      "dark",
-      "ice"
+      "electric"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-09-23T15:04:48.619Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-09-23T19:00:53.790Z"
   },
   "pulls": [
+    {
+      "id": 836,
+      "name": "boltund",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-23T19:00:53.790Z"
+    },
     {
       "id": 461,
       "name": "weavile",
@@ -119,17 +129,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-22T06:19:21.346Z"
-    },
-    {
-      "id": 829,
-      "name": "gossifleur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-09-22T01:14:35.943Z"
     }
   ],
   "pokemon": {
@@ -819,6 +818,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T18:33:16.323Z",
       "lastPulledAt": "2026-09-19T18:33:16.323Z"
+    },
+    "836": {
+      "id": 836,
+      "name": "boltund",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-23T19:00:53.790Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T19:00:53.790Z",
+      "lastPulledAt": "2026-09-23T19:00:53.790Z"
     },
     "865": {
       "id": 865,
