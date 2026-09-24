@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 54,
-  "updatedAt": "2026-09-24T00:32:40.835Z",
+  "totalPulls": 55,
+  "updatedAt": "2026-09-24T05:20:07.120Z",
   "lastPull": {
-    "id": 62,
-    "name": "poliwrath",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "id": 813,
+    "name": "scorbunny",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
     "types": [
-      "water",
-      "fighting"
+      "fire"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-09-24T00:32:40.835Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-09-24T05:20:07.120Z"
   },
   "pulls": [
+    {
+      "id": 813,
+      "name": "scorbunny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-24T05:20:07.120Z"
+    },
     {
       "id": 62,
       "name": "poliwrath",
@@ -119,18 +129,6 @@
       "totalStats": 431,
       "grade": "R",
       "pulledAt": "2026-09-22T19:46:01.005Z"
-    },
-    {
-      "id": 15,
-      "name": "beedrill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-09-22T16:14:55.568Z"
     }
   ],
   "pokemon": {
@@ -820,6 +818,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:54:37.954Z",
       "lastPulledAt": "2026-09-16T11:54:37.954Z"
+    },
+    "813": {
+      "id": 813,
+      "name": "scorbunny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-24T05:20:07.120Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T05:20:07.120Z",
+      "lastPulledAt": "2026-09-24T05:20:07.120Z"
     },
     "829": {
       "id": 829,
