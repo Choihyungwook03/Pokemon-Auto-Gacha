@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 58,
-  "updatedAt": "2026-09-24T19:15:00.981Z",
+  "totalPulls": 59,
+  "updatedAt": "2026-09-24T22:28:22.687Z",
   "lastPull": {
-    "id": 165,
-    "name": "ledyba",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+    "id": 503,
+    "name": "samurott",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
     "types": [
-      "bug",
-      "flying"
+      "water"
     ],
-    "totalStats": 265,
-    "grade": "N",
-    "pulledAt": "2026-09-24T19:15:00.981Z"
+    "totalStats": 528,
+    "grade": "SR",
+    "pulledAt": "2026-09-24T22:28:22.687Z"
   },
   "pulls": [
+    {
+      "id": 503,
+      "name": "samurott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T22:28:22.687Z"
+    },
     {
       "id": 165,
       "name": "ledyba",
@@ -118,18 +128,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-23T10:14:14.157Z"
-    },
-    {
-      "id": 214,
-      "name": "heracross",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
-      "types": [
-        "bug",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T05:28:44.654Z"
     }
   ],
   "pokemon": {
@@ -540,6 +538,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:24:02.572Z",
       "lastPulledAt": "2026-09-16T06:24:02.572Z"
+    },
+    "503": {
+      "id": 503,
+      "name": "samurott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T22:28:22.687Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T22:28:22.687Z",
+      "lastPulledAt": "2026-09-24T22:28:22.687Z"
     },
     "510": {
       "id": 510,
