@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 61,
-  "updatedAt": "2026-09-25T05:27:21.988Z",
+  "totalPulls": 62,
+  "updatedAt": "2026-09-25T10:26:28.517Z",
   "lastPull": {
-    "id": 141,
-    "name": "kabutops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "id": 230,
+    "name": "kingdra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
     "types": [
-      "rock",
-      "water"
+      "water",
+      "dragon"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-09-25T05:27:21.988Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-09-25T10:26:28.517Z"
   },
   "pulls": [
+    {
+      "id": 230,
+      "name": "kingdra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T10:26:28.517Z"
+    },
     {
       "id": 141,
       "name": "kabutops",
@@ -117,17 +129,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-09-23T22:14:35.515Z"
-    },
-    {
-      "id": 836,
-      "name": "boltund",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-23T19:00:53.790Z"
     }
   ],
   "pokemon": {
@@ -379,6 +380,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T21:49:02.017Z",
       "lastPulledAt": "2026-09-20T21:49:02.017Z"
+    },
+    "230": {
+      "id": 230,
+      "name": "kingdra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T10:26:28.517Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T10:26:28.517Z",
+      "lastPulledAt": "2026-09-25T10:26:28.517Z"
     },
     "235": {
       "id": 235,
