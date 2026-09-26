@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 65,
-  "updatedAt": "2026-09-25T22:39:56.349Z",
+  "totalPulls": 66,
+  "updatedAt": "2026-09-26T00:53:39.293Z",
   "lastPull": {
-    "id": 49,
-    "name": "venomoth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+    "id": 500,
+    "name": "emboar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
     "types": [
-      "bug",
-      "poison"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-09-25T22:39:56.349Z"
+    "totalStats": 528,
+    "grade": "SR",
+    "pulledAt": "2026-09-26T00:53:39.293Z"
   },
   "pulls": [
+    {
+      "id": 500,
+      "name": "emboar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T00:53:39.293Z"
+    },
     {
       "id": 49,
       "name": "venomoth",
@@ -119,17 +131,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-24T15:12:26.611Z"
-    },
-    {
-      "id": 626,
-      "name": "bouffalant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-24T10:13:18.624Z"
     }
   ],
   "pokemon": {
@@ -603,6 +604,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:24:02.572Z",
       "lastPulledAt": "2026-09-16T06:24:02.572Z"
+    },
+    "500": {
+      "id": 500,
+      "name": "emboar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T00:53:39.293Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T00:53:39.293Z",
+      "lastPulledAt": "2026-09-26T00:53:39.293Z"
     },
     "503": {
       "id": 503,
