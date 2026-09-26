@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 70,
-  "updatedAt": "2026-09-26T17:59:40.810Z",
+  "totalPulls": 71,
+  "updatedAt": "2026-09-26T21:00:28.891Z",
   "lastPull": {
-    "id": 466,
-    "name": "electivire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "id": 759,
+    "name": "stufful",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
     "types": [
-      "electric"
+      "normal",
+      "fighting"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-09-26T17:59:40.810Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-09-26T21:00:28.891Z"
   },
   "pulls": [
+    {
+      "id": 759,
+      "name": "stufful",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-26T21:00:28.891Z"
+    },
     {
       "id": 466,
       "name": "electivire",
@@ -118,18 +131,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-09-25T10:26:28.517Z"
-    },
-    {
-      "id": 141,
-      "name": "kabutops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
-      "types": [
-        "rock",
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-25T05:27:21.988Z"
     }
   ],
   "pokemon": {
@@ -974,6 +975,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T00:50:31.144Z",
       "lastPulledAt": "2026-09-23T00:50:31.144Z"
+    },
+    "759": {
+      "id": 759,
+      "name": "stufful",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-26T21:00:28.891Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T21:00:28.891Z",
+      "lastPulledAt": "2026-09-26T21:00:28.891Z"
     },
     "777": {
       "id": 777,
