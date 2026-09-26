@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 67,
-  "updatedAt": "2026-09-26T05:49:59.893Z",
+  "totalPulls": 68,
+  "updatedAt": "2026-09-26T10:19:39.543Z",
   "lastPull": {
-    "id": 269,
-    "name": "dustox",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+    "id": 310,
+    "name": "manectric",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
     "types": [
-      "bug",
-      "poison"
+      "electric"
     ],
-    "totalStats": 385,
-    "grade": "N",
-    "pulledAt": "2026-09-26T05:49:59.893Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-09-26T10:19:39.543Z"
   },
   "pulls": [
+    {
+      "id": 310,
+      "name": "manectric",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-26T10:19:39.543Z"
+    },
     {
       "id": 269,
       "name": "dustox",
@@ -119,18 +129,6 @@
       "totalStats": 528,
       "grade": "SR",
       "pulledAt": "2026-09-24T22:28:22.687Z"
-    },
-    {
-      "id": 165,
-      "name": "ledyba",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 265,
-      "grade": "N",
-      "pulledAt": "2026-09-24T19:15:00.981Z"
     }
   ],
   "pokemon": {
@@ -493,6 +491,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:04:31.258Z",
       "lastPulledAt": "2026-09-17T15:04:31.258Z"
+    },
+    "310": {
+      "id": 310,
+      "name": "manectric",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-26T10:19:39.543Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T10:19:39.543Z",
+      "lastPulledAt": "2026-09-26T10:19:39.543Z"
     },
     "392": {
       "id": 392,
