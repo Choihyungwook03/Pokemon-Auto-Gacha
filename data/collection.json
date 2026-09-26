@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 68,
-  "updatedAt": "2026-09-26T10:19:39.543Z",
+  "totalPulls": 69,
+  "updatedAt": "2026-09-26T14:35:12.071Z",
   "lastPull": {
-    "id": 310,
-    "name": "manectric",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+    "id": 374,
+    "name": "beldum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
     "types": [
-      "electric"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-09-26T10:19:39.543Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-09-26T14:35:12.071Z"
   },
   "pulls": [
+    {
+      "id": 374,
+      "name": "beldum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-26T14:35:12.071Z"
+    },
     {
       "id": 310,
       "name": "manectric",
@@ -118,17 +131,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-25T00:43:14.805Z"
-    },
-    {
-      "id": 503,
-      "name": "samurott",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 528,
-      "grade": "SR",
-      "pulledAt": "2026-09-24T22:28:22.687Z"
     }
   ],
   "pokemon": {
@@ -506,6 +508,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T10:19:39.543Z",
       "lastPulledAt": "2026-09-26T10:19:39.543Z"
+    },
+    "374": {
+      "id": 374,
+      "name": "beldum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-26T14:35:12.071Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T14:35:12.071Z",
+      "lastPulledAt": "2026-09-26T14:35:12.071Z"
     },
     "392": {
       "id": 392,
