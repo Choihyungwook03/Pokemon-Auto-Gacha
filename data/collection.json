@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 72,
-  "updatedAt": "2026-09-26T23:33:42.554Z",
+  "totalPulls": 73,
+  "updatedAt": "2026-09-27T01:45:26.212Z",
   "lastPull": {
-    "id": 246,
-    "name": "larvitar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "id": 971,
+    "name": "greavard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
     "types": [
-      "rock",
-      "ground"
+      "ghost"
     ],
-    "totalStats": 300,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-09-26T23:33:42.554Z"
+    "pulledAt": "2026-09-27T01:45:26.212Z"
   },
   "pulls": [
+    {
+      "id": 971,
+      "name": "greavard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-27T01:45:26.212Z"
+    },
     {
       "id": 246,
       "name": "larvitar",
@@ -120,17 +130,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-25T19:26:18.762Z"
-    },
-    {
-      "id": 939,
-      "name": "bellibolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-25T15:26:23.926Z"
     }
   ],
   "pokemon": {
@@ -1223,6 +1222,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T15:26:23.926Z",
       "lastPulledAt": "2026-09-25T15:26:23.926Z"
+    },
+    "971": {
+      "id": 971,
+      "name": "greavard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-27T01:45:26.212Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T01:45:26.212Z",
+      "lastPulledAt": "2026-09-27T01:45:26.212Z"
     },
     "973": {
       "id": 973,
