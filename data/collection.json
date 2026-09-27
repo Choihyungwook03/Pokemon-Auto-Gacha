@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 73,
-  "updatedAt": "2026-09-27T01:45:26.212Z",
+  "totalPulls": 74,
+  "updatedAt": "2026-09-27T07:08:57.211Z",
   "lastPull": {
-    "id": 971,
-    "name": "greavard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+    "id": 3,
+    "name": "venusaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
     "types": [
-      "ghost"
+      "grass",
+      "poison"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-09-27T01:45:26.212Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-09-27T07:08:57.211Z"
   },
   "pulls": [
+    {
+      "id": 3,
+      "name": "venusaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T07:08:57.211Z"
+    },
     {
       "id": 971,
       "name": "greavard",
@@ -118,21 +131,25 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-25T22:39:56.349Z"
-    },
-    {
-      "id": 647,
-      "name": "keldeo-ordinary",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-25T19:26:18.762Z"
     }
   ],
   "pokemon": {
+    "3": {
+      "id": 3,
+      "name": "venusaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T07:08:57.211Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T07:08:57.211Z",
+      "lastPulledAt": "2026-09-27T07:08:57.211Z"
+    },
     "15": {
       "id": 15,
       "name": "beedrill",
