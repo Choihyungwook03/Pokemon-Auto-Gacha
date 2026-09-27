@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 76,
-  "updatedAt": "2026-09-27T17:39:46.989Z",
+  "totalPulls": 77,
+  "updatedAt": "2026-09-27T20:23:47.760Z",
   "lastPull": {
-    "id": 53,
-    "name": "persian",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "id": 171,
+    "name": "lanturn",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
     "types": [
-      "normal"
+      "water",
+      "electric"
     ],
-    "totalStats": 440,
+    "totalStats": 460,
     "grade": "R",
-    "pulledAt": "2026-09-27T17:39:46.989Z"
+    "pulledAt": "2026-09-27T20:23:47.760Z"
   },
   "pulls": [
+    {
+      "id": 171,
+      "name": "lanturn",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-27T20:23:47.760Z"
+    },
     {
       "id": 53,
       "name": "persian",
@@ -116,18 +129,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-09-26T10:19:39.543Z"
-    },
-    {
-      "id": 269,
-      "name": "dustox",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 385,
-      "grade": "N",
-      "pulledAt": "2026-09-26T05:49:59.893Z"
     }
   ],
   "pokemon": {
@@ -333,6 +334,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T19:15:00.981Z",
       "lastPulledAt": "2026-09-24T19:15:00.981Z"
+    },
+    "171": {
+      "id": 171,
+      "name": "lanturn",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-27T20:23:47.760Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T20:23:47.760Z",
+      "lastPulledAt": "2026-09-27T20:23:47.760Z"
     },
     "191": {
       "id": 191,
