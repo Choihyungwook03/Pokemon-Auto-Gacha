@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 80,
-  "updatedAt": "2026-09-28T07:43:12.548Z",
+  "totalPulls": 81,
+  "updatedAt": "2026-09-28T16:02:49.690Z",
   "lastPull": {
-    "id": 74,
-    "name": "geodude",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "id": 378,
+    "name": "regice",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
     "types": [
-      "rock",
-      "ground"
+      "ice"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-28T07:43:12.548Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-09-28T16:02:49.690Z"
   },
   "pulls": [
+    {
+      "id": 378,
+      "name": "regice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T16:02:49.690Z"
+    },
     {
       "id": 74,
       "name": "geodude",
@@ -118,18 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-26T23:33:42.554Z"
-    },
-    {
-      "id": 759,
-      "name": "stufful",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
-      "types": [
-        "normal",
-        "fighting"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-09-26T21:00:28.891Z"
     }
   ],
   "pokemon": {
@@ -617,6 +615,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T14:35:12.071Z",
       "lastPulledAt": "2026-09-26T14:35:12.071Z"
+    },
+    "378": {
+      "id": 378,
+      "name": "regice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T16:02:49.690Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T16:02:49.690Z",
+      "lastPulledAt": "2026-09-28T16:02:49.690Z"
     },
     "392": {
       "id": 392,
