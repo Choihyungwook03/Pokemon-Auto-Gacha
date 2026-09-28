@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 81,
-  "updatedAt": "2026-09-28T16:02:49.690Z",
+  "totalPulls": 82,
+  "updatedAt": "2026-09-28T21:54:59.590Z",
   "lastPull": {
-    "id": 378,
-    "name": "regice",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+    "id": 839,
+    "name": "coalossal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
     "types": [
-      "ice"
+      "rock",
+      "fire"
     ],
-    "totalStats": 580,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-09-28T16:02:49.690Z"
+    "pulledAt": "2026-09-28T21:54:59.590Z"
   },
   "pulls": [
+    {
+      "id": 839,
+      "name": "coalossal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+      "types": [
+        "rock",
+        "fire"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T21:54:59.590Z"
+    },
     {
       "id": 378,
       "name": "regice",
@@ -116,18 +129,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-27T01:45:26.212Z"
-    },
-    {
-      "id": 246,
-      "name": "larvitar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-26T23:33:42.554Z"
     }
   ],
   "pokemon": {
@@ -1237,6 +1238,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T19:00:53.790Z",
       "lastPulledAt": "2026-09-23T19:00:53.790Z"
+    },
+    "839": {
+      "id": 839,
+      "name": "coalossal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+      "types": [
+        "rock",
+        "fire"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T21:54:59.590Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T21:54:59.590Z",
+      "lastPulledAt": "2026-09-28T21:54:59.590Z"
     },
     "865": {
       "id": 865,
