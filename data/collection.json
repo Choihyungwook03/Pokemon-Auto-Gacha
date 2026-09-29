@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 83,
-  "updatedAt": "2026-09-29T01:27:28.287Z",
+  "totalPulls": 84,
+  "updatedAt": "2026-09-29T07:21:27.151Z",
   "lastPull": {
-    "id": 485,
-    "name": "heatran",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+    "id": 159,
+    "name": "croconaw",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
     "types": [
-      "fire",
-      "steel"
+      "water"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-29T01:27:28.287Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-09-29T07:21:27.151Z"
   },
   "pulls": [
+    {
+      "id": 159,
+      "name": "croconaw",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-29T07:21:27.151Z"
+    },
     {
       "id": 485,
       "name": "heatran",
@@ -118,18 +128,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-27T13:00:22.749Z"
-    },
-    {
-      "id": 3,
-      "name": "venusaur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T07:08:57.211Z"
     }
   ],
   "pokemon": {
@@ -331,10 +329,10 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-25T00:43:14.805Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T00:43:14.805Z",
-      "lastPulledAt": "2026-09-25T00:43:14.805Z"
+      "lastPulledAt": "2026-09-29T07:21:27.151Z"
     },
     "165": {
       "id": 165,
