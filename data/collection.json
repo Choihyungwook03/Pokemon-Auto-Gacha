@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 85,
-  "updatedAt": "2026-09-29T14:13:17.877Z",
+  "totalPulls": 86,
+  "updatedAt": "2026-09-29T19:27:07.585Z",
   "lastPull": {
-    "id": 438,
-    "name": "bonsly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+    "id": 835,
+    "name": "yamper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
     "types": [
-      "rock"
+      "electric"
     ],
-    "totalStats": 290,
+    "totalStats": 270,
     "grade": "N",
-    "pulledAt": "2026-09-29T14:13:17.877Z"
+    "pulledAt": "2026-09-29T19:27:07.585Z"
   },
   "pulls": [
+    {
+      "id": 835,
+      "name": "yamper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-29T19:27:07.585Z"
+    },
     {
       "id": 438,
       "name": "bonsly",
@@ -117,17 +128,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-09-27T20:23:47.760Z"
-    },
-    {
-      "id": 53,
-      "name": "persian",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-09-27T17:39:46.989Z"
     }
   ],
   "pokemon": {
@@ -1253,6 +1253,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T18:33:16.323Z",
       "lastPulledAt": "2026-09-19T18:33:16.323Z"
+    },
+    "835": {
+      "id": 835,
+      "name": "yamper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-29T19:27:07.585Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T19:27:07.585Z",
+      "lastPulledAt": "2026-09-29T19:27:07.585Z"
     },
     "836": {
       "id": 836,
