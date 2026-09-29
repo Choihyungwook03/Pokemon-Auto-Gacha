@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 86,
-  "updatedAt": "2026-09-29T19:27:07.585Z",
+  "totalPulls": 87,
+  "updatedAt": "2026-09-29T23:06:41.989Z",
   "lastPull": {
-    "id": 835,
-    "name": "yamper",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+    "id": 542,
+    "name": "leavanny",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
     "types": [
-      "electric"
+      "bug",
+      "grass"
     ],
-    "totalStats": 270,
-    "grade": "N",
-    "pulledAt": "2026-09-29T19:27:07.585Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-29T23:06:41.989Z"
   },
   "pulls": [
+    {
+      "id": 542,
+      "name": "leavanny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T23:06:41.989Z"
+    },
     {
       "id": 835,
       "name": "yamper",
@@ -116,18 +129,6 @@
       "totalStats": 428,
       "grade": "R",
       "pulledAt": "2026-09-27T23:13:58.960Z"
-    },
-    {
-      "id": 171,
-      "name": "lanturn",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
-      "types": [
-        "water",
-        "electric"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-27T20:23:47.760Z"
     }
   ],
   "pokemon": {
@@ -910,6 +911,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:50:59.046Z",
       "lastPulledAt": "2026-09-18T04:50:59.046Z"
+    },
+    "542": {
+      "id": 542,
+      "name": "leavanny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T23:06:41.989Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T23:06:41.989Z",
+      "lastPulledAt": "2026-09-29T23:06:41.989Z"
     },
     "561": {
       "id": 561,
