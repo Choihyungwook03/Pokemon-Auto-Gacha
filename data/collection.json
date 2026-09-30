@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 91,
-  "updatedAt": "2026-09-30T19:58:30.011Z",
+  "totalPulls": 92,
+  "updatedAt": "2026-09-30T23:37:00.311Z",
   "lastPull": {
-    "id": 147,
-    "name": "dratini",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "id": 574,
+    "name": "gothita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
     "types": [
-      "dragon"
+      "psychic"
     ],
-    "totalStats": 300,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-09-30T19:58:30.011Z"
+    "pulledAt": "2026-09-30T23:37:00.311Z"
   },
   "pulls": [
+    {
+      "id": 574,
+      "name": "gothita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-30T23:37:00.311Z"
+    },
     {
       "id": 147,
       "name": "dratini",
@@ -115,18 +126,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-29T01:27:28.287Z"
-    },
-    {
-      "id": 839,
-      "name": "coalossal",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
-      "types": [
-        "rock",
-        "fire"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T21:54:59.590Z"
     }
   ],
   "pokemon": {
@@ -1017,6 +1016,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T22:26:20.807Z",
       "lastPulledAt": "2026-09-22T22:26:20.807Z"
+    },
+    "574": {
+      "id": 574,
+      "name": "gothita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-30T23:37:00.311Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T23:37:00.311Z",
+      "lastPulledAt": "2026-09-30T23:37:00.311Z"
     },
     "578": {
       "id": 578,
