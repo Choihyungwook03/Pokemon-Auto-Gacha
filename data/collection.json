@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 89,
-  "updatedAt": "2026-09-30T08:25:47.971Z",
+  "totalPulls": 90,
+  "updatedAt": "2026-09-30T15:06:23.570Z",
   "lastPull": {
-    "id": 239,
-    "name": "elekid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "id": 265,
+    "name": "wurmple",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
     "types": [
-      "electric"
+      "bug"
     ],
-    "totalStats": 360,
+    "totalStats": 195,
     "grade": "N",
-    "pulledAt": "2026-09-30T08:25:47.971Z"
+    "pulledAt": "2026-09-30T15:06:23.570Z"
   },
   "pulls": [
+    {
+      "id": 265,
+      "name": "wurmple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-09-30T15:06:23.570Z"
+    },
     {
       "id": 239,
       "name": "elekid",
@@ -116,18 +127,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-28T16:02:49.690Z"
-    },
-    {
-      "id": 74,
-      "name": "geodude",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-28T07:43:12.548Z"
     }
   ],
   "pokemon": {
@@ -568,6 +567,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T21:55:09.764Z",
       "lastPulledAt": "2026-09-18T21:55:09.764Z"
+    },
+    "265": {
+      "id": 265,
+      "name": "wurmple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-09-30T15:06:23.570Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T15:06:23.570Z",
+      "lastPulledAt": "2026-09-30T15:06:23.570Z"
     },
     "269": {
       "id": 269,
