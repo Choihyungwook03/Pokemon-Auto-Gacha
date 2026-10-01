@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 95,
-  "updatedAt": "2026-10-01T16:30:11.766Z",
+  "totalPulls": 96,
+  "updatedAt": "2026-10-01T21:15:48.561Z",
   "lastPull": {
-    "id": 95,
-    "name": "onix",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "id": 172,
+    "name": "pichu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
     "types": [
-      "rock",
-      "ground"
+      "electric"
     ],
-    "totalStats": 385,
+    "totalStats": 205,
     "grade": "N",
-    "pulledAt": "2026-10-01T16:30:11.766Z"
+    "pulledAt": "2026-10-01T21:15:48.561Z"
   },
   "pulls": [
+    {
+      "id": 172,
+      "name": "pichu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-10-01T21:15:48.561Z"
+    },
     {
       "id": 95,
       "name": "onix",
@@ -118,17 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-29T23:06:41.989Z"
-    },
-    {
-      "id": 835,
-      "name": "yamper",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-09-29T19:27:07.585Z"
     }
   ],
   "pokemon": {
@@ -429,6 +428,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T20:23:47.760Z",
       "lastPulledAt": "2026-09-27T20:23:47.760Z"
+    },
+    "172": {
+      "id": 172,
+      "name": "pichu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-10-01T21:15:48.561Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T21:15:48.561Z",
+      "lastPulledAt": "2026-10-01T21:15:48.561Z"
     },
     "191": {
       "id": 191,
