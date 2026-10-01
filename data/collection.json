@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 94,
-  "updatedAt": "2026-10-01T09:14:57.046Z",
+  "totalPulls": 95,
+  "updatedAt": "2026-10-01T16:30:11.766Z",
   "lastPull": {
-    "id": 79,
-    "name": "slowpoke",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "id": 95,
+    "name": "onix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
     "types": [
-      "water",
-      "psychic"
+      "rock",
+      "ground"
     ],
-    "totalStats": 315,
+    "totalStats": 385,
     "grade": "N",
-    "pulledAt": "2026-10-01T09:14:57.046Z"
+    "pulledAt": "2026-10-01T16:30:11.766Z"
   },
   "pulls": [
+    {
+      "id": 95,
+      "name": "onix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-01T16:30:11.766Z"
+    },
     {
       "id": 79,
       "name": "slowpoke",
@@ -117,17 +129,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-09-29T19:27:07.585Z"
-    },
-    {
-      "id": 438,
-      "name": "bonsly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-09-29T14:13:17.877Z"
     }
   ],
   "pokemon": {
@@ -303,6 +304,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:31:51.049Z",
       "lastPulledAt": "2026-09-18T13:43:40.926Z"
+    },
+    "95": {
+      "id": 95,
+      "name": "onix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-01T16:30:11.766Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T16:30:11.766Z",
+      "lastPulledAt": "2026-10-01T16:30:11.766Z"
     },
     "119": {
       "id": 119,
