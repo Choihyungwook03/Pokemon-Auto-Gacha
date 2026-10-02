@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 100,
-  "updatedAt": "2026-10-02T18:29:27.019Z",
+  "totalPulls": 101,
+  "updatedAt": "2026-10-02T22:29:08.621Z",
   "lastPull": {
-    "id": 204,
-    "name": "pineco",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+    "id": 533,
+    "name": "gurdurr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
     "types": [
-      "bug"
+      "fighting"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-10-02T18:29:27.019Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-02T22:29:08.621Z"
   },
   "pulls": [
+    {
+      "id": 533,
+      "name": "gurdurr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-02T22:29:08.621Z"
+    },
     {
       "id": 204,
       "name": "pineco",
@@ -117,17 +128,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-30T23:37:00.311Z"
-    },
-    {
-      "id": 147,
-      "name": "dratini",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-30T19:58:30.011Z"
     }
   ],
   "pokemon": {
@@ -1033,6 +1033,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:12.574Z",
       "lastPulledAt": "2026-09-16T01:42:12.574Z"
+    },
+    "533": {
+      "id": 533,
+      "name": "gurdurr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-02T22:29:08.621Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T22:29:08.621Z",
+      "lastPulledAt": "2026-10-02T22:29:08.621Z"
     },
     "536": {
       "id": 536,
