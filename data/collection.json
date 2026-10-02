@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 98,
-  "updatedAt": "2026-10-02T06:39:55.754Z",
+  "totalPulls": 99,
+  "updatedAt": "2026-10-02T13:11:35.371Z",
   "lastPull": {
-    "id": 777,
-    "name": "togedemaru",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+    "id": 76,
+    "name": "golem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
     "types": [
-      "electric",
-      "steel"
+      "rock",
+      "ground"
     ],
-    "totalStats": 435,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-10-02T06:39:55.754Z"
+    "pulledAt": "2026-10-02T13:11:35.371Z"
   },
   "pulls": [
+    {
+      "id": 76,
+      "name": "golem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-02T13:11:35.371Z"
+    },
     {
       "id": 777,
       "name": "togedemaru",
@@ -117,17 +129,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-09-30T15:06:23.570Z"
-    },
-    {
-      "id": 239,
-      "name": "elekid",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-09-30T08:25:47.971Z"
     }
   ],
   "pokemon": {
@@ -272,6 +273,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T07:43:12.548Z",
       "lastPulledAt": "2026-09-28T07:43:12.548Z"
+    },
+    "76": {
+      "id": 76,
+      "name": "golem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-02T13:11:35.371Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T13:11:35.371Z",
+      "lastPulledAt": "2026-10-02T13:11:35.371Z"
     },
     "79": {
       "id": 79,
