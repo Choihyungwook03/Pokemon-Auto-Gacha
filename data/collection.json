@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 99,
-  "updatedAt": "2026-10-02T13:11:35.371Z",
+  "totalPulls": 100,
+  "updatedAt": "2026-10-02T18:29:27.019Z",
   "lastPull": {
-    "id": 76,
-    "name": "golem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "id": 204,
+    "name": "pineco",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
     "types": [
-      "rock",
-      "ground"
+      "bug"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-02T13:11:35.371Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-10-02T18:29:27.019Z"
   },
   "pulls": [
+    {
+      "id": 204,
+      "name": "pineco",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-02T18:29:27.019Z"
+    },
     {
       "id": 76,
       "name": "golem",
@@ -118,17 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-30T19:58:30.011Z"
-    },
-    {
-      "id": 265,
-      "name": "wurmple",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 195,
-      "grade": "N",
-      "pulledAt": "2026-09-30T15:06:23.570Z"
     }
   ],
   "pokemon": {
@@ -521,6 +520,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T23:36:12.319Z",
       "lastPulledAt": "2026-09-20T23:36:12.319Z"
+    },
+    "204": {
+      "id": 204,
+      "name": "pineco",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-02T18:29:27.019Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T18:29:27.019Z",
+      "lastPulledAt": "2026-10-02T18:29:27.019Z"
     },
     "214": {
       "id": 214,
