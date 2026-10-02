@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 97,
-  "updatedAt": "2026-10-02T00:52:11.780Z",
+  "totalPulls": 98,
+  "updatedAt": "2026-10-02T06:39:55.754Z",
   "lastPull": {
-    "id": 265,
-    "name": "wurmple",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+    "id": 777,
+    "name": "togedemaru",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
     "types": [
-      "bug"
+      "electric",
+      "steel"
     ],
-    "totalStats": 195,
-    "grade": "N",
-    "pulledAt": "2026-10-02T00:52:11.780Z"
+    "totalStats": 435,
+    "grade": "R",
+    "pulledAt": "2026-10-02T06:39:55.754Z"
   },
   "pulls": [
+    {
+      "id": 777,
+      "name": "togedemaru",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-10-02T06:39:55.754Z"
+    },
     {
       "id": 265,
       "name": "wurmple",
@@ -115,18 +128,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-09-30T08:25:47.971Z"
-    },
-    {
-      "id": 47,
-      "name": "parasect",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-30T02:03:52.840Z"
     }
   ],
   "pokemon": {
@@ -1309,10 +1310,10 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-09-18T00:11:27.600Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T00:11:27.600Z",
-      "lastPulledAt": "2026-09-18T00:11:27.600Z"
+      "lastPulledAt": "2026-10-02T06:39:55.754Z"
     },
     "787": {
       "id": 787,
