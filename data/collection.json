@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 101,
-  "updatedAt": "2026-10-02T22:29:08.621Z",
+  "totalPulls": 102,
+  "updatedAt": "2026-10-03T01:21:14.779Z",
   "lastPull": {
-    "id": 533,
-    "name": "gurdurr",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+    "id": 779,
+    "name": "bruxish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
     "types": [
-      "fighting"
+      "water",
+      "psychic"
     ],
-    "totalStats": 405,
+    "totalStats": 475,
     "grade": "R",
-    "pulledAt": "2026-10-02T22:29:08.621Z"
+    "pulledAt": "2026-10-03T01:21:14.779Z"
   },
   "pulls": [
+    {
+      "id": 779,
+      "name": "bruxish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-03T01:21:14.779Z"
+    },
     {
       "id": 533,
       "name": "gurdurr",
@@ -117,17 +130,6 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-10-01T02:24:00.139Z"
-    },
-    {
-      "id": 574,
-      "name": "gothita",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-09-30T23:37:00.311Z"
     }
   ],
   "pokemon": {
@@ -1360,6 +1362,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T00:11:27.600Z",
       "lastPulledAt": "2026-10-02T06:39:55.754Z"
+    },
+    "779": {
+      "id": 779,
+      "name": "bruxish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-03T01:21:14.779Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T01:21:14.779Z",
+      "lastPulledAt": "2026-10-03T01:21:14.779Z"
     },
     "787": {
       "id": 787,
