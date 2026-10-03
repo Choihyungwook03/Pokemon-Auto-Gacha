@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 106,
-  "updatedAt": "2026-10-03T19:16:28.353Z",
+  "totalPulls": 107,
+  "updatedAt": "2026-10-03T22:11:13.907Z",
   "lastPull": {
-    "id": 819,
-    "name": "skwovet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+    "id": 794,
+    "name": "buzzwole",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
     "types": [
-      "normal"
+      "bug",
+      "fighting"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-10-03T19:16:28.353Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-03T22:11:13.907Z"
   },
   "pulls": [
+    {
+      "id": 794,
+      "name": "buzzwole",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T22:11:13.907Z"
+    },
     {
       "id": 819,
       "name": "skwovet",
@@ -116,17 +129,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-10-02T06:39:55.754Z"
-    },
-    {
-      "id": 265,
-      "name": "wurmple",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 195,
-      "grade": "N",
-      "pulledAt": "2026-10-02T00:52:11.780Z"
     }
   ],
   "pokemon": {
@@ -1437,6 +1439,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T22:50:26.393Z",
       "lastPulledAt": "2026-09-19T22:50:26.393Z"
+    },
+    "794": {
+      "id": 794,
+      "name": "buzzwole",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T22:11:13.907Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T22:11:13.907Z",
+      "lastPulledAt": "2026-10-03T22:11:13.907Z"
     },
     "795": {
       "id": 795,
