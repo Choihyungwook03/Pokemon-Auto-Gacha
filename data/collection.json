@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 105,
-  "updatedAt": "2026-10-03T16:12:06.791Z",
+  "totalPulls": 106,
+  "updatedAt": "2026-10-03T19:16:28.353Z",
   "lastPull": {
-    "id": 252,
-    "name": "treecko",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+    "id": 819,
+    "name": "skwovet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
     "types": [
-      "grass"
+      "normal"
     ],
-    "totalStats": 310,
+    "totalStats": 275,
     "grade": "N",
-    "pulledAt": "2026-10-03T16:12:06.791Z"
+    "pulledAt": "2026-10-03T19:16:28.353Z"
   },
   "pulls": [
+    {
+      "id": 819,
+      "name": "skwovet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-03T19:16:28.353Z"
+    },
     {
       "id": 252,
       "name": "treecko",
@@ -116,17 +127,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-10-02T00:52:11.780Z"
-    },
-    {
-      "id": 172,
-      "name": "pichu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 205,
-      "grade": "N",
-      "pulledAt": "2026-10-01T21:15:48.561Z"
     }
   ],
   "pokemon": {
@@ -1468,6 +1468,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T05:20:07.120Z",
       "lastPulledAt": "2026-09-24T05:20:07.120Z"
+    },
+    "819": {
+      "id": 819,
+      "name": "skwovet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-03T19:16:28.353Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T19:16:28.353Z",
+      "lastPulledAt": "2026-10-03T19:16:28.353Z"
     },
     "829": {
       "id": 829,
