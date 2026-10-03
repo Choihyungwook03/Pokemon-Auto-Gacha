@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 102,
-  "updatedAt": "2026-10-03T01:21:14.779Z",
+  "totalPulls": 103,
+  "updatedAt": "2026-10-03T06:50:05.780Z",
   "lastPull": {
-    "id": 779,
-    "name": "bruxish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+    "id": 89,
+    "name": "muk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
     "types": [
-      "water",
-      "psychic"
+      "poison"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-10-03T01:21:14.779Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-03T06:50:05.780Z"
   },
   "pulls": [
+    {
+      "id": 89,
+      "name": "muk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T06:50:05.780Z"
+    },
     {
       "id": 779,
       "name": "bruxish",
@@ -118,18 +128,6 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-10-01T09:14:57.046Z"
-    },
-    {
-      "id": 867,
-      "name": "runerigus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
-      "types": [
-        "ground",
-        "ghost"
-      ],
-      "totalStats": 483,
-      "grade": "R",
-      "pulledAt": "2026-10-01T02:24:00.139Z"
     }
   ],
   "pokemon": {
@@ -321,6 +319,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:31:51.049Z",
       "lastPulledAt": "2026-09-18T13:43:40.926Z"
+    },
+    "89": {
+      "id": 89,
+      "name": "muk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T06:50:05.780Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T06:50:05.780Z",
+      "lastPulledAt": "2026-10-03T06:50:05.780Z"
     },
     "95": {
       "id": 95,
