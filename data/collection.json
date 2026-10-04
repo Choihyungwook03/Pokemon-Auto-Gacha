@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 108,
-  "updatedAt": "2026-10-04T00:43:08.213Z",
+  "totalPulls": 109,
+  "updatedAt": "2026-10-04T06:25:38.223Z",
   "lastPull": {
-    "id": 791,
-    "name": "solgaleo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+    "id": 244,
+    "name": "entei",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
     "types": [
-      "psychic",
-      "steel"
+      "fire"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-04T00:43:08.213Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-04T06:25:38.223Z"
   },
   "pulls": [
+    {
+      "id": 244,
+      "name": "entei",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T06:25:38.223Z"
+    },
     {
       "id": 791,
       "name": "solgaleo",
@@ -117,18 +127,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-02T18:29:27.019Z"
-    },
-    {
-      "id": 76,
-      "name": "golem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-02T13:11:35.371Z"
     }
   ],
   "pokemon": {
@@ -629,6 +627,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T08:25:47.971Z",
       "lastPulledAt": "2026-09-30T08:25:47.971Z"
+    },
+    "244": {
+      "id": 244,
+      "name": "entei",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T06:25:38.223Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T06:25:38.223Z",
+      "lastPulledAt": "2026-10-04T06:25:38.223Z"
     },
     "246": {
       "id": 246,
