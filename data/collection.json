@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 112,
-  "updatedAt": "2026-10-04T20:07:14.005Z",
+  "totalPulls": 113,
+  "updatedAt": "2026-10-04T23:04:23.154Z",
   "lastPull": {
-    "id": 771,
-    "name": "pyukumuku",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+    "id": 572,
+    "name": "minccino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-04T20:07:14.005Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-04T23:04:23.154Z"
   },
   "pulls": [
+    {
+      "id": 572,
+      "name": "minccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-04T23:04:23.154Z"
+    },
     {
       "id": 771,
       "name": "pyukumuku",
@@ -117,17 +128,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-10-03T12:06:02.676Z"
-    },
-    {
-      "id": 89,
-      "name": "muk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-03T06:50:05.780Z"
     }
   ],
   "pokemon": {
@@ -1168,10 +1168,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-22T22:26:20.807Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T22:26:20.807Z",
-      "lastPulledAt": "2026-09-22T22:26:20.807Z"
+      "lastPulledAt": "2026-10-04T23:04:23.154Z"
     },
     "574": {
       "id": 574,
