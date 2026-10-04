@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 110,
-  "updatedAt": "2026-10-04T12:42:56.097Z",
+  "totalPulls": 111,
+  "updatedAt": "2026-10-04T17:04:52.167Z",
   "lastPull": {
-    "id": 636,
-    "name": "larvesta",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+    "id": 87,
+    "name": "dewgong",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
     "types": [
-      "bug",
-      "fire"
+      "water",
+      "ice"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-10-04T12:42:56.097Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-10-04T17:04:52.167Z"
   },
   "pulls": [
+    {
+      "id": 87,
+      "name": "dewgong",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-04T17:04:52.167Z"
+    },
     {
       "id": 636,
       "name": "larvesta",
@@ -118,17 +130,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-03T01:21:14.779Z"
-    },
-    {
-      "id": 533,
-      "name": "gurdurr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-02T22:29:08.621Z"
     }
   ],
   "pokemon": {
@@ -320,6 +321,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:31:51.049Z",
       "lastPulledAt": "2026-09-18T13:43:40.926Z"
+    },
+    "87": {
+      "id": 87,
+      "name": "dewgong",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-04T17:04:52.167Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T17:04:52.167Z",
+      "lastPulledAt": "2026-10-04T17:04:52.167Z"
     },
     "89": {
       "id": 89,
