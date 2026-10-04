@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 109,
-  "updatedAt": "2026-10-04T06:25:38.223Z",
+  "totalPulls": 110,
+  "updatedAt": "2026-10-04T12:42:56.097Z",
   "lastPull": {
-    "id": 244,
-    "name": "entei",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+    "id": 636,
+    "name": "larvesta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
     "types": [
+      "bug",
       "fire"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-04T06:25:38.223Z"
+    "totalStats": 360,
+    "grade": "N",
+    "pulledAt": "2026-10-04T12:42:56.097Z"
   },
   "pulls": [
+    {
+      "id": 636,
+      "name": "larvesta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-04T12:42:56.097Z"
+    },
     {
       "id": 244,
       "name": "entei",
@@ -116,17 +129,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-02T22:29:08.621Z"
-    },
-    {
-      "id": 204,
-      "name": "pineco",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-10-02T18:29:27.019Z"
     }
   ],
   "pokemon": {
@@ -1263,6 +1265,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T12:06:02.676Z",
       "lastPulledAt": "2026-10-03T12:06:02.676Z"
+    },
+    "636": {
+      "id": 636,
+      "name": "larvesta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-04T12:42:56.097Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T12:42:56.097Z",
+      "lastPulledAt": "2026-10-04T12:42:56.097Z"
     },
     "647": {
       "id": 647,
