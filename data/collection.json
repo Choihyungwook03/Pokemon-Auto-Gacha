@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 107,
-  "updatedAt": "2026-10-03T22:11:13.907Z",
+  "totalPulls": 108,
+  "updatedAt": "2026-10-04T00:43:08.213Z",
   "lastPull": {
-    "id": 794,
-    "name": "buzzwole",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
+    "id": 791,
+    "name": "solgaleo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
     "types": [
-      "bug",
-      "fighting"
+      "psychic",
+      "steel"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-03T22:11:13.907Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-04T00:43:08.213Z"
   },
   "pulls": [
+    {
+      "id": 791,
+      "name": "solgaleo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-04T00:43:08.213Z"
+    },
     {
       "id": 794,
       "name": "buzzwole",
@@ -117,18 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-02T13:11:35.371Z"
-    },
-    {
-      "id": 777,
-      "name": "togedemaru",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
-      "types": [
-        "electric",
-        "steel"
-      ],
-      "totalStats": 435,
-      "grade": "R",
-      "pulledAt": "2026-10-02T06:39:55.754Z"
     }
   ],
   "pokemon": {
@@ -1439,6 +1439,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T22:50:26.393Z",
       "lastPulledAt": "2026-09-19T22:50:26.393Z"
+    },
+    "791": {
+      "id": 791,
+      "name": "solgaleo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-04T00:43:08.213Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T00:43:08.213Z",
+      "lastPulledAt": "2026-10-04T00:43:08.213Z"
     },
     "794": {
       "id": 794,
