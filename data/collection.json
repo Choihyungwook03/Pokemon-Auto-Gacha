@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 115,
-  "updatedAt": "2026-10-05T08:17:40.561Z",
+  "totalPulls": 116,
+  "updatedAt": "2026-10-05T17:13:21.561Z",
   "lastPull": {
-    "id": 774,
-    "name": "minior-red-meteor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+    "id": 698,
+    "name": "amaura",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
     "types": [
       "rock",
-      "flying"
+      "ice"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-10-05T08:17:40.561Z"
+    "totalStats": 362,
+    "grade": "N",
+    "pulledAt": "2026-10-05T17:13:21.561Z"
   },
   "pulls": [
+    {
+      "id": 698,
+      "name": "amaura",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "totalStats": 362,
+      "grade": "N",
+      "pulledAt": "2026-10-05T17:13:21.561Z"
+    },
     {
       "id": 774,
       "name": "minior-red-meteor",
@@ -118,17 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-03T22:11:13.907Z"
-    },
-    {
-      "id": 819,
-      "name": "skwovet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-10-03T19:16:28.353Z"
     }
   ],
   "pokemon": {
@@ -1356,10 +1357,10 @@
       "totalStats": 362,
       "grade": "N",
       "pulledAt": "2026-09-21T14:07:06.624Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T14:07:06.624Z",
-      "lastPulledAt": "2026-09-21T14:07:06.624Z"
+      "lastPulledAt": "2026-10-05T17:13:21.561Z"
     },
     "702": {
       "id": 702,
