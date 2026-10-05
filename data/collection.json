@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 114,
-  "updatedAt": "2026-10-05T01:54:20.317Z",
+  "totalPulls": 115,
+  "updatedAt": "2026-10-05T08:17:40.561Z",
   "lastPull": {
-    "id": 159,
-    "name": "croconaw",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
+    "id": 774,
+    "name": "minior-red-meteor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
     "types": [
-      "water"
+      "rock",
+      "flying"
     ],
-    "totalStats": 405,
+    "totalStats": 440,
     "grade": "R",
-    "pulledAt": "2026-10-05T01:54:20.317Z"
+    "pulledAt": "2026-10-05T08:17:40.561Z"
   },
   "pulls": [
+    {
+      "id": 774,
+      "name": "minior-red-meteor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-05T08:17:40.561Z"
+    },
     {
       "id": 159,
       "name": "croconaw",
@@ -116,17 +129,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-10-03T19:16:28.353Z"
-    },
-    {
-      "id": 252,
-      "name": "treecko",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-03T16:12:06.791Z"
     }
   ],
   "pokemon": {
@@ -1451,6 +1453,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T20:07:14.005Z",
       "lastPulledAt": "2026-10-04T20:07:14.005Z"
+    },
+    "774": {
+      "id": 774,
+      "name": "minior-red-meteor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-05T08:17:40.561Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T08:17:40.561Z",
+      "lastPulledAt": "2026-10-05T08:17:40.561Z"
     },
     "777": {
       "id": 777,
