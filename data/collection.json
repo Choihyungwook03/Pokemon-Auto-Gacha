@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 116,
-  "updatedAt": "2026-10-05T17:13:21.561Z",
+  "totalPulls": 117,
+  "updatedAt": "2026-10-05T23:11:34.048Z",
   "lastPull": {
-    "id": 698,
-    "name": "amaura",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
+    "id": 906,
+    "name": "sprigatito",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
     "types": [
-      "rock",
-      "ice"
+      "grass"
     ],
-    "totalStats": 362,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-10-05T17:13:21.561Z"
+    "pulledAt": "2026-10-05T23:11:34.048Z"
   },
   "pulls": [
+    {
+      "id": 906,
+      "name": "sprigatito",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-05T23:11:34.048Z"
+    },
     {
       "id": 698,
       "name": "amaura",
@@ -118,18 +128,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-04T00:43:08.213Z"
-    },
-    {
-      "id": 794,
-      "name": "buzzwole",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
-      "types": [
-        "bug",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-03T22:11:13.907Z"
     }
   ],
   "pokemon": {
@@ -1751,6 +1749,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:23:07.446Z",
       "lastPulledAt": "2026-09-17T05:23:07.446Z"
+    },
+    "906": {
+      "id": 906,
+      "name": "sprigatito",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-05T23:11:34.048Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T23:11:34.048Z",
+      "lastPulledAt": "2026-10-05T23:11:34.048Z"
     },
     "909": {
       "id": 909,
