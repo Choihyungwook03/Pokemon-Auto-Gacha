@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 113,
-  "updatedAt": "2026-10-04T23:04:23.154Z",
+  "totalPulls": 114,
+  "updatedAt": "2026-10-05T01:54:20.317Z",
   "lastPull": {
-    "id": 572,
-    "name": "minccino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+    "id": 159,
+    "name": "croconaw",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-04T23:04:23.154Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-05T01:54:20.317Z"
   },
   "pulls": [
+    {
+      "id": 159,
+      "name": "croconaw",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-05T01:54:20.317Z"
+    },
     {
       "id": 572,
       "name": "minccino",
@@ -116,18 +127,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-03T16:12:06.791Z"
-    },
-    {
-      "id": 629,
-      "name": "vullaby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-10-03T12:06:02.676Z"
     }
   ],
   "pokemon": {
@@ -439,10 +438,10 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-25T00:43:14.805Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T00:43:14.805Z",
-      "lastPulledAt": "2026-09-29T07:21:27.151Z"
+      "lastPulledAt": "2026-10-05T01:54:20.317Z"
     },
     "165": {
       "id": 165,
