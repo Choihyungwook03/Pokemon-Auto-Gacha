@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 120,
-  "updatedAt": "2026-10-06T16:47:35.786Z",
+  "totalPulls": 121,
+  "updatedAt": "2026-10-06T21:17:50.589Z",
   "lastPull": {
-    "id": 902,
-    "name": "basculegion-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+    "id": 238,
+    "name": "smoochum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
     "types": [
-      "water",
-      "ghost"
+      "ice",
+      "psychic"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-06T16:47:35.786Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-06T21:17:50.589Z"
   },
   "pulls": [
+    {
+      "id": 238,
+      "name": "smoochum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-06T21:17:50.589Z"
+    },
     {
       "id": 902,
       "name": "basculegion-male",
@@ -117,18 +129,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-04T20:07:14.005Z"
-    },
-    {
-      "id": 87,
-      "name": "dewgong",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-04T17:04:52.167Z"
     }
   ],
   "pokemon": {
@@ -630,6 +630,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T19:22:53.922Z",
       "lastPulledAt": "2026-09-21T19:22:53.922Z"
+    },
+    "238": {
+      "id": 238,
+      "name": "smoochum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-06T21:17:50.589Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T21:17:50.589Z",
+      "lastPulledAt": "2026-10-06T21:17:50.589Z"
     },
     "239": {
       "id": 239,
