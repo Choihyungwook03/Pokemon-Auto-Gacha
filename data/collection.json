@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 118,
-  "updatedAt": "2026-10-06T03:04:42.600Z",
+  "totalPulls": 119,
+  "updatedAt": "2026-10-06T10:09:08.502Z",
   "lastPull": {
-    "id": 596,
-    "name": "galvantula",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
+    "id": 293,
+    "name": "whismur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
     "types": [
-      "bug",
-      "electric"
+      "normal"
     ],
-    "totalStats": 472,
-    "grade": "R",
-    "pulledAt": "2026-10-06T03:04:42.600Z"
+    "totalStats": 240,
+    "grade": "N",
+    "pulledAt": "2026-10-06T10:09:08.502Z"
   },
   "pulls": [
+    {
+      "id": 293,
+      "name": "whismur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-10-06T10:09:08.502Z"
+    },
     {
       "id": 596,
       "name": "galvantula",
@@ -118,17 +128,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-10-04T12:42:56.097Z"
-    },
-    {
-      "id": 244,
-      "name": "entei",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-04T06:25:38.223Z"
     }
   ],
   "pokemon": {
@@ -770,6 +769,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:04:31.258Z",
       "lastPulledAt": "2026-09-17T15:04:31.258Z"
+    },
+    "293": {
+      "id": 293,
+      "name": "whismur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-10-06T10:09:08.502Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T10:09:08.502Z",
+      "lastPulledAt": "2026-10-06T10:09:08.502Z"
     },
     "310": {
       "id": 310,
