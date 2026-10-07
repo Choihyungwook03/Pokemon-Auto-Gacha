@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 125,
-  "updatedAt": "2026-10-07T19:43:05.176Z",
+  "totalPulls": 126,
+  "updatedAt": "2026-10-07T23:52:28.650Z",
   "lastPull": {
-    "id": 630,
-    "name": "mandibuzz",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+    "id": 206,
+    "name": "dunsparce",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
     "types": [
-      "dark",
-      "flying"
+      "normal"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-07T19:43:05.176Z"
+    "totalStats": 415,
+    "grade": "R",
+    "pulledAt": "2026-10-07T23:52:28.650Z"
   },
   "pulls": [
+    {
+      "id": 206,
+      "name": "dunsparce",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-10-07T23:52:28.650Z"
+    },
     {
       "id": 630,
       "name": "mandibuzz",
@@ -120,18 +130,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-05T23:11:34.048Z"
-    },
-    {
-      "id": 698,
-      "name": "amaura",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
-      "types": [
-        "rock",
-        "ice"
-      ],
-      "totalStats": 362,
-      "grade": "N",
-      "pulledAt": "2026-10-05T17:13:21.561Z"
     }
   ],
   "pokemon": {
@@ -570,6 +568,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T18:29:27.019Z",
       "lastPulledAt": "2026-10-02T18:29:27.019Z"
+    },
+    "206": {
+      "id": 206,
+      "name": "dunsparce",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-10-07T23:52:28.650Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T23:52:28.650Z",
+      "lastPulledAt": "2026-10-07T23:52:28.650Z"
     },
     "214": {
       "id": 214,
