@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 123,
-  "updatedAt": "2026-10-07T06:36:13.997Z",
+  "totalPulls": 124,
+  "updatedAt": "2026-10-07T13:53:12.108Z",
   "lastPull": {
-    "id": 851,
-    "name": "centiskorch",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+    "id": 380,
+    "name": "latias",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
     "types": [
-      "fire",
-      "bug"
+      "dragon",
+      "psychic"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-07T06:36:13.997Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-07T13:53:12.108Z"
   },
   "pulls": [
+    {
+      "id": 380,
+      "name": "latias",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-07T13:53:12.108Z"
+    },
     {
       "id": 851,
       "name": "centiskorch",
@@ -120,17 +132,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-05T08:17:40.561Z"
-    },
-    {
-      "id": 159,
-      "name": "croconaw",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-05T01:54:20.317Z"
     }
   ],
   "pokemon": {
@@ -864,6 +865,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T16:02:49.690Z",
       "lastPulledAt": "2026-09-28T16:02:49.690Z"
+    },
+    "380": {
+      "id": 380,
+      "name": "latias",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-07T13:53:12.108Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T13:53:12.108Z",
+      "lastPulledAt": "2026-10-07T13:53:12.108Z"
     },
     "392": {
       "id": 392,
