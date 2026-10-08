@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 127,
-  "updatedAt": "2026-10-08T04:26:14.465Z",
+  "totalPulls": 128,
+  "updatedAt": "2026-10-08T11:32:26.749Z",
   "lastPull": {
-    "id": 114,
-    "name": "tangela",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+    "id": 849,
+    "name": "toxtricity-amped",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
     "types": [
-      "grass"
+      "electric",
+      "poison"
     ],
-    "totalStats": 435,
-    "grade": "R",
-    "pulledAt": "2026-10-08T04:26:14.465Z"
+    "totalStats": 502,
+    "grade": "SR",
+    "pulledAt": "2026-10-08T11:32:26.749Z"
   },
   "pulls": [
+    {
+      "id": 849,
+      "name": "toxtricity-amped",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "totalStats": 502,
+      "grade": "SR",
+      "pulledAt": "2026-10-08T11:32:26.749Z"
+    },
     {
       "id": 114,
       "name": "tangela",
@@ -118,18 +131,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-10-06T10:09:08.502Z"
-    },
-    {
-      "id": 596,
-      "name": "galvantula",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
-      "types": [
-        "bug",
-        "electric"
-      ],
-      "totalStats": 472,
-      "grade": "R",
-      "pulledAt": "2026-10-06T03:04:42.600Z"
     }
   ],
   "pokemon": {
@@ -1798,6 +1799,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T21:54:59.590Z",
       "lastPulledAt": "2026-09-28T21:54:59.590Z"
+    },
+    "849": {
+      "id": 849,
+      "name": "toxtricity-amped",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "totalStats": 502,
+      "grade": "SR",
+      "pulledAt": "2026-10-08T11:32:26.749Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T11:32:26.749Z",
+      "lastPulledAt": "2026-10-08T11:32:26.749Z"
     },
     "851": {
       "id": 851,
