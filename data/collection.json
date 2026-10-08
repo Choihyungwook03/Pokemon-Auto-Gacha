@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 126,
-  "updatedAt": "2026-10-07T23:52:28.650Z",
+  "totalPulls": 127,
+  "updatedAt": "2026-10-08T04:26:14.465Z",
   "lastPull": {
-    "id": 206,
-    "name": "dunsparce",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+    "id": 114,
+    "name": "tangela",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 415,
+    "totalStats": 435,
     "grade": "R",
-    "pulledAt": "2026-10-07T23:52:28.650Z"
+    "pulledAt": "2026-10-08T04:26:14.465Z"
   },
   "pulls": [
+    {
+      "id": 114,
+      "name": "tangela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-10-08T04:26:14.465Z"
+    },
     {
       "id": 206,
       "name": "dunsparce",
@@ -119,17 +130,6 @@
       "totalStats": 472,
       "grade": "R",
       "pulledAt": "2026-10-06T03:04:42.600Z"
-    },
-    {
-      "id": 906,
-      "name": "sprigatito",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-05T23:11:34.048Z"
     }
   ],
   "pokemon": {
@@ -368,6 +368,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T16:30:11.766Z",
       "lastPulledAt": "2026-10-01T16:30:11.766Z"
+    },
+    "114": {
+      "id": 114,
+      "name": "tangela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-10-08T04:26:14.465Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T04:26:14.465Z",
+      "lastPulledAt": "2026-10-08T04:26:14.465Z"
     },
     "119": {
       "id": 119,
