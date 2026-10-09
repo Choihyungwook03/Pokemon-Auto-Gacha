@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 132,
-  "updatedAt": "2026-10-09T10:16:11.547Z",
+  "totalPulls": 133,
+  "updatedAt": "2026-10-09T17:02:33.863Z",
   "lastPull": {
-    "id": 925,
-    "name": "maushold-family-of-four",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+    "id": 620,
+    "name": "mienshao",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
     "types": [
-      "normal"
+      "fighting"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-10-09T10:16:11.547Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-09T17:02:33.863Z"
   },
   "pulls": [
+    {
+      "id": 620,
+      "name": "mienshao",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T17:02:33.863Z"
+    },
     {
       "id": 925,
       "name": "maushold-family-of-four",
@@ -117,18 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-07T13:53:12.108Z"
-    },
-    {
-      "id": 851,
-      "name": "centiskorch",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
-      "types": [
-        "fire",
-        "bug"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T06:36:13.997Z"
     }
   ],
   "pokemon": {
@@ -1359,6 +1358,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:38:52.463Z",
       "lastPulledAt": "2026-09-17T00:38:52.463Z"
+    },
+    "620": {
+      "id": 620,
+      "name": "mienshao",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T17:02:33.863Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T17:02:33.863Z",
+      "lastPulledAt": "2026-10-09T17:02:33.863Z"
     },
     "622": {
       "id": 622,
