@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 131,
-  "updatedAt": "2026-10-09T02:57:54.616Z",
+  "totalPulls": 132,
+  "updatedAt": "2026-10-09T10:16:11.547Z",
   "lastPull": {
-    "id": 71,
-    "name": "victreebel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "id": 925,
+    "name": "maushold-family-of-four",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
     "types": [
-      "grass",
-      "poison"
+      "normal"
     ],
-    "totalStats": 490,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-10-09T02:57:54.616Z"
+    "pulledAt": "2026-10-09T10:16:11.547Z"
   },
   "pulls": [
+    {
+      "id": 925,
+      "name": "maushold-family-of-four",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-09T10:16:11.547Z"
+    },
     {
       "id": 71,
       "name": "victreebel",
@@ -119,18 +129,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-07T06:36:13.997Z"
-    },
-    {
-      "id": 823,
-      "name": "corviknight",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
-      "types": [
-        "flying",
-        "steel"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-07T00:49:08.801Z"
     }
   ],
   "pokemon": {
@@ -2017,6 +2015,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T05:23:34.163Z",
       "lastPulledAt": "2026-09-20T05:23:34.163Z"
+    },
+    "925": {
+      "id": 925,
+      "name": "maushold-family-of-four",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-09T10:16:11.547Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T10:16:11.547Z",
+      "lastPulledAt": "2026-10-09T10:16:11.547Z"
     },
     "939": {
       "id": 939,
