@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 133,
-  "updatedAt": "2026-10-09T17:02:33.863Z",
+  "totalPulls": 134,
+  "updatedAt": "2026-10-09T21:38:00.362Z",
   "lastPull": {
-    "id": 620,
-    "name": "mienshao",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+    "id": 944,
+    "name": "shroodle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
     "types": [
-      "fighting"
+      "poison",
+      "normal"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-09T17:02:33.863Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-10-09T21:38:00.362Z"
   },
   "pulls": [
+    {
+      "id": 944,
+      "name": "shroodle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-09T21:38:00.362Z"
+    },
     {
       "id": 620,
       "name": "mienshao",
@@ -116,18 +129,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-07T19:43:05.176Z"
-    },
-    {
-      "id": 380,
-      "name": "latias",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
-      "types": [
-        "dragon",
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-07T13:53:12.108Z"
     }
   ],
   "pokemon": {
@@ -2059,6 +2060,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T15:26:23.926Z",
       "lastPulledAt": "2026-09-25T15:26:23.926Z"
+    },
+    "944": {
+      "id": 944,
+      "name": "shroodle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-09T21:38:00.362Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T21:38:00.362Z",
+      "lastPulledAt": "2026-10-09T21:38:00.362Z"
     },
     "971": {
       "id": 971,
