@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 138,
-  "updatedAt": "2026-10-10T18:04:25.689Z",
+  "totalPulls": 139,
+  "updatedAt": "2026-10-10T21:36:05.961Z",
   "lastPull": {
-    "id": 931,
-    "name": "squawkabilly-green-plumage",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+    "id": 814,
+    "name": "raboot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
     "types": [
-      "normal",
-      "flying"
+      "fire"
     ],
-    "totalStats": 417,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-10-10T18:04:25.689Z"
+    "pulledAt": "2026-10-10T21:36:05.961Z"
   },
   "pulls": [
+    {
+      "id": 814,
+      "name": "raboot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-10T21:36:05.961Z"
+    },
     {
       "id": 931,
       "name": "squawkabilly-green-plumage",
@@ -116,18 +126,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-08T23:14:36.448Z"
-    },
-    {
-      "id": 593,
-      "name": "jellicent-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
-      "types": [
-        "water",
-        "ghost"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-08T17:59:03.348Z"
     }
   ],
   "pokemon": {
@@ -1780,6 +1778,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T05:20:07.120Z",
       "lastPulledAt": "2026-09-24T05:20:07.120Z"
+    },
+    "814": {
+      "id": 814,
+      "name": "raboot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-10T21:36:05.961Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T21:36:05.961Z",
+      "lastPulledAt": "2026-10-10T21:36:05.961Z"
     },
     "819": {
       "id": 819,
