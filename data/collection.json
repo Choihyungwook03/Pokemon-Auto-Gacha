@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 137,
-  "updatedAt": "2026-10-10T13:48:26.513Z",
+  "totalPulls": 138,
+  "updatedAt": "2026-10-10T18:04:25.689Z",
   "lastPull": {
-    "id": 754,
-    "name": "lurantis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png",
+    "id": 931,
+    "name": "squawkabilly-green-plumage",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
     "types": [
-      "grass"
+      "normal",
+      "flying"
     ],
-    "totalStats": 480,
+    "totalStats": 417,
     "grade": "R",
-    "pulledAt": "2026-10-10T13:48:26.513Z"
+    "pulledAt": "2026-10-10T18:04:25.689Z"
   },
   "pulls": [
+    {
+      "id": 931,
+      "name": "squawkabilly-green-plumage",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 417,
+      "grade": "R",
+      "pulledAt": "2026-10-10T18:04:25.689Z"
+    },
     {
       "id": 754,
       "name": "lurantis",
@@ -115,18 +128,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-08T17:59:03.348Z"
-    },
-    {
-      "id": 849,
-      "name": "toxtricity-amped",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
-      "types": [
-        "electric",
-        "poison"
-      ],
-      "totalStats": 502,
-      "grade": "SR",
-      "pulledAt": "2026-10-08T11:32:26.749Z"
     }
   ],
   "pokemon": {
@@ -2073,6 +2074,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T10:16:11.547Z",
       "lastPulledAt": "2026-10-09T10:16:11.547Z"
+    },
+    "931": {
+      "id": 931,
+      "name": "squawkabilly-green-plumage",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 417,
+      "grade": "R",
+      "pulledAt": "2026-10-10T18:04:25.689Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T18:04:25.689Z",
+      "lastPulledAt": "2026-10-10T18:04:25.689Z"
     },
     "939": {
       "id": 939,
