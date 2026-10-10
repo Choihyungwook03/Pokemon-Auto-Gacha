@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 136,
-  "updatedAt": "2026-10-10T07:14:04.580Z",
+  "totalPulls": 137,
+  "updatedAt": "2026-10-10T13:48:26.513Z",
   "lastPull": {
-    "id": 190,
-    "name": "aipom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+    "id": 754,
+    "name": "lurantis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-10-10T07:14:04.580Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-10T13:48:26.513Z"
   },
   "pulls": [
+    {
+      "id": 754,
+      "name": "lurantis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-10T13:48:26.513Z"
+    },
     {
       "id": 190,
       "name": "aipom",
@@ -116,17 +127,6 @@
       "totalStats": 502,
       "grade": "SR",
       "pulledAt": "2026-10-08T11:32:26.749Z"
-    },
-    {
-      "id": 114,
-      "name": "tangela",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 435,
-      "grade": "R",
-      "pulledAt": "2026-10-08T04:26:14.465Z"
     }
   ],
   "pokemon": {
@@ -1601,10 +1601,10 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-27T13:00:22.749Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T13:00:22.749Z",
-      "lastPulledAt": "2026-09-27T13:00:22.749Z"
+      "lastPulledAt": "2026-10-10T13:48:26.513Z"
     },
     "756": {
       "id": 756,
