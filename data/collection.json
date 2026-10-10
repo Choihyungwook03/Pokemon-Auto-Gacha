@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-10-09T21:38:00.362Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-10-10T01:14:47.039Z",
   "lastPull": {
-    "id": 944,
-    "name": "shroodle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+    "id": 361,
+    "name": "snorunt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
     "types": [
-      "poison",
-      "normal"
+      "ice"
     ],
-    "totalStats": 290,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-10-09T21:38:00.362Z"
+    "pulledAt": "2026-10-10T01:14:47.039Z"
   },
   "pulls": [
+    {
+      "id": 361,
+      "name": "snorunt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-10T01:14:47.039Z"
+    },
     {
       "id": 944,
       "name": "shroodle",
@@ -117,18 +127,6 @@
       "totalStats": 415,
       "grade": "R",
       "pulledAt": "2026-10-07T23:52:28.650Z"
-    },
-    {
-      "id": 630,
-      "name": "mandibuzz",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T19:43:05.176Z"
     }
   ],
   "pokemon": {
@@ -877,6 +875,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T01:43:31.603Z",
       "lastPulledAt": "2026-09-28T01:43:31.603Z"
+    },
+    "361": {
+      "id": 361,
+      "name": "snorunt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-10T01:14:47.039Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T01:14:47.039Z",
+      "lastPulledAt": "2026-10-10T01:14:47.039Z"
     },
     "374": {
       "id": 374,
