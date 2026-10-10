@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 135,
-  "updatedAt": "2026-10-10T01:14:47.039Z",
+  "totalPulls": 136,
+  "updatedAt": "2026-10-10T07:14:04.580Z",
   "lastPull": {
-    "id": 361,
-    "name": "snorunt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
+    "id": 190,
+    "name": "aipom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
     "types": [
-      "ice"
+      "normal"
     ],
-    "totalStats": 300,
+    "totalStats": 360,
     "grade": "N",
-    "pulledAt": "2026-10-10T01:14:47.039Z"
+    "pulledAt": "2026-10-10T07:14:04.580Z"
   },
   "pulls": [
+    {
+      "id": 190,
+      "name": "aipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-10T07:14:04.580Z"
+    },
     {
       "id": 361,
       "name": "snorunt",
@@ -116,17 +127,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-10-08T04:26:14.465Z"
-    },
-    {
-      "id": 206,
-      "name": "dunsparce",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 415,
-      "grade": "R",
-      "pulledAt": "2026-10-07T23:52:28.650Z"
     }
   ],
   "pokemon": {
@@ -520,6 +520,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T21:15:48.561Z",
       "lastPulledAt": "2026-10-01T21:15:48.561Z"
+    },
+    "190": {
+      "id": 190,
+      "name": "aipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-10T07:14:04.580Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T07:14:04.580Z",
+      "lastPulledAt": "2026-10-10T07:14:04.580Z"
     },
     "191": {
       "id": 191,
