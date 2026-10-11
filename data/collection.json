@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 142,
-  "updatedAt": "2026-10-11T13:00:42.505Z",
+  "totalPulls": 143,
+  "updatedAt": "2026-10-11T18:01:32.629Z",
   "lastPull": {
-    "id": 771,
-    "name": "pyukumuku",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+    "id": 757,
+    "name": "salandit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png",
     "types": [
-      "water"
+      "poison",
+      "fire"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-11T13:00:42.505Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-11T18:01:32.629Z"
   },
   "pulls": [
+    {
+      "id": 757,
+      "name": "salandit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png",
+      "types": [
+        "poison",
+        "fire"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-11T18:01:32.629Z"
+    },
     {
       "id": 771,
       "name": "pyukumuku",
@@ -115,17 +128,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-09T21:38:00.362Z"
-    },
-    {
-      "id": 620,
-      "name": "mienshao",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-09T17:02:33.863Z"
     }
   ],
   "pokemon": {
@@ -1651,6 +1653,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T00:50:31.144Z",
       "lastPulledAt": "2026-09-23T00:50:31.144Z"
+    },
+    "757": {
+      "id": 757,
+      "name": "salandit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png",
+      "types": [
+        "poison",
+        "fire"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-11T18:01:32.629Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T18:01:32.629Z",
+      "lastPulledAt": "2026-10-11T18:01:32.629Z"
     },
     "759": {
       "id": 759,
