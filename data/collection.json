@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 139,
-  "updatedAt": "2026-10-10T21:36:05.961Z",
+  "totalPulls": 140,
+  "updatedAt": "2026-10-11T00:26:58.356Z",
   "lastPull": {
-    "id": 814,
-    "name": "raboot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "id": 177,
+    "name": "natu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
     "types": [
-      "fire"
+      "psychic",
+      "flying"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-10T21:36:05.961Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-11T00:26:58.356Z"
   },
   "pulls": [
+    {
+      "id": 177,
+      "name": "natu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-11T00:26:58.356Z"
+    },
     {
       "id": 814,
       "name": "raboot",
@@ -115,17 +128,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-09T02:57:54.616Z"
-    },
-    {
-      "id": 657,
-      "name": "frogadier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-08T23:14:36.448Z"
     }
   ],
   "pokemon": {
@@ -519,6 +521,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T21:15:48.561Z",
       "lastPulledAt": "2026-10-01T21:15:48.561Z"
+    },
+    "177": {
+      "id": 177,
+      "name": "natu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-11T00:26:58.356Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T00:26:58.356Z",
+      "lastPulledAt": "2026-10-11T00:26:58.356Z"
     },
     "190": {
       "id": 190,
