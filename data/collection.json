@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 145,
-  "updatedAt": "2026-10-12T00:56:59.410Z",
+  "totalPulls": 146,
+  "updatedAt": "2026-10-12T07:02:46.098Z",
   "lastPull": {
-    "id": 839,
-    "name": "coalossal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+    "id": 425,
+    "name": "drifloon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
     "types": [
-      "rock",
-      "fire"
+      "ghost",
+      "flying"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-12T00:56:59.410Z"
+    "totalStats": 348,
+    "grade": "N",
+    "pulledAt": "2026-10-12T07:02:46.098Z"
   },
   "pulls": [
+    {
+      "id": 425,
+      "name": "drifloon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+      "types": [
+        "ghost",
+        "flying"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-10-12T07:02:46.098Z"
+    },
     {
       "id": 839,
       "name": "coalossal",
@@ -118,17 +130,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-10T13:48:26.513Z"
-    },
-    {
-      "id": 190,
-      "name": "aipom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-10T07:14:04.580Z"
     }
   ],
   "pokemon": {
@@ -1033,6 +1034,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T10:15:24.986Z",
       "lastPulledAt": "2026-09-17T10:15:24.986Z"
+    },
+    "425": {
+      "id": 425,
+      "name": "drifloon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+      "types": [
+        "ghost",
+        "flying"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-10-12T07:02:46.098Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T07:02:46.098Z",
+      "lastPulledAt": "2026-10-12T07:02:46.098Z"
     },
     "427": {
       "id": 427,
