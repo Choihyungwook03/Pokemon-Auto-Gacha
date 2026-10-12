@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 147,
-  "updatedAt": "2026-10-12T16:41:19.339Z",
+  "totalPulls": 148,
+  "updatedAt": "2026-10-12T23:15:42.072Z",
   "lastPull": {
-    "id": 31,
-    "name": "nidoqueen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "id": 594,
+    "name": "alomomola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
     "types": [
-      "poison",
-      "ground"
+      "water"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-12T16:41:19.339Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-10-12T23:15:42.072Z"
   },
   "pulls": [
+    {
+      "id": 594,
+      "name": "alomomola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-12T23:15:42.072Z"
+    },
     {
       "id": 31,
       "name": "nidoqueen",
@@ -119,18 +129,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-10T21:36:05.961Z"
-    },
-    {
-      "id": 931,
-      "name": "squawkabilly-green-plumage",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 417,
-      "grade": "R",
-      "pulledAt": "2026-10-10T18:04:25.689Z"
     }
   ],
   "pokemon": {
@@ -1439,6 +1437,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T17:59:03.348Z",
       "lastPulledAt": "2026-10-08T17:59:03.348Z"
+    },
+    "594": {
+      "id": 594,
+      "name": "alomomola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-12T23:15:42.072Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T23:15:42.072Z",
+      "lastPulledAt": "2026-10-12T23:15:42.072Z"
     },
     "596": {
       "id": 596,
