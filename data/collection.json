@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 149,
-  "updatedAt": "2026-10-13T03:37:10.136Z",
+  "totalPulls": 150,
+  "updatedAt": "2026-10-13T11:04:50.889Z",
   "lastPull": {
-    "id": 506,
-    "name": "lillipup",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+    "id": 885,
+    "name": "dreepy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
     "types": [
-      "normal"
+      "dragon",
+      "ghost"
     ],
-    "totalStats": 275,
+    "totalStats": 270,
     "grade": "N",
-    "pulledAt": "2026-10-13T03:37:10.136Z"
+    "pulledAt": "2026-10-13T11:04:50.889Z"
   },
   "pulls": [
+    {
+      "id": 885,
+      "name": "dreepy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-13T11:04:50.889Z"
+    },
     {
       "id": 506,
       "name": "lillipup",
@@ -117,18 +130,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-10-11T06:12:34.942Z"
-    },
-    {
-      "id": 177,
-      "name": "natu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
-      "types": [
-        "psychic",
-        "flying"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-11T00:26:58.356Z"
     }
   ],
   "pokemon": {
@@ -2135,10 +2136,10 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-09-17T05:23:07.446Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:23:07.446Z",
-      "lastPulledAt": "2026-09-17T05:23:07.446Z"
+      "lastPulledAt": "2026-10-13T11:04:50.889Z"
     },
     "902": {
       "id": 902,
