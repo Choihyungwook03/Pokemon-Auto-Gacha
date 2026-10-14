@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 157,
-  "updatedAt": "2026-10-14T20:53:01.645Z",
+  "totalPulls": 158,
+  "updatedAt": "2026-10-14T23:39:51.659Z",
   "lastPull": {
-    "id": 473,
-    "name": "mamoswine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
+    "id": 531,
+    "name": "audino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
     "types": [
-      "ice",
-      "ground"
+      "normal"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-14T20:53:01.645Z"
+    "totalStats": 445,
+    "grade": "R",
+    "pulledAt": "2026-10-14T23:39:51.659Z"
   },
   "pulls": [
+    {
+      "id": 531,
+      "name": "audino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 445,
+      "grade": "R",
+      "pulledAt": "2026-10-14T23:39:51.659Z"
+    },
     {
       "id": 473,
       "name": "mamoswine",
@@ -119,17 +129,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-10-13T03:37:10.136Z"
-    },
-    {
-      "id": 594,
-      "name": "alomomola",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-12T23:15:42.072Z"
     }
   ],
   "pokemon": {
@@ -1340,10 +1339,10 @@
       "totalStats": 445,
       "grade": "R",
       "pulledAt": "2026-09-16T01:42:12.574Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:12.574Z",
-      "lastPulledAt": "2026-09-16T01:42:12.574Z"
+      "lastPulledAt": "2026-10-14T23:39:51.659Z"
     },
     "533": {
       "id": 533,
