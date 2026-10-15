@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 161,
-  "updatedAt": "2026-10-15T12:28:59.097Z",
+  "totalPulls": 162,
+  "updatedAt": "2026-10-15T17:17:21.447Z",
   "lastPull": {
-    "id": 1014,
-    "name": "okidogi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+    "id": 641,
+    "name": "tornadus-incarnate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
     "types": [
-      "poison",
-      "fighting"
+      "flying"
     ],
-    "totalStats": 555,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-10-15T12:28:59.097Z"
+    "pulledAt": "2026-10-15T17:17:21.447Z"
   },
   "pulls": [
+    {
+      "id": 641,
+      "name": "tornadus-incarnate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T17:17:21.447Z"
+    },
     {
       "id": 1014,
       "name": "okidogi",
@@ -118,18 +128,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-10-14T01:34:51.302Z"
-    },
-    {
-      "id": 899,
-      "name": "wyrdeer",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-13T22:51:37.443Z"
     }
   ],
   "pokemon": {
@@ -1671,6 +1669,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T12:42:56.097Z",
       "lastPulledAt": "2026-10-04T12:42:56.097Z"
+    },
+    "641": {
+      "id": 641,
+      "name": "tornadus-incarnate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T17:17:21.447Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T17:17:21.447Z",
+      "lastPulledAt": "2026-10-15T17:17:21.447Z"
     },
     "647": {
       "id": 647,
