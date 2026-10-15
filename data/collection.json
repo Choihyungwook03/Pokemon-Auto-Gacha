@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 163,
-  "updatedAt": "2026-10-15T20:24:09.042Z",
+  "totalPulls": 164,
+  "updatedAt": "2026-10-15T23:10:08.976Z",
   "lastPull": {
-    "id": 818,
-    "name": "inteleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
+    "id": 912,
+    "name": "quaxly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
     "types": [
       "water"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T20:24:09.042Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-10-15T23:10:08.976Z"
   },
   "pulls": [
+    {
+      "id": 912,
+      "name": "quaxly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-15T23:10:08.976Z"
+    },
     {
       "id": 818,
       "name": "inteleon",
@@ -115,18 +126,6 @@
       "totalStats": 288,
       "grade": "N",
       "pulledAt": "2026-10-14T12:24:09.293Z"
-    },
-    {
-      "id": 911,
-      "name": "skeledirge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
-      "types": [
-        "fire",
-        "ghost"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-14T06:40:02.798Z"
     }
   ],
   "pokemon": {
@@ -2354,6 +2353,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T06:40:02.798Z",
       "lastPulledAt": "2026-10-14T06:40:02.798Z"
+    },
+    "912": {
+      "id": 912,
+      "name": "quaxly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-15T23:10:08.976Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T23:10:08.976Z",
+      "lastPulledAt": "2026-10-15T23:10:08.976Z"
     },
     "915": {
       "id": 915,
