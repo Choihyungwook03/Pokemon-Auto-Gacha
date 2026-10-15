@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 159,
-  "updatedAt": "2026-10-15T01:51:03.291Z",
+  "totalPulls": 160,
+  "updatedAt": "2026-10-15T06:56:17.278Z",
   "lastPull": {
-    "id": 302,
-    "name": "sableye",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "id": 201,
+    "name": "unown",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
     "types": [
-      "dark",
-      "ghost"
+      "psychic"
     ],
-    "totalStats": 380,
+    "totalStats": 336,
     "grade": "N",
-    "pulledAt": "2026-10-15T01:51:03.291Z"
+    "pulledAt": "2026-10-15T06:56:17.278Z"
   },
   "pulls": [
+    {
+      "id": 201,
+      "name": "unown",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 336,
+      "grade": "N",
+      "pulledAt": "2026-10-15T06:56:17.278Z"
+    },
     {
       "id": 302,
       "name": "sableye",
@@ -119,18 +129,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-13T18:11:48.881Z"
-    },
-    {
-      "id": 885,
-      "name": "dreepy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
-      "types": [
-        "dragon",
-        "ghost"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-13T11:04:50.889Z"
     }
   ],
   "pokemon": {
@@ -647,6 +645,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T23:36:12.319Z",
       "lastPulledAt": "2026-09-20T23:36:12.319Z"
+    },
+    "201": {
+      "id": 201,
+      "name": "unown",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 336,
+      "grade": "N",
+      "pulledAt": "2026-10-15T06:56:17.278Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T06:56:17.278Z",
+      "lastPulledAt": "2026-10-15T06:56:17.278Z"
     },
     "204": {
       "id": 204,
