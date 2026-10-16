@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 166,
-  "updatedAt": "2026-10-16T05:56:57.919Z",
+  "totalPulls": 167,
+  "updatedAt": "2026-10-16T10:57:05.016Z",
   "lastPull": {
-    "id": 715,
-    "name": "noivern",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+    "id": 133,
+    "name": "eevee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
     "types": [
-      "flying",
-      "dragon"
+      "normal"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-10-16T05:56:57.919Z"
+    "totalStats": 325,
+    "grade": "N",
+    "pulledAt": "2026-10-16T10:57:05.016Z"
   },
   "pulls": [
+    {
+      "id": 133,
+      "name": "eevee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-10-16T10:57:05.016Z"
+    },
     {
       "id": 715,
       "name": "noivern",
@@ -117,18 +127,6 @@
       "totalStats": 445,
       "grade": "R",
       "pulledAt": "2026-10-14T23:39:51.659Z"
-    },
-    {
-      "id": 473,
-      "name": "mamoswine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
-      "types": [
-        "ice",
-        "ground"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-14T20:53:01.645Z"
     }
   ],
   "pokemon": {
@@ -444,6 +442,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T12:24:09.293Z",
       "lastPulledAt": "2026-10-14T12:24:09.293Z"
+    },
+    "133": {
+      "id": 133,
+      "name": "eevee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-10-16T10:57:05.016Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T10:57:05.016Z",
+      "lastPulledAt": "2026-10-16T10:57:05.016Z"
     },
     "139": {
       "id": 139,
