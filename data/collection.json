@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 164,
-  "updatedAt": "2026-10-15T23:10:08.976Z",
+  "totalPulls": 165,
+  "updatedAt": "2026-10-16T01:19:41.457Z",
   "lastPull": {
-    "id": 912,
-    "name": "quaxly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
+    "id": 679,
+    "name": "honedge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
     "types": [
-      "water"
+      "steel",
+      "ghost"
     ],
-    "totalStats": 310,
+    "totalStats": 325,
     "grade": "N",
-    "pulledAt": "2026-10-15T23:10:08.976Z"
+    "pulledAt": "2026-10-16T01:19:41.457Z"
   },
   "pulls": [
+    {
+      "id": 679,
+      "name": "honedge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-10-16T01:19:41.457Z"
+    },
     {
       "id": 912,
       "name": "quaxly",
@@ -115,17 +128,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-14T17:26:44.165Z"
-    },
-    {
-      "id": 132,
-      "name": "ditto",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 288,
-      "grade": "N",
-      "pulledAt": "2026-10-14T12:24:09.293Z"
     }
   ],
   "pokemon": {
@@ -1744,6 +1746,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:31.239Z",
       "lastPulledAt": "2026-09-16T01:47:31.239Z"
+    },
+    "679": {
+      "id": 679,
+      "name": "honedge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-10-16T01:19:41.457Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T01:19:41.457Z",
+      "lastPulledAt": "2026-10-16T01:19:41.457Z"
     },
     "698": {
       "id": 698,
