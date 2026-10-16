@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 168,
-  "updatedAt": "2026-10-16T15:17:39.787Z",
+  "totalPulls": 169,
+  "updatedAt": "2026-10-16T18:50:44.254Z",
   "lastPull": {
-    "id": 353,
-    "name": "shuppet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+    "id": 573,
+    "name": "cinccino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
     "types": [
-      "ghost"
+      "normal"
     ],
-    "totalStats": 295,
-    "grade": "N",
-    "pulledAt": "2026-10-16T15:17:39.787Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-10-16T18:50:44.254Z"
   },
   "pulls": [
+    {
+      "id": 573,
+      "name": "cinccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-16T18:50:44.254Z"
+    },
     {
       "id": 353,
       "name": "shuppet",
@@ -115,18 +126,6 @@
       "totalStats": 336,
       "grade": "N",
       "pulledAt": "2026-10-15T06:56:17.278Z"
-    },
-    {
-      "id": 302,
-      "name": "sableye",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
-      "types": [
-        "dark",
-        "ghost"
-      ],
-      "totalStats": 380,
-      "grade": "N",
-      "pulledAt": "2026-10-15T01:51:03.291Z"
     }
   ],
   "pokemon": {
@@ -1480,6 +1479,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T22:26:20.807Z",
       "lastPulledAt": "2026-10-04T23:04:23.154Z"
+    },
+    "573": {
+      "id": 573,
+      "name": "cinccino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-16T18:50:44.254Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T18:50:44.254Z",
+      "lastPulledAt": "2026-10-16T18:50:44.254Z"
     },
     "574": {
       "id": 574,
