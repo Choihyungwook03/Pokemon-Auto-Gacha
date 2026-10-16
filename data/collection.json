@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 169,
-  "updatedAt": "2026-10-16T18:50:44.254Z",
+  "totalPulls": 170,
+  "updatedAt": "2026-10-16T21:54:26.407Z",
   "lastPull": {
-    "id": 573,
-    "name": "cinccino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+    "id": 465,
+    "name": "tangrowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-10-16T18:50:44.254Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-10-16T21:54:26.407Z"
   },
   "pulls": [
+    {
+      "id": 465,
+      "name": "tangrowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T21:54:26.407Z"
+    },
     {
       "id": 573,
       "name": "cinccino",
@@ -115,17 +126,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-10-15T12:28:59.097Z"
-    },
-    {
-      "id": 201,
-      "name": "unown",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 336,
-      "grade": "N",
-      "pulledAt": "2026-10-15T06:56:17.278Z"
     }
   ],
   "pokemon": {
@@ -1232,6 +1232,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T15:04:48.619Z",
       "lastPulledAt": "2026-09-23T15:04:48.619Z"
+    },
+    "465": {
+      "id": 465,
+      "name": "tangrowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T21:54:26.407Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T21:54:26.407Z",
+      "lastPulledAt": "2026-10-16T21:54:26.407Z"
     },
     "466": {
       "id": 466,
