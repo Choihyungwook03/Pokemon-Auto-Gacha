@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 172,
-  "updatedAt": "2026-10-17T04:21:11.002Z",
+  "totalPulls": 173,
+  "updatedAt": "2026-10-17T08:43:15.913Z",
   "lastPull": {
-    "id": 934,
-    "name": "garganacl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+    "id": 584,
+    "name": "vanilluxe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
     "types": [
-      "rock"
+      "ice"
     ],
-    "totalStats": 500,
+    "totalStats": 535,
     "grade": "SR",
-    "pulledAt": "2026-10-17T04:21:11.002Z"
+    "pulledAt": "2026-10-17T08:43:15.913Z"
   },
   "pulls": [
+    {
+      "id": 584,
+      "name": "vanilluxe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T08:43:15.913Z"
+    },
     {
       "id": 934,
       "name": "garganacl",
@@ -114,17 +125,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-15T23:10:08.976Z"
-    },
-    {
-      "id": 818,
-      "name": "inteleon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-15T20:24:09.042Z"
     }
   ],
   "pokemon": {
@@ -1553,6 +1553,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T22:14:35.515Z",
       "lastPulledAt": "2026-09-23T22:14:35.515Z"
+    },
+    "584": {
+      "id": 584,
+      "name": "vanilluxe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T08:43:15.913Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T08:43:15.913Z",
+      "lastPulledAt": "2026-10-17T08:43:15.913Z"
     },
     "587": {
       "id": 587,
