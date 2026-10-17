@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 177,
-  "updatedAt": "2026-10-17T20:33:07.262Z",
+  "totalPulls": 178,
+  "updatedAt": "2026-10-17T22:37:39.400Z",
   "lastPull": {
-    "id": 164,
-    "name": "noctowl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+    "id": 941,
+    "name": "kilowattrel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
     "types": [
-      "normal",
+      "electric",
       "flying"
     ],
-    "totalStats": 452,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-10-17T20:33:07.262Z"
+    "pulledAt": "2026-10-17T22:37:39.400Z"
   },
   "pulls": [
+    {
+      "id": 941,
+      "name": "kilowattrel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-17T22:37:39.400Z"
+    },
     {
       "id": 164,
       "name": "noctowl",
@@ -116,17 +128,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-16T18:50:44.254Z"
-    },
-    {
-      "id": 353,
-      "name": "shuppet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-10-16T15:17:39.787Z"
     }
   ],
   "pokemon": {
@@ -2614,6 +2615,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T15:26:23.926Z",
       "lastPulledAt": "2026-09-25T15:26:23.926Z"
+    },
+    "941": {
+      "id": 941,
+      "name": "kilowattrel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-17T22:37:39.400Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T22:37:39.400Z",
+      "lastPulledAt": "2026-10-17T22:37:39.400Z"
     },
     "944": {
       "id": 944,
