@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 173,
-  "updatedAt": "2026-10-17T08:43:15.913Z",
+  "totalPulls": 174,
+  "updatedAt": "2026-10-17T12:27:57.652Z",
   "lastPull": {
-    "id": 584,
-    "name": "vanilluxe",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+    "id": 399,
+    "name": "bidoof",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png",
     "types": [
-      "ice"
+      "normal"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-10-17T08:43:15.913Z"
+    "totalStats": 250,
+    "grade": "N",
+    "pulledAt": "2026-10-17T12:27:57.652Z"
   },
   "pulls": [
+    {
+      "id": 399,
+      "name": "bidoof",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-17T12:27:57.652Z"
+    },
     {
       "id": 584,
       "name": "vanilluxe",
@@ -114,17 +125,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-10-16T01:19:41.457Z"
-    },
-    {
-      "id": 912,
-      "name": "quaxly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-15T23:10:08.976Z"
     }
   ],
   "pokemon": {
@@ -1104,6 +1104,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T15:59:48.884Z",
       "lastPulledAt": "2026-09-19T15:59:48.884Z"
+    },
+    "399": {
+      "id": 399,
+      "name": "bidoof",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-17T12:27:57.652Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T12:27:57.652Z",
+      "lastPulledAt": "2026-10-17T12:27:57.652Z"
     },
     "406": {
       "id": 406,
