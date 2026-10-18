@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 183,
-  "updatedAt": "2026-10-18T16:34:36.698Z",
+  "totalPulls": 184,
+  "updatedAt": "2026-10-18T18:53:14.290Z",
   "lastPull": {
-    "id": 982,
-    "name": "dudunsparce-two-segment",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
+    "id": 555,
+    "name": "darmanitan-standard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
     "types": [
-      "normal"
+      "fire"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-10-18T16:34:36.698Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-18T18:53:14.290Z"
   },
   "pulls": [
+    {
+      "id": 555,
+      "name": "darmanitan-standard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-18T18:53:14.290Z"
+    },
     {
       "id": 982,
       "name": "dudunsparce-two-segment",
@@ -117,17 +128,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-10-17T15:50:32.552Z"
-    },
-    {
-      "id": 399,
-      "name": "bidoof",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-10-17T12:27:57.652Z"
     }
   ],
   "pokemon": {
@@ -1558,6 +1558,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T23:06:41.989Z",
       "lastPulledAt": "2026-09-29T23:06:41.989Z"
+    },
+    "555": {
+      "id": 555,
+      "name": "darmanitan-standard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-18T18:53:14.290Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T18:53:14.290Z",
+      "lastPulledAt": "2026-10-18T18:53:14.290Z"
     },
     "561": {
       "id": 561,
