@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 180,
-  "updatedAt": "2026-10-18T04:45:23.500Z",
+  "totalPulls": 181,
+  "updatedAt": "2026-10-18T09:08:45.430Z",
   "lastPull": {
-    "id": 486,
-    "name": "regigigas",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+    "id": 452,
+    "name": "drapion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
     "types": [
-      "normal"
+      "poison",
+      "dark"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-10-18T04:45:23.500Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-18T09:08:45.430Z"
   },
   "pulls": [
+    {
+      "id": 452,
+      "name": "drapion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T09:08:45.430Z"
+    },
     {
       "id": 486,
       "name": "regigigas",
@@ -116,17 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-17T04:21:11.002Z"
-    },
-    {
-      "id": 317,
-      "name": "swalot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 467,
-      "grade": "R",
-      "pulledAt": "2026-10-17T00:08:45.651Z"
     }
   ],
   "pokemon": {
@@ -1263,6 +1265,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T00:37:21.427Z",
       "lastPulledAt": "2026-09-20T00:37:21.427Z"
+    },
+    "452": {
+      "id": 452,
+      "name": "drapion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T09:08:45.430Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T09:08:45.430Z",
+      "lastPulledAt": "2026-10-18T09:08:45.430Z"
     },
     "453": {
       "id": 453,
