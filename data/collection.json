@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 182,
-  "updatedAt": "2026-10-18T13:15:03.685Z",
+  "totalPulls": 183,
+  "updatedAt": "2026-10-18T16:34:36.698Z",
   "lastPull": {
-    "id": 916,
-    "name": "oinkologne-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+    "id": 982,
+    "name": "dudunsparce-two-segment",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
     "types": [
       "normal"
     ],
-    "totalStats": 489,
-    "grade": "R",
-    "pulledAt": "2026-10-18T13:15:03.685Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-18T16:34:36.698Z"
   },
   "pulls": [
+    {
+      "id": 982,
+      "name": "dudunsparce-two-segment",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T16:34:36.698Z"
+    },
     {
       "id": 916,
       "name": "oinkologne-male",
@@ -117,17 +128,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-10-17T12:27:57.652Z"
-    },
-    {
-      "id": 584,
-      "name": "vanilluxe",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T08:43:15.913Z"
     }
   ],
   "pokemon": {
@@ -2755,6 +2755,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T15:12:26.611Z",
       "lastPulledAt": "2026-09-24T15:12:26.611Z"
+    },
+    "982": {
+      "id": 982,
+      "name": "dudunsparce-two-segment",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T16:34:36.698Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T16:34:36.698Z",
+      "lastPulledAt": "2026-10-18T16:34:36.698Z"
     },
     "1014": {
       "id": 1014,
