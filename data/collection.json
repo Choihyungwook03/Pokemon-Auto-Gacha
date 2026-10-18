@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 184,
-  "updatedAt": "2026-10-18T18:53:14.290Z",
+  "totalPulls": 185,
+  "updatedAt": "2026-10-18T21:14:38.990Z",
   "lastPull": {
-    "id": 555,
-    "name": "darmanitan-standard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+    "id": 502,
+    "name": "dewott",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
     "types": [
-      "fire"
+      "water"
     ],
-    "totalStats": 480,
+    "totalStats": 413,
     "grade": "R",
-    "pulledAt": "2026-10-18T18:53:14.290Z"
+    "pulledAt": "2026-10-18T21:14:38.990Z"
   },
   "pulls": [
+    {
+      "id": 502,
+      "name": "dewott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 413,
+      "grade": "R",
+      "pulledAt": "2026-10-18T21:14:38.990Z"
+    },
     {
       "id": 555,
       "name": "darmanitan-standard",
@@ -116,18 +127,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-17T18:08:32.736Z"
-    },
-    {
-      "id": 102,
-      "name": "exeggcute",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
-      "types": [
-        "grass",
-        "psychic"
-      ],
-      "totalStats": 325,
-      "grade": "N",
-      "pulledAt": "2026-10-17T15:50:32.552Z"
     }
   ],
   "pokemon": {
@@ -1421,6 +1420,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T00:53:39.293Z",
       "lastPulledAt": "2026-09-26T00:53:39.293Z"
+    },
+    "502": {
+      "id": 502,
+      "name": "dewott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 413,
+      "grade": "R",
+      "pulledAt": "2026-10-18T21:14:38.990Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T21:14:38.990Z",
+      "lastPulledAt": "2026-10-18T21:14:38.990Z"
     },
     "503": {
       "id": 503,
