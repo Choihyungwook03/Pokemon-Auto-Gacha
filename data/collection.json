@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 181,
-  "updatedAt": "2026-10-18T09:08:45.430Z",
+  "totalPulls": 182,
+  "updatedAt": "2026-10-18T13:15:03.685Z",
   "lastPull": {
-    "id": 452,
-    "name": "drapion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
+    "id": 916,
+    "name": "oinkologne-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
     "types": [
-      "poison",
-      "dark"
+      "normal"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-18T09:08:45.430Z"
+    "totalStats": 489,
+    "grade": "R",
+    "pulledAt": "2026-10-18T13:15:03.685Z"
   },
   "pulls": [
+    {
+      "id": 916,
+      "name": "oinkologne-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-10-18T13:15:03.685Z"
+    },
     {
       "id": 452,
       "name": "drapion",
@@ -118,17 +128,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-17T08:43:15.913Z"
-    },
-    {
-      "id": 934,
-      "name": "garganacl",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T04:21:11.002Z"
     }
   ],
   "pokemon": {
@@ -2601,6 +2600,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T05:23:34.163Z",
       "lastPulledAt": "2026-09-20T05:23:34.163Z"
+    },
+    "916": {
+      "id": 916,
+      "name": "oinkologne-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-10-18T13:15:03.685Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T13:15:03.685Z",
+      "lastPulledAt": "2026-10-18T13:15:03.685Z"
     },
     "925": {
       "id": 925,
