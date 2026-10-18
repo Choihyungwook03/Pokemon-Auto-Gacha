@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 179,
-  "updatedAt": "2026-10-18T00:17:24.346Z",
+  "totalPulls": 180,
+  "updatedAt": "2026-10-18T04:45:23.500Z",
   "lastPull": {
-    "id": 605,
-    "name": "elgyem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+    "id": 486,
+    "name": "regigigas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
     "types": [
-      "psychic"
+      "normal"
     ],
-    "totalStats": 335,
-    "grade": "N",
-    "pulledAt": "2026-10-18T00:17:24.346Z"
+    "totalStats": 670,
+    "grade": "SSR",
+    "pulledAt": "2026-10-18T04:45:23.500Z"
   },
   "pulls": [
+    {
+      "id": 486,
+      "name": "regigigas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-10-18T04:45:23.500Z"
+    },
     {
       "id": 605,
       "name": "elgyem",
@@ -116,17 +127,6 @@
       "totalStats": 467,
       "grade": "R",
       "pulledAt": "2026-10-17T00:08:45.651Z"
-    },
-    {
-      "id": 465,
-      "name": "tangrowth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-16T21:54:26.407Z"
     }
   ],
   "pokemon": {
@@ -1373,6 +1373,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T01:27:28.287Z",
       "lastPulledAt": "2026-09-29T01:27:28.287Z"
+    },
+    "486": {
+      "id": 486,
+      "name": "regigigas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-10-18T04:45:23.500Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T04:45:23.500Z",
+      "lastPulledAt": "2026-10-18T04:45:23.500Z"
     },
     "500": {
       "id": 500,
