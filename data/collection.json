@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 187,
-  "updatedAt": "2026-10-19T01:24:26.388Z",
+  "totalPulls": 188,
+  "updatedAt": "2026-10-19T06:31:16.897Z",
   "lastPull": {
-    "id": 939,
-    "name": "bellibolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+    "id": 216,
+    "name": "teddiursa",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
     "types": [
-      "electric"
+      "normal"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-19T01:24:26.388Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-19T06:31:16.897Z"
   },
   "pulls": [
+    {
+      "id": 216,
+      "name": "teddiursa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-19T06:31:16.897Z"
+    },
     {
       "id": 939,
       "name": "bellibolt",
@@ -113,18 +124,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-10-18T00:17:24.346Z"
-    },
-    {
-      "id": 941,
-      "name": "kilowattrel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-17T22:37:39.400Z"
     }
   ],
   "pokemon": {
@@ -749,6 +748,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T05:28:44.654Z",
       "lastPulledAt": "2026-09-23T05:28:44.654Z"
+    },
+    "216": {
+      "id": 216,
+      "name": "teddiursa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-19T06:31:16.897Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T06:31:16.897Z",
+      "lastPulledAt": "2026-10-19T06:31:16.897Z"
     },
     "226": {
       "id": 226,
