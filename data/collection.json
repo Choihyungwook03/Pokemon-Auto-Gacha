@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 196,
-  "updatedAt": "2026-10-20T20:42:57.689Z",
+  "totalPulls": 197,
+  "updatedAt": "2026-10-20T23:27:38.280Z",
   "lastPull": {
-    "id": 630,
-    "name": "mandibuzz",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+    "id": 802,
+    "name": "marshadow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
     "types": [
-      "dark",
-      "flying"
+      "fighting",
+      "ghost"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-20T20:42:57.689Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-20T23:27:38.280Z"
   },
   "pulls": [
+    {
+      "id": 802,
+      "name": "marshadow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-20T23:27:38.280Z"
+    },
     {
       "id": 630,
       "name": "mandibuzz",
@@ -118,17 +130,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-19T06:31:16.897Z"
-    },
-    {
-      "id": 939,
-      "name": "bellibolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-19T01:24:26.388Z"
     }
   ],
   "pokemon": {
@@ -2352,6 +2353,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:54:37.954Z",
       "lastPulledAt": "2026-09-16T11:54:37.954Z"
+    },
+    "802": {
+      "id": 802,
+      "name": "marshadow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-20T23:27:38.280Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T23:27:38.280Z",
+      "lastPulledAt": "2026-10-20T23:27:38.280Z"
     },
     "813": {
       "id": 813,
