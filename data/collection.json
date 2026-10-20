@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 191,
-  "updatedAt": "2026-10-19T23:04:46.101Z",
+  "totalPulls": 192,
+  "updatedAt": "2026-10-20T01:44:53.956Z",
   "lastPull": {
-    "id": 280,
-    "name": "ralts",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+    "id": 412,
+    "name": "burmy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
     "types": [
-      "psychic",
-      "fairy"
+      "bug"
     ],
-    "totalStats": 198,
+    "totalStats": 224,
     "grade": "N",
-    "pulledAt": "2026-10-19T23:04:46.101Z"
+    "pulledAt": "2026-10-20T01:44:53.956Z"
   },
   "pulls": [
+    {
+      "id": 412,
+      "name": "burmy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 224,
+      "grade": "N",
+      "pulledAt": "2026-10-20T01:44:53.956Z"
+    },
     {
       "id": 280,
       "name": "ralts",
@@ -115,17 +125,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-18T16:34:36.698Z"
-    },
-    {
-      "id": 916,
-      "name": "oinkologne-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 489,
-      "grade": "R",
-      "pulledAt": "2026-10-18T13:15:03.685Z"
     }
   ],
   "pokemon": {
@@ -1199,6 +1198,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:23:59.655Z",
       "lastPulledAt": "2026-09-20T17:23:59.655Z"
+    },
+    "412": {
+      "id": 412,
+      "name": "burmy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 224,
+      "grade": "N",
+      "pulledAt": "2026-10-20T01:44:53.956Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T01:44:53.956Z",
+      "lastPulledAt": "2026-10-20T01:44:53.956Z"
     },
     "414": {
       "id": 414,
