@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 193,
-  "updatedAt": "2026-10-20T06:41:36.205Z",
+  "totalPulls": 194,
+  "updatedAt": "2026-10-20T12:17:54.163Z",
   "lastPull": {
-    "id": 419,
-    "name": "floatzel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+    "id": 978,
+    "name": "tatsugiri-curly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
     "types": [
+      "dragon",
       "water"
     ],
-    "totalStats": 495,
+    "totalStats": 475,
     "grade": "R",
-    "pulledAt": "2026-10-20T06:41:36.205Z"
+    "pulledAt": "2026-10-20T12:17:54.163Z"
   },
   "pulls": [
+    {
+      "id": 978,
+      "name": "tatsugiri-curly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-20T12:17:54.163Z"
+    },
     {
       "id": 419,
       "name": "floatzel",
@@ -114,17 +127,6 @@
       "totalStats": 413,
       "grade": "R",
       "pulledAt": "2026-10-18T21:14:38.990Z"
-    },
-    {
-      "id": 555,
-      "name": "darmanitan-standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-18T18:53:14.290Z"
     }
   ],
   "pokemon": {
@@ -2889,6 +2891,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T15:12:26.611Z",
       "lastPulledAt": "2026-09-24T15:12:26.611Z"
+    },
+    "978": {
+      "id": 978,
+      "name": "tatsugiri-curly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-20T12:17:54.163Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T12:17:54.163Z",
+      "lastPulledAt": "2026-10-20T12:17:54.163Z"
     },
     "982": {
       "id": 982,
