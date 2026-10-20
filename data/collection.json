@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 195,
-  "updatedAt": "2026-10-20T17:19:48.100Z",
+  "totalPulls": 196,
+  "updatedAt": "2026-10-20T20:42:57.689Z",
   "lastPull": {
-    "id": 500,
-    "name": "emboar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+    "id": 630,
+    "name": "mandibuzz",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
     "types": [
-      "fire",
-      "fighting"
+      "dark",
+      "flying"
     ],
-    "totalStats": 528,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-10-20T17:19:48.100Z"
+    "pulledAt": "2026-10-20T20:42:57.689Z"
   },
   "pulls": [
+    {
+      "id": 630,
+      "name": "mandibuzz",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T20:42:57.689Z"
+    },
     {
       "id": 500,
       "name": "emboar",
@@ -117,17 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-19T01:24:26.388Z"
-    },
-    {
-      "id": 670,
-      "name": "floette",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 371,
-      "grade": "N",
-      "pulledAt": "2026-10-18T23:19:30.043Z"
     }
   ],
   "pokemon": {
@@ -1939,10 +1940,10 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-07T19:43:05.176Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T19:43:05.176Z",
-      "lastPulledAt": "2026-10-07T19:43:05.176Z"
+      "lastPulledAt": "2026-10-20T20:42:57.689Z"
     },
     "636": {
       "id": 636,
