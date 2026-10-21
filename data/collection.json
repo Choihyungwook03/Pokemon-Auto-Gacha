@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 199,
-  "updatedAt": "2026-10-21T07:01:34.360Z",
+  "totalPulls": 200,
+  "updatedAt": "2026-10-21T12:53:22.845Z",
   "lastPull": {
-    "id": 71,
-    "name": "victreebel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "id": 550,
+    "name": "basculin-red-striped",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
     "types": [
-      "grass",
-      "poison"
+      "water"
     ],
-    "totalStats": 490,
+    "totalStats": 460,
     "grade": "R",
-    "pulledAt": "2026-10-21T07:01:34.360Z"
+    "pulledAt": "2026-10-21T12:53:22.845Z"
   },
   "pulls": [
+    {
+      "id": 550,
+      "name": "basculin-red-striped",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-21T12:53:22.845Z"
+    },
     {
       "id": 71,
       "name": "victreebel",
@@ -119,17 +129,6 @@
       "totalStats": 198,
       "grade": "N",
       "pulledAt": "2026-10-19T23:04:46.101Z"
-    },
-    {
-      "id": 857,
-      "name": "hattrem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-10-19T19:37:59.734Z"
     }
   ],
   "pokemon": {
@@ -1636,6 +1635,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T23:06:41.989Z",
       "lastPulledAt": "2026-09-29T23:06:41.989Z"
+    },
+    "550": {
+      "id": 550,
+      "name": "basculin-red-striped",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-21T12:53:22.845Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T12:53:22.845Z",
+      "lastPulledAt": "2026-10-21T12:53:22.845Z"
     },
     "555": {
       "id": 555,
