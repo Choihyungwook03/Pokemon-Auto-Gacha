@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 200,
-  "updatedAt": "2026-10-21T12:53:22.845Z",
+  "totalPulls": 201,
+  "updatedAt": "2026-10-21T17:53:45.759Z",
   "lastPull": {
-    "id": 550,
-    "name": "basculin-red-striped",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+    "id": 170,
+    "name": "chinchou",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
     "types": [
-      "water"
+      "water",
+      "electric"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-10-21T12:53:22.845Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-21T17:53:45.759Z"
   },
   "pulls": [
+    {
+      "id": 170,
+      "name": "chinchou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-21T17:53:45.759Z"
+    },
     {
       "id": 550,
       "name": "basculin-red-striped",
@@ -117,18 +130,6 @@
       "totalStats": 224,
       "grade": "N",
       "pulledAt": "2026-10-20T01:44:53.956Z"
-    },
-    {
-      "id": 280,
-      "name": "ralts",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 198,
-      "grade": "N",
-      "pulledAt": "2026-10-19T23:04:46.101Z"
     }
   ],
   "pokemon": {
@@ -569,6 +570,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T19:15:00.981Z",
       "lastPulledAt": "2026-09-24T19:15:00.981Z"
+    },
+    "170": {
+      "id": 170,
+      "name": "chinchou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-21T17:53:45.759Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T17:53:45.759Z",
+      "lastPulledAt": "2026-10-21T17:53:45.759Z"
     },
     "171": {
       "id": 171,
