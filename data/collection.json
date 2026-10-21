@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 198,
-  "updatedAt": "2026-10-21T01:53:00.161Z",
+  "totalPulls": 199,
+  "updatedAt": "2026-10-21T07:01:34.360Z",
   "lastPull": {
-    "id": 674,
-    "name": "pancham",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
+    "id": 71,
+    "name": "victreebel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
     "types": [
-      "fighting"
+      "grass",
+      "poison"
     ],
-    "totalStats": 348,
-    "grade": "N",
-    "pulledAt": "2026-10-21T01:53:00.161Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-21T07:01:34.360Z"
   },
   "pulls": [
+    {
+      "id": 71,
+      "name": "victreebel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-21T07:01:34.360Z"
+    },
     {
       "id": 674,
       "name": "pancham",
@@ -117,18 +130,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-10-19T19:37:59.734Z"
-    },
-    {
-      "id": 580,
-      "name": "ducklett",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-19T13:54:13.801Z"
     }
   ],
   "pokemon": {
@@ -285,10 +286,10 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-09T02:57:54.616Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T02:57:54.616Z",
-      "lastPulledAt": "2026-10-09T02:57:54.616Z"
+      "lastPulledAt": "2026-10-21T07:01:34.360Z"
     },
     "74": {
       "id": 74,
