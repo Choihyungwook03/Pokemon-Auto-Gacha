@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 201,
-  "updatedAt": "2026-10-21T17:53:45.759Z",
+  "totalPulls": 202,
+  "updatedAt": "2026-10-21T21:14:01.524Z",
   "lastPull": {
-    "id": 170,
-    "name": "chinchou",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+    "id": 1003,
+    "name": "ting-lu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
     "types": [
-      "water",
-      "electric"
+      "dark",
+      "ground"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-21T17:53:45.759Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-21T21:14:01.524Z"
   },
   "pulls": [
+    {
+      "id": 1003,
+      "name": "ting-lu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+      "types": [
+        "dark",
+        "ground"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T21:14:01.524Z"
+    },
     {
       "id": 170,
       "name": "chinchou",
@@ -119,17 +131,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-20T06:41:36.205Z"
-    },
-    {
-      "id": 412,
-      "name": "burmy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 224,
-      "grade": "N",
-      "pulledAt": "2026-10-20T01:44:53.956Z"
     }
   ],
   "pokemon": {
@@ -2987,6 +2988,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T16:34:36.698Z",
       "lastPulledAt": "2026-10-18T16:34:36.698Z"
+    },
+    "1003": {
+      "id": 1003,
+      "name": "ting-lu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+      "types": [
+        "dark",
+        "ground"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T21:14:01.524Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T21:14:01.524Z",
+      "lastPulledAt": "2026-10-21T21:14:01.524Z"
     },
     "1014": {
       "id": 1014,
