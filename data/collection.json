@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 205,
-  "updatedAt": "2026-10-22T09:36:27.754Z",
+  "totalPulls": 206,
+  "updatedAt": "2026-10-22T14:44:48.978Z",
   "lastPull": {
-    "id": 835,
-    "name": "yamper",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+    "id": 656,
+    "name": "froakie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
     "types": [
-      "electric"
+      "water"
     ],
-    "totalStats": 270,
+    "totalStats": 314,
     "grade": "N",
-    "pulledAt": "2026-10-22T09:36:27.754Z"
+    "pulledAt": "2026-10-22T14:44:48.978Z"
   },
   "pulls": [
+    {
+      "id": 656,
+      "name": "froakie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-10-22T14:44:48.978Z"
+    },
     {
       "id": 835,
       "name": "yamper",
@@ -117,18 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-20T23:27:38.280Z"
-    },
-    {
-      "id": 630,
-      "name": "mandibuzz",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T20:42:57.689Z"
     }
   ],
   "pokemon": {
@@ -2037,6 +2036,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T22:42:33.908Z",
       "lastPulledAt": "2026-09-21T22:42:33.908Z"
+    },
+    "656": {
+      "id": 656,
+      "name": "froakie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-10-22T14:44:48.978Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T14:44:48.978Z",
+      "lastPulledAt": "2026-10-22T14:44:48.978Z"
     },
     "657": {
       "id": 657,
