@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 204,
-  "updatedAt": "2026-10-22T04:34:32.732Z",
+  "totalPulls": 205,
+  "updatedAt": "2026-10-22T09:36:27.754Z",
   "lastPull": {
-    "id": 622,
-    "name": "golett",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+    "id": 835,
+    "name": "yamper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
     "types": [
-      "ground",
-      "ghost"
+      "electric"
     ],
-    "totalStats": 303,
+    "totalStats": 270,
     "grade": "N",
-    "pulledAt": "2026-10-22T04:34:32.732Z"
+    "pulledAt": "2026-10-22T09:36:27.754Z"
   },
   "pulls": [
+    {
+      "id": 835,
+      "name": "yamper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-22T09:36:27.754Z"
+    },
     {
       "id": 622,
       "name": "golett",
@@ -119,18 +129,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-20T20:42:57.689Z"
-    },
-    {
-      "id": 500,
-      "name": "emboar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 528,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T17:19:48.100Z"
     }
   ],
   "pokemon": {
@@ -2534,10 +2532,10 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-09-29T19:27:07.585Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T19:27:07.585Z",
-      "lastPulledAt": "2026-09-29T19:27:07.585Z"
+      "lastPulledAt": "2026-10-22T09:36:27.754Z"
     },
     "836": {
       "id": 836,
