@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 208,
-  "updatedAt": "2026-10-22T21:56:54.039Z",
+  "totalPulls": 209,
+  "updatedAt": "2026-10-23T00:26:35.187Z",
   "lastPull": {
-    "id": 779,
-    "name": "bruxish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+    "id": 516,
+    "name": "simipour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
     "types": [
-      "water",
-      "psychic"
+      "water"
     ],
-    "totalStats": 475,
+    "totalStats": 498,
     "grade": "R",
-    "pulledAt": "2026-10-22T21:56:54.039Z"
+    "pulledAt": "2026-10-23T00:26:35.187Z"
   },
   "pulls": [
+    {
+      "id": 516,
+      "name": "simipour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-10-23T00:26:35.187Z"
+    },
     {
       "id": 779,
       "name": "bruxish",
@@ -117,18 +127,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-10-21T12:53:22.845Z"
-    },
-    {
-      "id": 71,
-      "name": "victreebel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-21T07:01:34.360Z"
     }
   ],
   "pokemon": {
@@ -1559,6 +1557,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T11:51:39.716Z",
       "lastPulledAt": "2026-10-22T00:01:39.718Z"
+    },
+    "516": {
+      "id": 516,
+      "name": "simipour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-10-23T00:26:35.187Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T00:26:35.187Z",
+      "lastPulledAt": "2026-10-23T00:26:35.187Z"
     },
     "525": {
       "id": 525,
