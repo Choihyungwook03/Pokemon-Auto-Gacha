@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 209,
-  "updatedAt": "2026-10-23T00:26:35.187Z",
+  "totalPulls": 210,
+  "updatedAt": "2026-10-23T05:11:46.971Z",
   "lastPull": {
-    "id": 516,
-    "name": "simipour",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+    "id": 949,
+    "name": "toedscruel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
     "types": [
-      "water"
+      "ground",
+      "grass"
     ],
-    "totalStats": 498,
-    "grade": "R",
-    "pulledAt": "2026-10-23T00:26:35.187Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-10-23T05:11:46.971Z"
   },
   "pulls": [
+    {
+      "id": 949,
+      "name": "toedscruel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
+      "types": [
+        "ground",
+        "grass"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T05:11:46.971Z"
+    },
     {
       "id": 516,
       "name": "simipour",
@@ -116,17 +129,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-21T17:53:45.759Z"
-    },
-    {
-      "id": 550,
-      "name": "basculin-red-striped",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-10-21T12:53:22.845Z"
     }
   ],
   "pokemon": {
@@ -2967,6 +2969,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T18:08:32.736Z",
       "lastPulledAt": "2026-10-17T18:08:32.736Z"
+    },
+    "949": {
+      "id": 949,
+      "name": "toedscruel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
+      "types": [
+        "ground",
+        "grass"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T05:11:46.971Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T05:11:46.971Z",
+      "lastPulledAt": "2026-10-23T05:11:46.971Z"
     },
     "971": {
       "id": 971,
