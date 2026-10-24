@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 216,
-  "updatedAt": "2026-10-24T05:06:59.521Z",
+  "totalPulls": 217,
+  "updatedAt": "2026-10-24T09:28:47.946Z",
   "lastPull": {
-    "id": 786,
-    "name": "tapu-lele",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "id": 445,
+    "name": "garchomp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
     "types": [
-      "psychic",
-      "fairy"
+      "dragon",
+      "ground"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-24T05:06:59.521Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-24T09:28:47.946Z"
   },
   "pulls": [
+    {
+      "id": 445,
+      "name": "garchomp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-24T09:28:47.946Z"
+    },
     {
       "id": 786,
       "name": "tapu-lele",
@@ -119,17 +131,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-22T21:56:54.039Z"
-    },
-    {
-      "id": 736,
-      "name": "grubbin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-22T18:48:59.522Z"
     }
   ],
   "pokemon": {
@@ -1339,10 +1340,10 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-11T21:51:47.370Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T21:51:47.370Z",
-      "lastPulledAt": "2026-10-11T21:51:47.370Z"
+      "lastPulledAt": "2026-10-24T09:28:47.946Z"
     },
     "448": {
       "id": 448,
