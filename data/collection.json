@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 214,
-  "updatedAt": "2026-10-23T22:17:06.216Z",
+  "totalPulls": 215,
+  "updatedAt": "2026-10-24T00:47:55.980Z",
   "lastPull": {
-    "id": 761,
-    "name": "bounsweet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
+    "id": 330,
+    "name": "flygon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
     "types": [
-      "grass"
+      "ground",
+      "dragon"
     ],
-    "totalStats": 210,
-    "grade": "N",
-    "pulledAt": "2026-10-23T22:17:06.216Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-24T00:47:55.980Z"
   },
   "pulls": [
+    {
+      "id": 330,
+      "name": "flygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T00:47:55.980Z"
+    },
     {
       "id": 761,
       "name": "bounsweet",
@@ -116,17 +129,6 @@
       "totalStats": 314,
       "grade": "N",
       "pulledAt": "2026-10-22T14:44:48.978Z"
-    },
-    {
-      "id": 835,
-      "name": "yamper",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-22T09:36:27.754Z"
     }
   ],
   "pokemon": {
@@ -1077,6 +1079,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T00:08:45.651Z",
       "lastPulledAt": "2026-10-17T00:08:45.651Z"
+    },
+    "330": {
+      "id": 330,
+      "name": "flygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T00:47:55.980Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T00:47:55.980Z",
+      "lastPulledAt": "2026-10-24T00:47:55.980Z"
     },
     "353": {
       "id": 353,
