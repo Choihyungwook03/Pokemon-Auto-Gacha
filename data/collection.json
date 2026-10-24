@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 218,
-  "updatedAt": "2026-10-24T13:32:03.708Z",
+  "totalPulls": 219,
+  "updatedAt": "2026-10-24T16:55:55.950Z",
   "lastPull": {
-    "id": 570,
-    "name": "zorua",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+    "id": 106,
+    "name": "hitmonlee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
     "types": [
-      "dark"
+      "fighting"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-24T13:32:03.708Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-10-24T16:55:55.950Z"
   },
   "pulls": [
+    {
+      "id": 106,
+      "name": "hitmonlee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-24T16:55:55.950Z"
+    },
     {
       "id": 570,
       "name": "zorua",
@@ -118,17 +129,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-23T05:11:46.971Z"
-    },
-    {
-      "id": 516,
-      "name": "simipour",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 498,
-      "grade": "R",
-      "pulledAt": "2026-10-23T00:26:35.187Z"
     }
   ],
   "pokemon": {
@@ -415,6 +415,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T15:50:32.552Z",
       "lastPulledAt": "2026-10-17T15:50:32.552Z"
+    },
+    "106": {
+      "id": 106,
+      "name": "hitmonlee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-24T16:55:55.950Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T16:55:55.950Z",
+      "lastPulledAt": "2026-10-24T16:55:55.950Z"
     },
     "114": {
       "id": 114,
