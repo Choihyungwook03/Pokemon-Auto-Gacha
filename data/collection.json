@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 221,
-  "updatedAt": "2026-10-24T21:39:19.390Z",
+  "totalPulls": 222,
+  "updatedAt": "2026-10-24T23:43:07.053Z",
   "lastPull": {
-    "id": 198,
-    "name": "murkrow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+    "id": 710,
+    "name": "pumpkaboo-average",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
     "types": [
-      "dark",
-      "flying"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-24T21:39:19.390Z"
+    "totalStats": 335,
+    "grade": "N",
+    "pulledAt": "2026-10-24T23:43:07.053Z"
   },
   "pulls": [
+    {
+      "id": 710,
+      "name": "pumpkaboo-average",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-10-24T23:43:07.053Z"
+    },
     {
       "id": 198,
       "name": "murkrow",
@@ -119,18 +131,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-23T19:11:57.500Z"
-    },
-    {
-      "id": 632,
-      "name": "durant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 484,
-      "grade": "R",
-      "pulledAt": "2026-10-23T15:09:59.773Z"
     }
   ],
   "pokemon": {
@@ -2271,6 +2271,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T18:59:10.382Z",
       "lastPulledAt": "2026-09-17T18:59:10.382Z"
+    },
+    "710": {
+      "id": 710,
+      "name": "pumpkaboo-average",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-10-24T23:43:07.053Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T23:43:07.053Z",
+      "lastPulledAt": "2026-10-24T23:43:07.053Z"
     },
     "715": {
       "id": 715,
