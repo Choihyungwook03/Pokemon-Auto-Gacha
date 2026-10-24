@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 220,
-  "updatedAt": "2026-10-24T19:15:14.097Z",
+  "totalPulls": 221,
+  "updatedAt": "2026-10-24T21:39:19.390Z",
   "lastPull": {
-    "id": 886,
-    "name": "drakloak",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
+    "id": 198,
+    "name": "murkrow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
     "types": [
-      "dragon",
-      "ghost"
+      "dark",
+      "flying"
     ],
-    "totalStats": 410,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-10-24T19:15:14.097Z"
+    "pulledAt": "2026-10-24T21:39:19.390Z"
   },
   "pulls": [
+    {
+      "id": 198,
+      "name": "murkrow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-24T21:39:19.390Z"
+    },
     {
       "id": 886,
       "name": "drakloak",
@@ -119,17 +131,6 @@
       "totalStats": 484,
       "grade": "R",
       "pulledAt": "2026-10-23T15:09:59.773Z"
-    },
-    {
-      "id": 750,
-      "name": "mudsdale",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T10:10:13.497Z"
     }
   ],
   "pokemon": {
@@ -709,6 +710,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T22:03:23.979Z",
       "lastPulledAt": "2026-09-17T22:03:23.979Z"
+    },
+    "198": {
+      "id": 198,
+      "name": "murkrow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-24T21:39:19.390Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T21:39:19.390Z",
+      "lastPulledAt": "2026-10-24T21:39:19.390Z"
     },
     "200": {
       "id": 200,
