@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 215,
-  "updatedAt": "2026-10-24T00:47:55.980Z",
+  "totalPulls": 216,
+  "updatedAt": "2026-10-24T05:06:59.521Z",
   "lastPull": {
-    "id": 330,
-    "name": "flygon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+    "id": 786,
+    "name": "tapu-lele",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
     "types": [
-      "ground",
-      "dragon"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 520,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-24T00:47:55.980Z"
+    "pulledAt": "2026-10-24T05:06:59.521Z"
   },
   "pulls": [
+    {
+      "id": 786,
+      "name": "tapu-lele",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T05:06:59.521Z"
+    },
     {
       "id": 330,
       "name": "flygon",
@@ -118,17 +130,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-22T18:48:59.522Z"
-    },
-    {
-      "id": 656,
-      "name": "froakie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 314,
-      "grade": "N",
-      "pulledAt": "2026-10-22T14:44:48.978Z"
     }
   ],
   "pokemon": {
@@ -2441,6 +2442,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T01:21:14.779Z",
       "lastPulledAt": "2026-10-22T21:56:54.039Z"
+    },
+    "786": {
+      "id": 786,
+      "name": "tapu-lele",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T05:06:59.521Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T05:06:59.521Z",
+      "lastPulledAt": "2026-10-24T05:06:59.521Z"
     },
     "787": {
       "id": 787,
