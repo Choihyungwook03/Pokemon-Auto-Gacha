@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 228,
-  "updatedAt": "2026-10-25T21:53:25.705Z",
+  "totalPulls": 229,
+  "updatedAt": "2026-10-25T23:47:15.632Z",
   "lastPull": {
-    "id": 409,
-    "name": "rampardos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "id": 937,
+    "name": "ceruledge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
     "types": [
-      "rock"
+      "fire",
+      "ghost"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-25T21:53:25.705Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-25T23:47:15.632Z"
   },
   "pulls": [
+    {
+      "id": 937,
+      "name": "ceruledge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T23:47:15.632Z"
+    },
     {
       "id": 409,
       "name": "rampardos",
@@ -120,17 +133,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-24T19:15:14.097Z"
-    },
-    {
-      "id": 106,
-      "name": "hitmonlee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-24T16:55:55.950Z"
     }
   ],
   "pokemon": {
@@ -3159,6 +3161,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T04:21:11.002Z",
       "lastPulledAt": "2026-10-17T04:21:11.002Z"
+    },
+    "937": {
+      "id": 937,
+      "name": "ceruledge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T23:47:15.632Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T23:47:15.632Z",
+      "lastPulledAt": "2026-10-25T23:47:15.632Z"
     },
     "939": {
       "id": 939,
