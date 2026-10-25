@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 227,
-  "updatedAt": "2026-10-25T19:17:59.025Z",
+  "totalPulls": 228,
+  "updatedAt": "2026-10-25T21:53:25.705Z",
   "lastPull": {
-    "id": 711,
-    "name": "gourgeist-average",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+    "id": 409,
+    "name": "rampardos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
     "types": [
-      "ghost",
-      "grass"
+      "rock"
     ],
-    "totalStats": 494,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-10-25T19:17:59.025Z"
+    "pulledAt": "2026-10-25T21:53:25.705Z"
   },
   "pulls": [
+    {
+      "id": 409,
+      "name": "rampardos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-25T21:53:25.705Z"
+    },
     {
       "id": 711,
       "name": "gourgeist-average",
@@ -121,17 +131,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-24T16:55:55.950Z"
-    },
-    {
-      "id": 570,
-      "name": "zorua",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-24T13:32:03.708Z"
     }
   ],
   "pokemon": {
@@ -1316,6 +1315,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:23:59.655Z",
       "lastPulledAt": "2026-09-20T17:23:59.655Z"
+    },
+    "409": {
+      "id": 409,
+      "name": "rampardos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-25T21:53:25.705Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T21:53:25.705Z",
+      "lastPulledAt": "2026-10-25T21:53:25.705Z"
     },
     "412": {
       "id": 412,
