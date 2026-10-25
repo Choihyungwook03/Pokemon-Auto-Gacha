@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 223,
-  "updatedAt": "2026-10-25T01:44:01.808Z",
+  "totalPulls": 224,
+  "updatedAt": "2026-10-25T06:57:01.459Z",
   "lastPull": {
-    "id": 45,
-    "name": "vileplume",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "id": 205,
+    "name": "forretress",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
     "types": [
-      "grass",
-      "poison"
+      "bug",
+      "steel"
     ],
-    "totalStats": 490,
+    "totalStats": 465,
     "grade": "R",
-    "pulledAt": "2026-10-25T01:44:01.808Z"
+    "pulledAt": "2026-10-25T06:57:01.459Z"
   },
   "pulls": [
+    {
+      "id": 205,
+      "name": "forretress",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-25T06:57:01.459Z"
+    },
     {
       "id": 45,
       "name": "vileplume",
@@ -120,17 +132,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-24T00:47:55.980Z"
-    },
-    {
-      "id": 761,
-      "name": "bounsweet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-10-23T22:17:06.216Z"
     }
   ],
   "pokemon": {
@@ -787,6 +788,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T18:29:27.019Z",
       "lastPulledAt": "2026-10-02T18:29:27.019Z"
+    },
+    "205": {
+      "id": 205,
+      "name": "forretress",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-25T06:57:01.459Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T06:57:01.459Z",
+      "lastPulledAt": "2026-10-25T06:57:01.459Z"
     },
     "206": {
       "id": 206,
