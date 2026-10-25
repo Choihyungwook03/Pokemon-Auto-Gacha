@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 225,
-  "updatedAt": "2026-10-25T12:23:41.514Z",
+  "totalPulls": 226,
+  "updatedAt": "2026-10-25T16:40:10.334Z",
   "lastPull": {
-    "id": 462,
-    "name": "magnezone",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+    "id": 385,
+    "name": "jirachi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png",
     "types": [
-      "electric",
-      "steel"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T12:23:41.514Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-25T16:40:10.334Z"
   },
   "pulls": [
+    {
+      "id": 385,
+      "name": "jirachi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-25T16:40:10.334Z"
+    },
     {
       "id": 462,
       "name": "magnezone",
@@ -120,18 +132,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-24T09:28:47.946Z"
-    },
-    {
-      "id": 786,
-      "name": "tapu-lele",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T05:06:59.521Z"
     }
   ],
   "pokemon": {
@@ -1253,6 +1253,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T13:53:12.108Z",
       "lastPulledAt": "2026-10-07T13:53:12.108Z"
+    },
+    "385": {
+      "id": 385,
+      "name": "jirachi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-25T16:40:10.334Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T16:40:10.334Z",
+      "lastPulledAt": "2026-10-25T16:40:10.334Z"
     },
     "392": {
       "id": 392,
