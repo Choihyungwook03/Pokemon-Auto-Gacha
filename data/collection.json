@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 224,
-  "updatedAt": "2026-10-25T06:57:01.459Z",
+  "totalPulls": 225,
+  "updatedAt": "2026-10-25T12:23:41.514Z",
   "lastPull": {
-    "id": 205,
-    "name": "forretress",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+    "id": 462,
+    "name": "magnezone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
     "types": [
-      "bug",
+      "electric",
       "steel"
     ],
-    "totalStats": 465,
-    "grade": "R",
-    "pulledAt": "2026-10-25T06:57:01.459Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-10-25T12:23:41.514Z"
   },
   "pulls": [
+    {
+      "id": 462,
+      "name": "magnezone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T12:23:41.514Z"
+    },
     {
       "id": 205,
       "name": "forretress",
@@ -120,18 +132,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-24T05:06:59.521Z"
-    },
-    {
-      "id": 330,
-      "name": "flygon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
-      "types": [
-        "ground",
-        "dragon"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T00:47:55.980Z"
     }
   ],
   "pokemon": {
@@ -1472,6 +1472,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T15:04:48.619Z",
       "lastPulledAt": "2026-09-23T15:04:48.619Z"
+    },
+    "462": {
+      "id": 462,
+      "name": "magnezone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T12:23:41.514Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T12:23:41.514Z",
+      "lastPulledAt": "2026-10-25T12:23:41.514Z"
     },
     "465": {
       "id": 465,
