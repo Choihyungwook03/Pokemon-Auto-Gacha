@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 231,
-  "updatedAt": "2026-10-26T07:05:58.645Z",
+  "totalPulls": 232,
+  "updatedAt": "2026-10-26T14:10:38.260Z",
   "lastPull": {
-    "id": 382,
-    "name": "kyogre",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "id": 293,
+    "name": "whismur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-10-26T07:05:58.645Z"
+    "totalStats": 240,
+    "grade": "N",
+    "pulledAt": "2026-10-26T14:10:38.260Z"
   },
   "pulls": [
+    {
+      "id": 293,
+      "name": "whismur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-10-26T14:10:38.260Z"
+    },
     {
       "id": 382,
       "name": "kyogre",
@@ -118,18 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-25T01:44:01.808Z"
-    },
-    {
-      "id": 710,
-      "name": "pumpkaboo-average",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-10-24T23:43:07.053Z"
     }
   ],
   "pokemon": {
@@ -1093,10 +1092,10 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-10-06T10:09:08.502Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T10:09:08.502Z",
-      "lastPulledAt": "2026-10-06T10:09:08.502Z"
+      "lastPulledAt": "2026-10-26T14:10:38.260Z"
     },
     "302": {
       "id": 302,
