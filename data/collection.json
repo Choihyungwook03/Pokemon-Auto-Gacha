@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 229,
-  "updatedAt": "2026-10-25T23:47:15.632Z",
+  "totalPulls": 230,
+  "updatedAt": "2026-10-26T01:49:27.847Z",
   "lastPull": {
-    "id": 937,
-    "name": "ceruledge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+    "id": 907,
+    "name": "floragato",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
     "types": [
-      "fire",
-      "ghost"
+      "grass"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T23:47:15.632Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-26T01:49:27.847Z"
   },
   "pulls": [
+    {
+      "id": 907,
+      "name": "floragato",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-26T01:49:27.847Z"
+    },
     {
       "id": 937,
       "name": "ceruledge",
@@ -121,18 +131,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-24T21:39:19.390Z"
-    },
-    {
-      "id": 886,
-      "name": "drakloak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
-      "types": [
-        "dragon",
-        "ghost"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-24T19:15:14.097Z"
     }
   ],
   "pokemon": {
@@ -3039,6 +3037,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T23:11:34.048Z",
       "lastPulledAt": "2026-10-05T23:11:34.048Z"
+    },
+    "907": {
+      "id": 907,
+      "name": "floragato",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-26T01:49:27.847Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T01:49:27.847Z",
+      "lastPulledAt": "2026-10-26T01:49:27.847Z"
     },
     "909": {
       "id": 909,
