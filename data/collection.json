@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 232,
-  "updatedAt": "2026-10-26T14:10:38.260Z",
+  "totalPulls": 233,
+  "updatedAt": "2026-10-26T19:58:42.971Z",
   "lastPull": {
-    "id": 293,
-    "name": "whismur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+    "id": 990,
+    "name": "iron-treads",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
     "types": [
-      "normal"
+      "ground",
+      "steel"
     ],
-    "totalStats": 240,
-    "grade": "N",
-    "pulledAt": "2026-10-26T14:10:38.260Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-26T19:58:42.971Z"
   },
   "pulls": [
+    {
+      "id": 990,
+      "name": "iron-treads",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-26T19:58:42.971Z"
+    },
     {
       "id": 293,
       "name": "whismur",
@@ -117,18 +130,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-10-25T06:57:01.459Z"
-    },
-    {
-      "id": 45,
-      "name": "vileplume",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-25T01:44:01.808Z"
     }
   ],
   "pokemon": {
@@ -3360,6 +3361,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T19:11:57.500Z",
       "lastPulledAt": "2026-10-23T19:11:57.500Z"
+    },
+    "990": {
+      "id": 990,
+      "name": "iron-treads",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-26T19:58:42.971Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T19:58:42.971Z",
+      "lastPulledAt": "2026-10-26T19:58:42.971Z"
     },
     "1003": {
       "id": 1003,
