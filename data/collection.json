@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 236,
-  "updatedAt": "2026-10-27T08:15:37.691Z",
+  "totalPulls": 237,
+  "updatedAt": "2026-10-27T14:37:22.692Z",
   "lastPull": {
-    "id": 662,
-    "name": "fletchinder",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+    "id": 374,
+    "name": "beldum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
     "types": [
-      "fire",
-      "flying"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 382,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-10-27T08:15:37.691Z"
+    "pulledAt": "2026-10-27T14:37:22.692Z"
   },
   "pulls": [
+    {
+      "id": 374,
+      "name": "beldum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-27T14:37:22.692Z"
+    },
     {
       "id": 662,
       "name": "fletchinder",
@@ -118,18 +130,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-25T21:53:25.705Z"
-    },
-    {
-      "id": 711,
-      "name": "gourgeist-average",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 494,
-      "grade": "R",
-      "pulledAt": "2026-10-25T19:17:59.025Z"
     }
   ],
   "pokemon": {
@@ -1216,10 +1216,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-26T14:35:12.071Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T14:35:12.071Z",
-      "lastPulledAt": "2026-09-26T14:35:12.071Z"
+      "lastPulledAt": "2026-10-27T14:37:22.692Z"
     },
     "378": {
       "id": 378,
