@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 235,
-  "updatedAt": "2026-10-27T02:27:14.983Z",
+  "totalPulls": 236,
+  "updatedAt": "2026-10-27T08:15:37.691Z",
   "lastPull": {
-    "id": 752,
-    "name": "araquanid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
+    "id": 662,
+    "name": "fletchinder",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
     "types": [
-      "water",
-      "bug"
+      "fire",
+      "flying"
     ],
-    "totalStats": 454,
-    "grade": "R",
-    "pulledAt": "2026-10-27T02:27:14.983Z"
+    "totalStats": 382,
+    "grade": "N",
+    "pulledAt": "2026-10-27T08:15:37.691Z"
   },
   "pulls": [
+    {
+      "id": 662,
+      "name": "fletchinder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 382,
+      "grade": "N",
+      "pulledAt": "2026-10-27T08:15:37.691Z"
+    },
     {
       "id": 752,
       "name": "araquanid",
@@ -118,18 +130,6 @@
       "totalStats": 494,
       "grade": "R",
       "pulledAt": "2026-10-25T19:17:59.025Z"
-    },
-    {
-      "id": 385,
-      "name": "jirachi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-25T16:40:10.334Z"
     }
   ],
   "pokemon": {
@@ -2287,6 +2287,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:31.239Z",
       "lastPulledAt": "2026-09-16T01:47:31.239Z"
+    },
+    "662": {
+      "id": 662,
+      "name": "fletchinder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 382,
+      "grade": "N",
+      "pulledAt": "2026-10-27T08:15:37.691Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T08:15:37.691Z",
+      "lastPulledAt": "2026-10-27T08:15:37.691Z"
     },
     "670": {
       "id": 670,
