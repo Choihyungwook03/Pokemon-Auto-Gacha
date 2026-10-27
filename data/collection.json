@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 234,
-  "updatedAt": "2026-10-26T23:41:36.288Z",
+  "totalPulls": 235,
+  "updatedAt": "2026-10-27T02:27:14.983Z",
   "lastPull": {
-    "id": 625,
-    "name": "bisharp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+    "id": 752,
+    "name": "araquanid",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
     "types": [
-      "dark",
-      "steel"
+      "water",
+      "bug"
     ],
-    "totalStats": 490,
+    "totalStats": 454,
     "grade": "R",
-    "pulledAt": "2026-10-26T23:41:36.288Z"
+    "pulledAt": "2026-10-27T02:27:14.983Z"
   },
   "pulls": [
+    {
+      "id": 752,
+      "name": "araquanid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 454,
+      "grade": "R",
+      "pulledAt": "2026-10-27T02:27:14.983Z"
+    },
     {
       "id": 625,
       "name": "bisharp",
@@ -118,18 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-25T16:40:10.334Z"
-    },
-    {
-      "id": 462,
-      "name": "magnezone",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
-      "types": [
-        "electric",
-        "steel"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-25T12:23:41.514Z"
     }
   ],
   "pokemon": {
@@ -2474,6 +2474,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T10:10:13.497Z",
       "lastPulledAt": "2026-10-23T10:10:13.497Z"
+    },
+    "752": {
+      "id": 752,
+      "name": "araquanid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 454,
+      "grade": "R",
+      "pulledAt": "2026-10-27T02:27:14.983Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T02:27:14.983Z",
+      "lastPulledAt": "2026-10-27T02:27:14.983Z"
     },
     "754": {
       "id": 754,
