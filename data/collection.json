@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 237,
-  "updatedAt": "2026-10-27T14:37:22.692Z",
+  "totalPulls": 238,
+  "updatedAt": "2026-10-27T19:37:53.822Z",
   "lastPull": {
-    "id": 374,
-    "name": "beldum",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+    "id": 1012,
+    "name": "poltchageist",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
     "types": [
-      "steel",
-      "psychic"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 300,
+    "totalStats": 308,
     "grade": "N",
-    "pulledAt": "2026-10-27T14:37:22.692Z"
+    "pulledAt": "2026-10-27T19:37:53.822Z"
   },
   "pulls": [
+    {
+      "id": 1012,
+      "name": "poltchageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-27T19:37:53.822Z"
+    },
     {
       "id": 374,
       "name": "beldum",
@@ -119,17 +131,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-25T23:47:15.632Z"
-    },
-    {
-      "id": 409,
-      "name": "rampardos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-25T21:53:25.705Z"
     }
   ],
   "pokemon": {
@@ -3441,6 +3442,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T21:14:01.524Z",
       "lastPulledAt": "2026-10-21T21:14:01.524Z"
+    },
+    "1012": {
+      "id": 1012,
+      "name": "poltchageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-27T19:37:53.822Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T19:37:53.822Z",
+      "lastPulledAt": "2026-10-27T19:37:53.822Z"
     },
     "1014": {
       "id": 1014,
