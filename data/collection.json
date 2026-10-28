@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 240,
-  "updatedAt": "2026-10-28T02:14:09.848Z",
+  "totalPulls": 241,
+  "updatedAt": "2026-10-28T08:40:39.036Z",
   "lastPull": {
-    "id": 925,
-    "name": "maushold-family-of-four",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+    "id": 931,
+    "name": "squawkabilly-green-plumage",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
     "types": [
-      "normal"
+      "normal",
+      "flying"
     ],
-    "totalStats": 470,
+    "totalStats": 417,
     "grade": "R",
-    "pulledAt": "2026-10-28T02:14:09.848Z"
+    "pulledAt": "2026-10-28T08:40:39.036Z"
   },
   "pulls": [
+    {
+      "id": 931,
+      "name": "squawkabilly-green-plumage",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 417,
+      "grade": "R",
+      "pulledAt": "2026-10-28T08:40:39.036Z"
+    },
     {
       "id": 925,
       "name": "maushold-family-of-four",
@@ -118,17 +131,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-10-26T14:10:38.260Z"
-    },
-    {
-      "id": 382,
-      "name": "kyogre",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-10-26T07:05:58.645Z"
     }
   ],
   "pokemon": {
@@ -3231,10 +3233,10 @@
       "totalStats": 417,
       "grade": "R",
       "pulledAt": "2026-10-10T18:04:25.689Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T18:04:25.689Z",
-      "lastPulledAt": "2026-10-10T18:04:25.689Z"
+      "lastPulledAt": "2026-10-28T08:40:39.036Z"
     },
     "934": {
       "id": 934,
