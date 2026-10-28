@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 239,
-  "updatedAt": "2026-10-27T23:10:03.660Z",
+  "totalPulls": 240,
+  "updatedAt": "2026-10-28T02:14:09.848Z",
   "lastPull": {
-    "id": 401,
-    "name": "kricketot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png",
+    "id": 925,
+    "name": "maushold-family-of-four",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
     "types": [
-      "bug"
+      "normal"
     ],
-    "totalStats": 194,
-    "grade": "N",
-    "pulledAt": "2026-10-27T23:10:03.660Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-10-28T02:14:09.848Z"
   },
   "pulls": [
+    {
+      "id": 925,
+      "name": "maushold-family-of-four",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-28T02:14:09.848Z"
+    },
     {
       "id": 401,
       "name": "kricketot",
@@ -118,17 +129,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-10-26T07:05:58.645Z"
-    },
-    {
-      "id": 907,
-      "name": "floragato",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-26T01:49:27.847Z"
     }
   ],
   "pokemon": {
@@ -3215,10 +3215,10 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-09T10:16:11.547Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T10:16:11.547Z",
-      "lastPulledAt": "2026-10-09T10:16:11.547Z"
+      "lastPulledAt": "2026-10-28T02:14:09.848Z"
     },
     "931": {
       "id": 931,
