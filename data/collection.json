@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 244,
-  "updatedAt": "2026-10-29T00:18:28.369Z",
+  "totalPulls": 245,
+  "updatedAt": "2026-10-29T06:00:57.282Z",
   "lastPull": {
-    "id": 899,
-    "name": "wyrdeer",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+    "id": 501,
+    "name": "oshawott",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
     "types": [
-      "normal",
-      "psychic"
+      "water"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-29T00:18:28.369Z"
+    "totalStats": 308,
+    "grade": "N",
+    "pulledAt": "2026-10-29T06:00:57.282Z"
   },
   "pulls": [
+    {
+      "id": 501,
+      "name": "oshawott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-29T06:00:57.282Z"
+    },
     {
       "id": 899,
       "name": "wyrdeer",
@@ -119,18 +129,6 @@
       "totalStats": 382,
       "grade": "N",
       "pulledAt": "2026-10-27T08:15:37.691Z"
-    },
-    {
-      "id": 752,
-      "name": "araquanid",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
-      "types": [
-        "water",
-        "bug"
-      ],
-      "totalStats": 454,
-      "grade": "R",
-      "pulledAt": "2026-10-27T02:27:14.983Z"
     }
   ],
   "pokemon": {
@@ -1672,6 +1670,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T00:53:39.293Z",
       "lastPulledAt": "2026-10-20T17:19:48.100Z"
+    },
+    "501": {
+      "id": 501,
+      "name": "oshawott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-29T06:00:57.282Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T06:00:57.282Z",
+      "lastPulledAt": "2026-10-29T06:00:57.282Z"
     },
     "502": {
       "id": 502,
