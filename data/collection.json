@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 249,
-  "updatedAt": "2026-10-30T02:33:27.716Z",
+  "totalPulls": 250,
+  "updatedAt": "2026-10-30T08:57:50.223Z",
   "lastPull": {
-    "id": 839,
-    "name": "coalossal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+    "id": 118,
+    "name": "goldeen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
     "types": [
-      "rock",
-      "fire"
+      "water"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-30T02:33:27.716Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-30T08:57:50.223Z"
   },
   "pulls": [
+    {
+      "id": 118,
+      "name": "goldeen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-30T08:57:50.223Z"
+    },
     {
       "id": 839,
       "name": "coalossal",
@@ -118,17 +128,6 @@
       "totalStats": 417,
       "grade": "R",
       "pulledAt": "2026-10-28T08:40:39.036Z"
-    },
-    {
-      "id": 925,
-      "name": "maushold-family-of-four",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-28T02:14:09.848Z"
     }
   ],
   "pokemon": {
@@ -461,6 +460,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T04:26:14.465Z",
       "lastPulledAt": "2026-10-08T04:26:14.465Z"
+    },
+    "118": {
+      "id": 118,
+      "name": "goldeen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-30T08:57:50.223Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T08:57:50.223Z",
+      "lastPulledAt": "2026-10-30T08:57:50.223Z"
     },
     "119": {
       "id": 119,
