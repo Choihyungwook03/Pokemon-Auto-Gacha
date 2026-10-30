@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 250,
-  "updatedAt": "2026-10-30T08:57:50.223Z",
+  "totalPulls": 251,
+  "updatedAt": "2026-10-30T15:43:05.658Z",
   "lastPull": {
-    "id": 118,
-    "name": "goldeen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+    "id": 563,
+    "name": "cofagrigus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
     "types": [
-      "water"
+      "ghost"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-10-30T08:57:50.223Z"
+    "totalStats": 483,
+    "grade": "R",
+    "pulledAt": "2026-10-30T15:43:05.658Z"
   },
   "pulls": [
+    {
+      "id": 563,
+      "name": "cofagrigus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-10-30T15:43:05.658Z"
+    },
     {
       "id": 118,
       "name": "goldeen",
@@ -116,18 +127,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-28T15:29:56.892Z"
-    },
-    {
-      "id": 931,
-      "name": "squawkabilly-green-plumage",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 417,
-      "grade": "R",
-      "pulledAt": "2026-10-28T08:40:39.036Z"
     }
   ],
   "pokemon": {
@@ -1927,6 +1926,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T12:52:20.190Z",
       "lastPulledAt": "2026-10-29T12:52:20.190Z"
+    },
+    "563": {
+      "id": 563,
+      "name": "cofagrigus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-10-30T15:43:05.658Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T15:43:05.658Z",
+      "lastPulledAt": "2026-10-30T15:43:05.658Z"
     },
     "570": {
       "id": 570,
