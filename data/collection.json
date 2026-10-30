@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 252,
-  "updatedAt": "2026-10-30T20:17:23.721Z",
+  "totalPulls": 253,
+  "updatedAt": "2026-10-30T23:52:30.146Z",
   "lastPull": {
-    "id": 463,
-    "name": "lickilicky",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+    "id": 136,
+    "name": "flareon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
     "types": [
-      "normal"
+      "fire"
     ],
-    "totalStats": 515,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-10-30T20:17:23.721Z"
+    "pulledAt": "2026-10-30T23:52:30.146Z"
   },
   "pulls": [
+    {
+      "id": 136,
+      "name": "flareon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T23:52:30.146Z"
+    },
     {
       "id": 463,
       "name": "lickilicky",
@@ -115,18 +126,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-29T00:18:28.369Z"
-    },
-    {
-      "id": 680,
-      "name": "doublade",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
-      "types": [
-        "steel",
-        "ghost"
-      ],
-      "totalStats": 448,
-      "grade": "R",
-      "pulledAt": "2026-10-28T20:30:03.765Z"
     }
   ],
   "pokemon": {
@@ -519,6 +518,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T10:57:05.016Z",
       "lastPulledAt": "2026-10-16T10:57:05.016Z"
+    },
+    "136": {
+      "id": 136,
+      "name": "flareon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T23:52:30.146Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T23:52:30.146Z",
+      "lastPulledAt": "2026-10-30T23:52:30.146Z"
     },
     "139": {
       "id": 139,
