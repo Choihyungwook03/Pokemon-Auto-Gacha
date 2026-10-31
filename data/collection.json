@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 253,
-  "updatedAt": "2026-10-30T23:52:30.146Z",
+  "totalPulls": 254,
+  "updatedAt": "2026-10-31T03:58:54.373Z",
   "lastPull": {
-    "id": 136,
-    "name": "flareon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "id": 751,
+    "name": "dewpider",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
     "types": [
-      "fire"
+      "water",
+      "bug"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-30T23:52:30.146Z"
+    "totalStats": 269,
+    "grade": "N",
+    "pulledAt": "2026-10-31T03:58:54.373Z"
   },
   "pulls": [
+    {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-10-31T03:58:54.373Z"
+    },
     {
       "id": 136,
       "name": "flareon",
@@ -114,18 +127,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-10-29T06:00:57.282Z"
-    },
-    {
-      "id": 899,
-      "name": "wyrdeer",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-29T00:18:28.369Z"
     }
   ],
   "pokemon": {
@@ -2622,6 +2623,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T10:10:13.497Z",
       "lastPulledAt": "2026-10-23T10:10:13.497Z"
+    },
+    "751": {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-10-31T03:58:54.373Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T03:58:54.373Z",
+      "lastPulledAt": "2026-10-31T03:58:54.373Z"
     },
     "752": {
       "id": 752,
