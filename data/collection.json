@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 256,
-  "updatedAt": "2026-10-31T15:46:59.597Z",
+  "totalPulls": 257,
+  "updatedAt": "2026-10-31T19:34:28.713Z",
   "lastPull": {
-    "id": 620,
-    "name": "mienshao",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+    "id": 292,
+    "name": "shedinja",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
     "types": [
-      "fighting"
+      "bug",
+      "ghost"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-31T15:46:59.597Z"
+    "totalStats": 236,
+    "grade": "N",
+    "pulledAt": "2026-10-31T19:34:28.713Z"
   },
   "pulls": [
+    {
+      "id": 292,
+      "name": "shedinja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+      "types": [
+        "bug",
+        "ghost"
+      ],
+      "totalStats": 236,
+      "grade": "N",
+      "pulledAt": "2026-10-31T19:34:28.713Z"
+    },
     {
       "id": 620,
       "name": "mienshao",
@@ -115,18 +128,6 @@
       "totalStats": 180,
       "grade": "N",
       "pulledAt": "2026-10-29T23:00:55.310Z"
-    },
-    {
-      "id": 849,
-      "name": "toxtricity-amped",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
-      "types": [
-        "electric",
-        "poison"
-      ],
-      "totalStats": 502,
-      "grade": "SR",
-      "pulledAt": "2026-10-29T18:47:06.237Z"
     }
   ],
   "pokemon": {
@@ -1120,10 +1121,10 @@
       "totalStats": 236,
       "grade": "N",
       "pulledAt": "2026-09-17T15:04:31.258Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:04:31.258Z",
-      "lastPulledAt": "2026-09-17T15:04:31.258Z"
+      "lastPulledAt": "2026-10-31T19:34:28.713Z"
     },
     "293": {
       "id": 293,
