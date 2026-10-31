@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 254,
-  "updatedAt": "2026-10-31T03:58:54.373Z",
+  "totalPulls": 255,
+  "updatedAt": "2026-10-31T10:17:39.489Z",
   "lastPull": {
-    "id": 751,
-    "name": "dewpider",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+    "id": 396,
+    "name": "starly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
     "types": [
-      "water",
-      "bug"
+      "normal",
+      "flying"
     ],
-    "totalStats": 269,
+    "totalStats": 245,
     "grade": "N",
-    "pulledAt": "2026-10-31T03:58:54.373Z"
+    "pulledAt": "2026-10-31T10:17:39.489Z"
   },
   "pulls": [
+    {
+      "id": 396,
+      "name": "starly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-31T10:17:39.489Z"
+    },
     {
       "id": 751,
       "name": "dewpider",
@@ -116,17 +128,6 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-10-29T12:52:20.190Z"
-    },
-    {
-      "id": 501,
-      "name": "oshawott",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 308,
-      "grade": "N",
-      "pulledAt": "2026-10-29T06:00:57.282Z"
     }
   ],
   "pokemon": {
@@ -1340,6 +1341,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T15:59:48.884Z",
       "lastPulledAt": "2026-09-19T15:59:48.884Z"
+    },
+    "396": {
+      "id": 396,
+      "name": "starly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-31T10:17:39.489Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T10:17:39.489Z",
+      "lastPulledAt": "2026-10-31T10:17:39.489Z"
     },
     "399": {
       "id": 399,
