@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 259,
-  "updatedAt": "2026-11-01T01:30:19.062Z",
+  "totalPulls": 260,
+  "updatedAt": "2026-11-01T08:05:47.345Z",
   "lastPull": {
-    "id": 1010,
-    "name": "iron-leaves",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
+    "id": 490,
+    "name": "manaphy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
     "types": [
-      "grass",
-      "psychic"
+      "water"
     ],
-    "totalStats": 590,
-    "grade": "SR",
-    "pulledAt": "2026-11-01T01:30:19.062Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-01T08:05:47.345Z"
   },
   "pulls": [
+    {
+      "id": 490,
+      "name": "manaphy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-01T08:05:47.345Z"
+    },
     {
       "id": 1010,
       "name": "iron-leaves",
@@ -118,17 +128,6 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-10-30T15:43:05.658Z"
-    },
-    {
-      "id": 118,
-      "name": "goldeen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-30T08:57:50.223Z"
     }
   ],
   "pokemon": {
@@ -1731,6 +1730,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T04:45:23.500Z",
       "lastPulledAt": "2026-10-18T04:45:23.500Z"
+    },
+    "490": {
+      "id": 490,
+      "name": "manaphy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-01T08:05:47.345Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T08:05:47.345Z",
+      "lastPulledAt": "2026-11-01T08:05:47.345Z"
     },
     "500": {
       "id": 500,
