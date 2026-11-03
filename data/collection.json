@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 267,
-  "updatedAt": "2026-11-03T01:52:11.022Z",
+  "totalPulls": 268,
+  "updatedAt": "2026-11-03T08:58:49.332Z",
   "lastPull": {
-    "id": 22,
-    "name": "fearow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "id": 673,
+    "name": "gogoat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
     "types": [
-      "normal",
-      "flying"
+      "grass"
     ],
-    "totalStats": 442,
-    "grade": "R",
-    "pulledAt": "2026-11-03T01:52:11.022Z"
+    "totalStats": 531,
+    "grade": "SR",
+    "pulledAt": "2026-11-03T08:58:49.332Z"
   },
   "pulls": [
+    {
+      "id": 673,
+      "name": "gogoat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 531,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T08:58:49.332Z"
+    },
     {
       "id": 22,
       "name": "fearow",
@@ -118,18 +128,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-11-01T01:30:19.062Z"
-    },
-    {
-      "id": 369,
-      "name": "relicanth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png",
-      "types": [
-        "water",
-        "rock"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-31T22:47:21.545Z"
     }
   ],
   "pokemon": {
@@ -2548,6 +2546,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T23:19:30.043Z",
       "lastPulledAt": "2026-10-18T23:19:30.043Z"
+    },
+    "673": {
+      "id": 673,
+      "name": "gogoat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 531,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T08:58:49.332Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T08:58:49.332Z",
+      "lastPulledAt": "2026-11-03T08:58:49.332Z"
     },
     "674": {
       "id": 674,
