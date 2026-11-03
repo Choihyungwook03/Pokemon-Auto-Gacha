@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 268,
-  "updatedAt": "2026-11-03T08:58:49.332Z",
+  "totalPulls": 269,
+  "updatedAt": "2026-11-03T16:56:49.739Z",
   "lastPull": {
-    "id": 673,
-    "name": "gogoat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+    "id": 50,
+    "name": "diglett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
     "types": [
-      "grass"
+      "ground"
     ],
-    "totalStats": 531,
-    "grade": "SR",
-    "pulledAt": "2026-11-03T08:58:49.332Z"
+    "totalStats": 265,
+    "grade": "N",
+    "pulledAt": "2026-11-03T16:56:49.739Z"
   },
   "pulls": [
+    {
+      "id": 50,
+      "name": "diglett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-11-03T16:56:49.739Z"
+    },
     {
       "id": 673,
       "name": "gogoat",
@@ -116,18 +127,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-01T08:05:47.345Z"
-    },
-    {
-      "id": 1010,
-      "name": "iron-leaves",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
-      "types": [
-        "grass",
-        "psychic"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-11-01T01:30:19.062Z"
     }
   ],
   "pokemon": {
@@ -258,6 +257,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T22:39:56.349Z",
       "lastPulledAt": "2026-09-25T22:39:56.349Z"
+    },
+    "50": {
+      "id": 50,
+      "name": "diglett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-11-03T16:56:49.739Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T16:56:49.739Z",
+      "lastPulledAt": "2026-11-03T16:56:49.739Z"
     },
     "53": {
       "id": 53,
