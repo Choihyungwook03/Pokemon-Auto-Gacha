@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 269,
-  "updatedAt": "2026-11-03T16:56:49.739Z",
+  "totalPulls": 270,
+  "updatedAt": "2026-11-03T22:13:09.399Z",
   "lastPull": {
-    "id": 50,
-    "name": "diglett",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "id": 693,
+    "name": "clawitzer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
     "types": [
-      "ground"
+      "water"
     ],
-    "totalStats": 265,
-    "grade": "N",
-    "pulledAt": "2026-11-03T16:56:49.739Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-03T22:13:09.399Z"
   },
   "pulls": [
+    {
+      "id": 693,
+      "name": "clawitzer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T22:13:09.399Z"
+    },
     {
       "id": 50,
       "name": "diglett",
@@ -116,17 +127,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-11-01T15:00:57.929Z"
-    },
-    {
-      "id": 490,
-      "name": "manaphy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-01T08:05:47.345Z"
     }
   ],
   "pokemon": {
@@ -2622,6 +2622,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T20:30:03.765Z",
       "lastPulledAt": "2026-10-28T20:30:03.765Z"
+    },
+    "693": {
+      "id": 693,
+      "name": "clawitzer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T22:13:09.399Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T22:13:09.399Z",
+      "lastPulledAt": "2026-11-03T22:13:09.399Z"
     },
     "698": {
       "id": 698,
