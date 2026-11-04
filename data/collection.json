@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 272,
-  "updatedAt": "2026-11-04T09:37:51.441Z",
+  "totalPulls": 273,
+  "updatedAt": "2026-11-04T17:43:28.753Z",
   "lastPull": {
-    "id": 896,
-    "name": "glastrier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "id": 902,
+    "name": "basculegion-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
     "types": [
-      "ice"
+      "water",
+      "ghost"
     ],
-    "totalStats": 580,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-11-04T09:37:51.441Z"
+    "pulledAt": "2026-11-04T17:43:28.753Z"
   },
   "pulls": [
+    {
+      "id": 902,
+      "name": "basculegion-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T17:43:28.753Z"
+    },
     {
       "id": 896,
       "name": "glastrier",
@@ -116,17 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-02T02:24:41.418Z"
-    },
-    {
-      "id": 108,
-      "name": "lickitung",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 385,
-      "grade": "N",
-      "pulledAt": "2026-11-01T23:01:52.349Z"
     }
   ],
   "pokemon": {
@@ -3444,10 +3446,10 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-06T16:47:35.786Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T16:47:35.786Z",
-      "lastPulledAt": "2026-10-06T16:47:35.786Z"
+      "lastPulledAt": "2026-11-04T17:43:28.753Z"
     },
     "906": {
       "id": 906,
