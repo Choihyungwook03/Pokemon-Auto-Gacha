@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 271,
-  "updatedAt": "2026-11-04T02:23:49.391Z",
+  "totalPulls": 272,
+  "updatedAt": "2026-11-04T09:37:51.441Z",
   "lastPull": {
-    "id": 965,
-    "name": "varoom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+    "id": 896,
+    "name": "glastrier",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
     "types": [
-      "steel",
-      "poison"
+      "ice"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-04T02:23:49.391Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-11-04T09:37:51.441Z"
   },
   "pulls": [
+    {
+      "id": 896,
+      "name": "glastrier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T09:37:51.441Z"
+    },
     {
       "id": 965,
       "name": "varoom",
@@ -117,18 +127,6 @@
       "totalStats": 385,
       "grade": "N",
       "pulledAt": "2026-11-01T23:01:52.349Z"
-    },
-    {
-      "id": 167,
-      "name": "spinarak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-11-01T19:35:45.281Z"
     }
   ],
   "pokemon": {
@@ -3403,6 +3401,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T19:15:14.097Z",
       "lastPulledAt": "2026-10-24T19:15:14.097Z"
+    },
+    "896": {
+      "id": 896,
+      "name": "glastrier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T09:37:51.441Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T09:37:51.441Z",
+      "lastPulledAt": "2026-11-04T09:37:51.441Z"
     },
     "899": {
       "id": 899,
