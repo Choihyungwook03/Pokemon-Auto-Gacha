@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 276,
-  "updatedAt": "2026-11-05T10:19:00.882Z",
+  "totalPulls": 277,
+  "updatedAt": "2026-11-05T18:07:20.052Z",
   "lastPull": {
-    "id": 248,
-    "name": "tyranitar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "id": 773,
+    "name": "silvally",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
     "types": [
-      "rock",
-      "dark"
+      "normal"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-05T10:19:00.882Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-05T18:07:20.052Z"
   },
   "pulls": [
+    {
+      "id": 773,
+      "name": "silvally",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T18:07:20.052Z"
+    },
     {
       "id": 248,
       "name": "tyranitar",
@@ -117,18 +127,6 @@
       "totalStats": 531,
       "grade": "SR",
       "pulledAt": "2026-11-03T08:58:49.332Z"
-    },
-    {
-      "id": 22,
-      "name": "fearow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 442,
-      "grade": "R",
-      "pulledAt": "2026-11-03T01:52:11.022Z"
     }
   ],
   "pokemon": {
@@ -2977,10 +2975,10 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-02T19:49:19.928Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-02T19:49:19.928Z",
-      "lastPulledAt": "2026-11-02T19:49:19.928Z"
+      "lastPulledAt": "2026-11-05T18:07:20.052Z"
     },
     "774": {
       "id": 774,
