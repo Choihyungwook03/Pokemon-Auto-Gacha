@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 274,
-  "updatedAt": "2026-11-04T22:49:08.646Z",
+  "totalPulls": 275,
+  "updatedAt": "2026-11-05T02:53:45.201Z",
   "lastPull": {
-    "id": 15,
-    "name": "beedrill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "id": 296,
+    "name": "makuhita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
     "types": [
-      "bug",
-      "poison"
+      "fighting"
     ],
-    "totalStats": 395,
+    "totalStats": 237,
     "grade": "N",
-    "pulledAt": "2026-11-04T22:49:08.646Z"
+    "pulledAt": "2026-11-05T02:53:45.201Z"
   },
   "pulls": [
+    {
+      "id": 296,
+      "name": "makuhita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 237,
+      "grade": "N",
+      "pulledAt": "2026-11-05T02:53:45.201Z"
+    },
     {
       "id": 15,
       "name": "beedrill",
@@ -117,18 +127,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-02T19:49:19.928Z"
-    },
-    {
-      "id": 69,
-      "name": "bellsprout",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-02T09:46:03.743Z"
     }
   ],
   "pokemon": {
@@ -1219,6 +1217,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T10:09:08.502Z",
       "lastPulledAt": "2026-10-26T14:10:38.260Z"
+    },
+    "296": {
+      "id": 296,
+      "name": "makuhita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 237,
+      "grade": "N",
+      "pulledAt": "2026-11-05T02:53:45.201Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T02:53:45.201Z",
+      "lastPulledAt": "2026-11-05T02:53:45.201Z"
     },
     "302": {
       "id": 302,
