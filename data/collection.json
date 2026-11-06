@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 278,
-  "updatedAt": "2026-11-05T23:35:47.854Z",
+  "totalPulls": 279,
+  "updatedAt": "2026-11-06T03:38:24.109Z",
   "lastPull": {
-    "id": 667,
-    "name": "litleo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
+    "id": 980,
+    "name": "clodsire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
     "types": [
-      "fire",
-      "normal"
+      "poison",
+      "ground"
     ],
-    "totalStats": 369,
-    "grade": "N",
-    "pulledAt": "2026-11-05T23:35:47.854Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-11-06T03:38:24.109Z"
   },
   "pulls": [
+    {
+      "id": 980,
+      "name": "clodsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-06T03:38:24.109Z"
+    },
     {
       "id": 667,
       "name": "litleo",
@@ -118,17 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-03T22:13:09.399Z"
-    },
-    {
-      "id": 50,
-      "name": "diglett",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 265,
-      "grade": "N",
-      "pulledAt": "2026-11-03T16:56:49.739Z"
     }
   ],
   "pokemon": {
@@ -3807,6 +3808,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T12:17:54.163Z",
       "lastPulledAt": "2026-10-20T12:17:54.163Z"
+    },
+    "980": {
+      "id": 980,
+      "name": "clodsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-06T03:38:24.109Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T03:38:24.109Z",
+      "lastPulledAt": "2026-11-06T03:38:24.109Z"
     },
     "982": {
       "id": 982,
