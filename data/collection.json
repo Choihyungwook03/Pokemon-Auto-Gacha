@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 284,
-  "updatedAt": "2026-11-07T09:36:35.889Z",
+  "totalPulls": 285,
+  "updatedAt": "2026-11-07T15:54:13.586Z",
   "lastPull": {
-    "id": 753,
-    "name": "fomantis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
+    "id": 191,
+    "name": "sunkern",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
     "types": [
       "grass"
     ],
-    "totalStats": 250,
+    "totalStats": 180,
     "grade": "N",
-    "pulledAt": "2026-11-07T09:36:35.889Z"
+    "pulledAt": "2026-11-07T15:54:13.586Z"
   },
   "pulls": [
+    {
+      "id": 191,
+      "name": "sunkern",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 180,
+      "grade": "N",
+      "pulledAt": "2026-11-07T15:54:13.586Z"
+    },
     {
       "id": 753,
       "name": "fomantis",
@@ -117,17 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-05T10:19:00.882Z"
-    },
-    {
-      "id": 296,
-      "name": "makuhita",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 237,
-      "grade": "N",
-      "pulledAt": "2026-11-05T02:53:45.201Z"
     }
   ],
   "pokemon": {
@@ -812,10 +812,10 @@
       "totalStats": 180,
       "grade": "N",
       "pulledAt": "2026-09-20T09:56:55.800Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T09:56:55.800Z",
-      "lastPulledAt": "2026-09-20T09:56:55.800Z"
+      "lastPulledAt": "2026-11-07T15:54:13.586Z"
     },
     "194": {
       "id": 194,
