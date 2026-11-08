@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 287,
-  "updatedAt": "2026-11-07T23:24:25.672Z",
+  "totalPulls": 288,
+  "updatedAt": "2026-11-08T02:38:25.744Z",
   "lastPull": {
-    "id": 959,
-    "name": "tinkaton",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+    "id": 655,
+    "name": "delphox",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
     "types": [
-      "fairy",
-      "steel"
+      "fire",
+      "psychic"
     ],
-    "totalStats": 506,
+    "totalStats": 534,
     "grade": "SR",
-    "pulledAt": "2026-11-07T23:24:25.672Z"
+    "pulledAt": "2026-11-08T02:38:25.744Z"
   },
   "pulls": [
+    {
+      "id": 655,
+      "name": "delphox",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-11-08T02:38:25.744Z"
+    },
     {
       "id": 959,
       "name": "tinkaton",
@@ -117,18 +129,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-11-06T03:38:24.109Z"
-    },
-    {
-      "id": 667,
-      "name": "litleo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
-      "types": [
-        "fire",
-        "normal"
-      ],
-      "totalStats": 369,
-      "grade": "N",
-      "pulledAt": "2026-11-05T23:35:47.854Z"
     }
   ],
   "pokemon": {
@@ -2562,6 +2562,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T22:42:33.908Z",
       "lastPulledAt": "2026-09-21T22:42:33.908Z"
+    },
+    "655": {
+      "id": 655,
+      "name": "delphox",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-11-08T02:38:25.744Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T02:38:25.744Z",
+      "lastPulledAt": "2026-11-08T02:38:25.744Z"
     },
     "656": {
       "id": 656,
