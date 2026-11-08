@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 288,
-  "updatedAt": "2026-11-08T02:38:25.744Z",
+  "totalPulls": 289,
+  "updatedAt": "2026-11-08T09:27:54.354Z",
   "lastPull": {
-    "id": 655,
-    "name": "delphox",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
+    "id": 22,
+    "name": "fearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
     "types": [
-      "fire",
-      "psychic"
+      "normal",
+      "flying"
     ],
-    "totalStats": 534,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T02:38:25.744Z"
+    "totalStats": 442,
+    "grade": "R",
+    "pulledAt": "2026-11-08T09:27:54.354Z"
   },
   "pulls": [
+    {
+      "id": 22,
+      "name": "fearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 442,
+      "grade": "R",
+      "pulledAt": "2026-11-08T09:27:54.354Z"
+    },
     {
       "id": 655,
       "name": "delphox",
@@ -117,18 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-06T11:29:11.422Z"
-    },
-    {
-      "id": 980,
-      "name": "clodsire",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
-      "types": [
-        "poison",
-        "ground"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-11-06T03:38:24.109Z"
     }
   ],
   "pokemon": {
@@ -175,10 +175,10 @@
       "totalStats": 442,
       "grade": "R",
       "pulledAt": "2026-11-03T01:52:11.022Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-03T01:52:11.022Z",
-      "lastPulledAt": "2026-11-03T01:52:11.022Z"
+      "lastPulledAt": "2026-11-08T09:27:54.354Z"
     },
     "31": {
       "id": 31,
