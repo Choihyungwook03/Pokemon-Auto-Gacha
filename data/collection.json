@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 292,
-  "updatedAt": "2026-11-08T23:58:53.888Z",
+  "totalPulls": 293,
+  "updatedAt": "2026-11-09T05:54:19.356Z",
   "lastPull": {
-    "id": 788,
-    "name": "tapu-fini",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png",
+    "id": 957,
+    "name": "tinkatink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
     "types": [
-      "water",
-      "fairy"
+      "fairy",
+      "steel"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T23:58:53.888Z"
+    "totalStats": 297,
+    "grade": "N",
+    "pulledAt": "2026-11-09T05:54:19.356Z"
   },
   "pulls": [
+    {
+      "id": 957,
+      "name": "tinkatink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 297,
+      "grade": "N",
+      "pulledAt": "2026-11-09T05:54:19.356Z"
+    },
     {
       "id": 788,
       "name": "tapu-fini",
@@ -118,17 +130,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-11-07T09:36:35.889Z"
-    },
-    {
-      "id": 571,
-      "name": "zoroark",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-07T02:54:10.551Z"
     }
   ],
   "pokemon": {
@@ -3853,6 +3854,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T05:11:46.971Z",
       "lastPulledAt": "2026-10-23T05:11:46.971Z"
+    },
+    "957": {
+      "id": 957,
+      "name": "tinkatink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 297,
+      "grade": "N",
+      "pulledAt": "2026-11-09T05:54:19.356Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T05:54:19.356Z",
+      "lastPulledAt": "2026-11-09T05:54:19.356Z"
     },
     "959": {
       "id": 959,
