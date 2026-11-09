@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 294,
-  "updatedAt": "2026-11-09T15:07:52.230Z",
+  "totalPulls": 295,
+  "updatedAt": "2026-11-09T23:45:55.541Z",
   "lastPull": {
-    "id": 48,
-    "name": "venonat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "id": 1024,
+    "name": "terapagos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
     "types": [
-      "bug",
-      "poison"
+      "normal"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-11-09T15:07:52.230Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-11-09T23:45:55.541Z"
   },
   "pulls": [
+    {
+      "id": 1024,
+      "name": "terapagos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-09T23:45:55.541Z"
+    },
     {
       "id": 48,
       "name": "venonat",
@@ -120,17 +130,6 @@
       "totalStats": 316,
       "grade": "N",
       "pulledAt": "2026-11-07T19:51:22.765Z"
-    },
-    {
-      "id": 191,
-      "name": "sunkern",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 180,
-      "grade": "N",
-      "pulledAt": "2026-11-07T15:54:13.586Z"
     }
   ],
   "pokemon": {
@@ -4109,6 +4108,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T12:28:59.097Z",
       "lastPulledAt": "2026-10-15T12:28:59.097Z"
+    },
+    "1024": {
+      "id": 1024,
+      "name": "terapagos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-09T23:45:55.541Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T23:45:55.541Z",
+      "lastPulledAt": "2026-11-09T23:45:55.541Z"
     }
   },
   "typeTotals": {
