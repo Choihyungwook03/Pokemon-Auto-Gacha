@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 293,
-  "updatedAt": "2026-11-09T05:54:19.356Z",
+  "totalPulls": 294,
+  "updatedAt": "2026-11-09T15:07:52.230Z",
   "lastPull": {
-    "id": 957,
-    "name": "tinkatink",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+    "id": 48,
+    "name": "venonat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
     "types": [
-      "fairy",
-      "steel"
+      "bug",
+      "poison"
     ],
-    "totalStats": 297,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-11-09T05:54:19.356Z"
+    "pulledAt": "2026-11-09T15:07:52.230Z"
   },
   "pulls": [
+    {
+      "id": 48,
+      "name": "venonat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-09T15:07:52.230Z"
+    },
     {
       "id": 957,
       "name": "tinkatink",
@@ -119,17 +131,6 @@
       "totalStats": 180,
       "grade": "N",
       "pulledAt": "2026-11-07T15:54:13.586Z"
-    },
-    {
-      "id": 753,
-      "name": "fomantis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-11-07T09:36:35.889Z"
     }
   ],
   "pokemon": {
@@ -244,6 +245,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T02:03:52.840Z",
       "lastPulledAt": "2026-09-30T02:03:52.840Z"
+    },
+    "48": {
+      "id": 48,
+      "name": "venonat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-09T15:07:52.230Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T15:07:52.230Z",
+      "lastPulledAt": "2026-11-09T15:07:52.230Z"
     },
     "49": {
       "id": 49,
