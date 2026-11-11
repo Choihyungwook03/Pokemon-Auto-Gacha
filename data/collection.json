@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 300,
-  "updatedAt": "2026-11-11T07:15:25.690Z",
+  "totalPulls": 301,
+  "updatedAt": "2026-11-11T15:21:02.191Z",
   "lastPull": {
-    "id": 55,
-    "name": "golduck",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+    "id": 594,
+    "name": "alomomola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
     "types": [
       "water"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-11T07:15:25.690Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-11-11T15:21:02.191Z"
   },
   "pulls": [
+    {
+      "id": 594,
+      "name": "alomomola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-11T15:21:02.191Z"
+    },
     {
       "id": 55,
       "name": "golduck",
@@ -117,17 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-08T23:58:53.888Z"
-    },
-    {
-      "id": 403,
-      "name": "shinx",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 263,
-      "grade": "N",
-      "pulledAt": "2026-11-08T20:32:15.753Z"
     }
   ],
   "pokemon": {
@@ -2432,10 +2432,10 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-12T23:15:42.072Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T23:15:42.072Z",
-      "lastPulledAt": "2026-10-12T23:15:42.072Z"
+      "lastPulledAt": "2026-11-11T15:21:02.191Z"
     },
     "596": {
       "id": 596,
