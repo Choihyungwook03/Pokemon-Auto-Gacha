@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 298,
-  "updatedAt": "2026-11-10T20:26:21.769Z",
+  "totalPulls": 299,
+  "updatedAt": "2026-11-11T00:46:57.115Z",
   "lastPull": {
-    "id": 577,
-    "name": "solosis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+    "id": 131,
+    "name": "lapras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
     "types": [
-      "psychic"
+      "water",
+      "ice"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-11-10T20:26:21.769Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-11-11T00:46:57.115Z"
   },
   "pulls": [
+    {
+      "id": 131,
+      "name": "lapras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T00:46:57.115Z"
+    },
     {
       "id": 577,
       "name": "solosis",
@@ -117,18 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-08T16:13:12.532Z"
-    },
-    {
-      "id": 22,
-      "name": "fearow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 442,
-      "grade": "R",
-      "pulledAt": "2026-11-08T09:27:54.354Z"
     }
   ],
   "pokemon": {
@@ -585,6 +586,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:19:21.346Z",
       "lastPulledAt": "2026-09-22T06:19:21.346Z"
+    },
+    "131": {
+      "id": 131,
+      "name": "lapras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T00:46:57.115Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T00:46:57.115Z",
+      "lastPulledAt": "2026-11-11T00:46:57.115Z"
     },
     "132": {
       "id": 132,
