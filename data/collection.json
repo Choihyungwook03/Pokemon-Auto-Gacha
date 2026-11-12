@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 302,
-  "updatedAt": "2026-11-11T22:06:05.992Z",
+  "totalPulls": 303,
+  "updatedAt": "2026-11-12T02:55:34.456Z",
   "lastPull": {
-    "id": 952,
-    "name": "scovillain",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+    "id": 619,
+    "name": "mienfoo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
     "types": [
-      "grass",
-      "fire"
+      "fighting"
     ],
-    "totalStats": 486,
-    "grade": "R",
-    "pulledAt": "2026-11-11T22:06:05.992Z"
+    "totalStats": 350,
+    "grade": "N",
+    "pulledAt": "2026-11-12T02:55:34.456Z"
   },
   "pulls": [
+    {
+      "id": 619,
+      "name": "mienfoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-11-12T02:55:34.456Z"
+    },
     {
       "id": 952,
       "name": "scovillain",
@@ -117,18 +127,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-09T15:07:52.230Z"
-    },
-    {
-      "id": 957,
-      "name": "tinkatink",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
-      "types": [
-        "fairy",
-        "steel"
-      ],
-      "totalStats": 297,
-      "grade": "N",
-      "pulledAt": "2026-11-09T05:54:19.356Z"
     }
   ],
   "pokemon": {
@@ -2483,6 +2481,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:38:52.463Z",
       "lastPulledAt": "2026-09-17T00:38:52.463Z"
+    },
+    "619": {
+      "id": 619,
+      "name": "mienfoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-11-12T02:55:34.456Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T02:55:34.456Z",
+      "lastPulledAt": "2026-11-12T02:55:34.456Z"
     },
     "620": {
       "id": 620,
