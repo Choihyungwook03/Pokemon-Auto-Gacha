@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 308,
-  "updatedAt": "2026-11-13T12:57:49.524Z",
+  "totalPulls": 309,
+  "updatedAt": "2026-11-13T20:23:34.620Z",
   "lastPull": {
-    "id": 928,
-    "name": "smoliv",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+    "id": 781,
+    "name": "dhelmise",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
     "types": [
-      "grass",
-      "normal"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 260,
-    "grade": "N",
-    "pulledAt": "2026-11-13T12:57:49.524Z"
+    "totalStats": 517,
+    "grade": "SR",
+    "pulledAt": "2026-11-13T20:23:34.620Z"
   },
   "pulls": [
+    {
+      "id": 781,
+      "name": "dhelmise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 517,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T20:23:34.620Z"
+    },
     {
       "id": 928,
       "name": "smoliv",
@@ -119,18 +131,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-11T07:15:25.690Z"
-    },
-    {
-      "id": 131,
-      "name": "lapras",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-11-11T00:46:57.115Z"
     }
   ],
   "pokemon": {
@@ -3277,10 +3277,10 @@
       "totalStats": 517,
       "grade": "SR",
       "pulledAt": "2026-11-13T04:59:13.015Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-13T04:59:13.015Z",
-      "lastPulledAt": "2026-11-13T04:59:13.015Z"
+      "lastPulledAt": "2026-11-13T20:23:34.620Z"
     },
     "786": {
       "id": 786,
