@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 307,
-  "updatedAt": "2026-11-13T04:59:13.015Z",
+  "totalPulls": 308,
+  "updatedAt": "2026-11-13T12:57:49.524Z",
   "lastPull": {
-    "id": 781,
-    "name": "dhelmise",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+    "id": 928,
+    "name": "smoliv",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
     "types": [
-      "ghost",
-      "grass"
+      "grass",
+      "normal"
     ],
-    "totalStats": 517,
-    "grade": "SR",
-    "pulledAt": "2026-11-13T04:59:13.015Z"
+    "totalStats": 260,
+    "grade": "N",
+    "pulledAt": "2026-11-13T12:57:49.524Z"
   },
   "pulls": [
+    {
+      "id": 928,
+      "name": "smoliv",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-11-13T12:57:49.524Z"
+    },
     {
       "id": 781,
       "name": "dhelmise",
@@ -119,17 +131,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-11-11T00:46:57.115Z"
-    },
-    {
-      "id": 577,
-      "name": "solosis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-11-10T20:26:21.769Z"
     }
   ],
   "pokemon": {
@@ -3885,6 +3886,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T10:16:11.547Z",
       "lastPulledAt": "2026-10-28T02:14:09.848Z"
+    },
+    "928": {
+      "id": 928,
+      "name": "smoliv",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-11-13T12:57:49.524Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T12:57:49.524Z",
+      "lastPulledAt": "2026-11-13T12:57:49.524Z"
     },
     "931": {
       "id": 931,
