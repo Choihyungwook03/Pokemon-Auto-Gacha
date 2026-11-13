@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 306,
-  "updatedAt": "2026-11-12T23:51:37.081Z",
+  "totalPulls": 307,
+  "updatedAt": "2026-11-13T04:59:13.015Z",
   "lastPull": {
-    "id": 469,
-    "name": "yanmega",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
+    "id": 781,
+    "name": "dhelmise",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
     "types": [
-      "bug",
-      "flying"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 515,
+    "totalStats": 517,
     "grade": "SR",
-    "pulledAt": "2026-11-12T23:51:37.081Z"
+    "pulledAt": "2026-11-13T04:59:13.015Z"
   },
   "pulls": [
+    {
+      "id": 781,
+      "name": "dhelmise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 517,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T04:59:13.015Z"
+    },
     {
       "id": 469,
       "name": "yanmega",
@@ -118,17 +130,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-11-10T20:26:21.769Z"
-    },
-    {
-      "id": 819,
-      "name": "skwovet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-11-10T13:03:53.047Z"
     }
   ],
   "pokemon": {
@@ -3263,6 +3264,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T01:21:14.779Z",
       "lastPulledAt": "2026-10-22T21:56:54.039Z"
+    },
+    "781": {
+      "id": 781,
+      "name": "dhelmise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 517,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T04:59:13.015Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T04:59:13.015Z",
+      "lastPulledAt": "2026-11-13T04:59:13.015Z"
     },
     "786": {
       "id": 786,
