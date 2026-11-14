@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 312,
-  "updatedAt": "2026-11-14T14:24:36.324Z",
+  "totalPulls": 313,
+  "updatedAt": "2026-11-14T19:21:55.216Z",
   "lastPull": {
-    "id": 886,
-    "name": "drakloak",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
+    "id": 337,
+    "name": "lunatone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
     "types": [
-      "dragon",
-      "ghost"
+      "rock",
+      "psychic"
     ],
-    "totalStats": 410,
+    "totalStats": 460,
     "grade": "R",
-    "pulledAt": "2026-11-14T14:24:36.324Z"
+    "pulledAt": "2026-11-14T19:21:55.216Z"
   },
   "pulls": [
+    {
+      "id": 337,
+      "name": "lunatone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-11-14T19:21:55.216Z"
+    },
     {
       "id": 886,
       "name": "drakloak",
@@ -122,17 +134,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-11-12T10:39:23.168Z"
-    },
-    {
-      "id": 619,
-      "name": "mienfoo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-11-12T02:55:34.456Z"
     }
   ],
   "pokemon": {
@@ -1411,6 +1412,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T00:47:55.980Z",
       "lastPulledAt": "2026-10-24T00:47:55.980Z"
+    },
+    "337": {
+      "id": 337,
+      "name": "lunatone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-11-14T19:21:55.216Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T19:21:55.216Z",
+      "lastPulledAt": "2026-11-14T19:21:55.216Z"
     },
     "353": {
       "id": 353,
