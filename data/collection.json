@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 310,
-  "updatedAt": "2026-11-14T00:57:21.910Z",
+  "totalPulls": 311,
+  "updatedAt": "2026-11-14T07:27:38.029Z",
   "lastPull": {
-    "id": 70,
-    "name": "weepinbell",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+    "id": 687,
+    "name": "malamar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
     "types": [
-      "grass",
-      "poison"
+      "dark",
+      "psychic"
     ],
-    "totalStats": 390,
-    "grade": "N",
-    "pulledAt": "2026-11-14T00:57:21.910Z"
+    "totalStats": 482,
+    "grade": "R",
+    "pulledAt": "2026-11-14T07:27:38.029Z"
   },
   "pulls": [
+    {
+      "id": 687,
+      "name": "malamar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-11-14T07:27:38.029Z"
+    },
     {
       "id": 70,
       "name": "weepinbell",
@@ -121,17 +133,6 @@
       "totalStats": 486,
       "grade": "R",
       "pulledAt": "2026-11-11T22:06:05.992Z"
-    },
-    {
-      "id": 594,
-      "name": "alomomola",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-11T15:21:02.191Z"
     }
   ],
   "pokemon": {
@@ -2892,6 +2893,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T20:30:03.765Z",
       "lastPulledAt": "2026-10-28T20:30:03.765Z"
+    },
+    "687": {
+      "id": 687,
+      "name": "malamar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-11-14T07:27:38.029Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T07:27:38.029Z",
+      "lastPulledAt": "2026-11-14T07:27:38.029Z"
     },
     "693": {
       "id": 693,
