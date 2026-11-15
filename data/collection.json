@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 316,
-  "updatedAt": "2026-11-15T09:57:48.438Z",
+  "totalPulls": 317,
+  "updatedAt": "2026-11-15T16:52:11.483Z",
   "lastPull": {
-    "id": 786,
-    "name": "tapu-lele",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "id": 616,
+    "name": "shelmet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
     "types": [
-      "psychic",
-      "fairy"
+      "bug"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-15T09:57:48.438Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-11-15T16:52:11.483Z"
   },
   "pulls": [
+    {
+      "id": 616,
+      "name": "shelmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-15T16:52:11.483Z"
+    },
     {
       "id": 786,
       "name": "tapu-lele",
@@ -122,18 +132,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-11-13T12:57:49.524Z"
-    },
-    {
-      "id": 781,
-      "name": "dhelmise",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 517,
-      "grade": "SR",
-      "pulledAt": "2026-11-13T04:59:13.015Z"
     }
   ],
   "pokemon": {
@@ -2552,6 +2550,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:38:52.463Z",
       "lastPulledAt": "2026-09-17T00:38:52.463Z"
+    },
+    "616": {
+      "id": 616,
+      "name": "shelmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-15T16:52:11.483Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T16:52:11.483Z",
+      "lastPulledAt": "2026-11-15T16:52:11.483Z"
     },
     "619": {
       "id": 619,
