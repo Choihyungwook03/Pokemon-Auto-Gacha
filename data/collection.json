@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 319,
-  "updatedAt": "2026-11-16T01:19:03.438Z",
+  "totalPulls": 320,
+  "updatedAt": "2026-11-16T08:04:19.860Z",
   "lastPull": {
-    "id": 975,
-    "name": "cetitan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+    "id": 695,
+    "name": "heliolisk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
     "types": [
-      "ice"
+      "electric",
+      "normal"
     ],
-    "totalStats": 521,
-    "grade": "SR",
-    "pulledAt": "2026-11-16T01:19:03.438Z"
+    "totalStats": 481,
+    "grade": "R",
+    "pulledAt": "2026-11-16T08:04:19.860Z"
   },
   "pulls": [
+    {
+      "id": 695,
+      "name": "heliolisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-11-16T08:04:19.860Z"
+    },
     {
       "id": 975,
       "name": "cetitan",
@@ -119,18 +132,6 @@
       "totalStats": 482,
       "grade": "R",
       "pulledAt": "2026-11-14T07:27:38.029Z"
-    },
-    {
-      "id": 70,
-      "name": "weepinbell",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 390,
-      "grade": "N",
-      "pulledAt": "2026-11-14T00:57:21.910Z"
     }
   ],
   "pokemon": {
@@ -2985,6 +2986,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-03T22:13:09.399Z",
       "lastPulledAt": "2026-11-03T22:13:09.399Z"
+    },
+    "695": {
+      "id": 695,
+      "name": "heliolisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-11-16T08:04:19.860Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T08:04:19.860Z",
+      "lastPulledAt": "2026-11-16T08:04:19.860Z"
     },
     "698": {
       "id": 698,
