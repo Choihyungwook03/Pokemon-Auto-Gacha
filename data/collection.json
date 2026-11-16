@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 320,
-  "updatedAt": "2026-11-16T08:04:19.860Z",
+  "totalPulls": 321,
+  "updatedAt": "2026-11-16T18:24:26.841Z",
   "lastPull": {
-    "id": 695,
-    "name": "heliolisk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+    "id": 26,
+    "name": "raichu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
     "types": [
-      "electric",
-      "normal"
+      "electric"
     ],
-    "totalStats": 481,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-11-16T08:04:19.860Z"
+    "pulledAt": "2026-11-16T18:24:26.841Z"
   },
   "pulls": [
+    {
+      "id": 26,
+      "name": "raichu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-16T18:24:26.841Z"
+    },
     {
       "id": 695,
       "name": "heliolisk",
@@ -120,18 +130,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-11-14T14:24:36.324Z"
-    },
-    {
-      "id": 687,
-      "name": "malamar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
-      "types": [
-        "dark",
-        "psychic"
-      ],
-      "totalStats": 482,
-      "grade": "R",
-      "pulledAt": "2026-11-14T07:27:38.029Z"
     }
   ],
   "pokemon": {
@@ -182,6 +180,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-03T01:52:11.022Z",
       "lastPulledAt": "2026-11-08T09:27:54.354Z"
+    },
+    "26": {
+      "id": 26,
+      "name": "raichu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-16T18:24:26.841Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T18:24:26.841Z",
+      "lastPulledAt": "2026-11-16T18:24:26.841Z"
     },
     "31": {
       "id": 31,
