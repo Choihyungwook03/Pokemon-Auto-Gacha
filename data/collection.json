@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 318,
-  "updatedAt": "2026-11-15T21:27:41.975Z",
+  "totalPulls": 319,
+  "updatedAt": "2026-11-16T01:19:03.438Z",
   "lastPull": {
-    "id": 251,
-    "name": "celebi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "id": 975,
+    "name": "cetitan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
     "types": [
-      "psychic",
-      "grass"
+      "ice"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-15T21:27:41.975Z"
+    "totalStats": 521,
+    "grade": "SR",
+    "pulledAt": "2026-11-16T01:19:03.438Z"
   },
   "pulls": [
+    {
+      "id": 975,
+      "name": "cetitan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-11-16T01:19:03.438Z"
+    },
     {
       "id": 251,
       "name": "celebi",
@@ -121,18 +131,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-11-14T00:57:21.910Z"
-    },
-    {
-      "id": 781,
-      "name": "dhelmise",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 517,
-      "grade": "SR",
-      "pulledAt": "2026-11-13T20:23:34.620Z"
     }
   ],
   "pokemon": {
@@ -4236,6 +4234,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T15:12:26.611Z",
       "lastPulledAt": "2026-09-24T15:12:26.611Z"
+    },
+    "975": {
+      "id": 975,
+      "name": "cetitan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-11-16T01:19:03.438Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T01:19:03.438Z",
+      "lastPulledAt": "2026-11-16T01:19:03.438Z"
     },
     "978": {
       "id": 978,
