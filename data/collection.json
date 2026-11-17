@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 322,
-  "updatedAt": "2026-11-17T01:56:23.700Z",
+  "totalPulls": 323,
+  "updatedAt": "2026-11-17T10:17:43.402Z",
   "lastPull": {
-    "id": 845,
-    "name": "cramorant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+    "id": 52,
+    "name": "meowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
     "types": [
-      "flying",
-      "water"
+      "normal"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-11-17T01:56:23.700Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-11-17T10:17:43.402Z"
   },
   "pulls": [
+    {
+      "id": 52,
+      "name": "meowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-17T10:17:43.402Z"
+    },
     {
       "id": 845,
       "name": "cramorant",
@@ -119,18 +129,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-11-14T23:14:14.873Z"
-    },
-    {
-      "id": 337,
-      "name": "lunatone",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
-      "types": [
-        "rock",
-        "psychic"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-11-14T19:21:55.216Z"
     }
   ],
   "pokemon": {
@@ -307,6 +305,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-03T16:56:49.739Z",
       "lastPulledAt": "2026-11-03T16:56:49.739Z"
+    },
+    "52": {
+      "id": 52,
+      "name": "meowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-17T10:17:43.402Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T10:17:43.402Z",
+      "lastPulledAt": "2026-11-17T10:17:43.402Z"
     },
     "53": {
       "id": 53,
