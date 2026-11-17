@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 321,
-  "updatedAt": "2026-11-16T18:24:26.841Z",
+  "totalPulls": 322,
+  "updatedAt": "2026-11-17T01:56:23.700Z",
   "lastPull": {
-    "id": 26,
-    "name": "raichu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "id": 845,
+    "name": "cramorant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
     "types": [
-      "electric"
+      "flying",
+      "water"
     ],
-    "totalStats": 485,
+    "totalStats": 475,
     "grade": "R",
-    "pulledAt": "2026-11-16T18:24:26.841Z"
+    "pulledAt": "2026-11-17T01:56:23.700Z"
   },
   "pulls": [
+    {
+      "id": 845,
+      "name": "cramorant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-17T01:56:23.700Z"
+    },
     {
       "id": 26,
       "name": "raichu",
@@ -118,18 +131,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-11-14T19:21:55.216Z"
-    },
-    {
-      "id": 886,
-      "name": "drakloak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
-      "types": [
-        "dragon",
-        "ghost"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-11-14T14:24:36.324Z"
     }
   ],
   "pokemon": {
@@ -3702,6 +3703,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T21:54:59.590Z",
       "lastPulledAt": "2026-10-30T02:33:27.716Z"
+    },
+    "845": {
+      "id": 845,
+      "name": "cramorant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-17T01:56:23.700Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T01:56:23.700Z",
+      "lastPulledAt": "2026-11-17T01:56:23.700Z"
     },
     "849": {
       "id": 849,
