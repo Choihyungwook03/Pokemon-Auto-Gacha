@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 325,
-  "updatedAt": "2026-11-18T01:39:31.373Z",
+  "totalPulls": 326,
+  "updatedAt": "2026-11-18T09:08:23.506Z",
   "lastPull": {
-    "id": 729,
-    "name": "brionne",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+    "id": 959,
+    "name": "tinkaton",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
     "types": [
-      "water"
+      "fairy",
+      "steel"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-11-18T01:39:31.373Z"
+    "totalStats": 506,
+    "grade": "SR",
+    "pulledAt": "2026-11-18T09:08:23.506Z"
   },
   "pulls": [
+    {
+      "id": 959,
+      "name": "tinkaton",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 506,
+      "grade": "SR",
+      "pulledAt": "2026-11-18T09:08:23.506Z"
+    },
     {
       "id": 729,
       "name": "brionne",
@@ -115,18 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-15T16:52:11.483Z"
-    },
-    {
-      "id": 786,
-      "name": "tapu-lele",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-15T09:57:48.438Z"
     }
   ],
   "pokemon": {
@@ -4271,10 +4272,10 @@
       "totalStats": 506,
       "grade": "SR",
       "pulledAt": "2026-11-07T23:24:25.672Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-07T23:24:25.672Z",
-      "lastPulledAt": "2026-11-07T23:24:25.672Z"
+      "lastPulledAt": "2026-11-18T09:08:23.506Z"
     },
     "965": {
       "id": 965,
