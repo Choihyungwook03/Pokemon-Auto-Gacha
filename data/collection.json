@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 324,
-  "updatedAt": "2026-11-17T19:14:22.256Z",
+  "totalPulls": 325,
+  "updatedAt": "2026-11-18T01:39:31.373Z",
   "lastPull": {
-    "id": 481,
-    "name": "mesprit",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
+    "id": 729,
+    "name": "brionne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
     "types": [
-      "psychic"
+      "water"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-17T19:14:22.256Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-11-18T01:39:31.373Z"
   },
   "pulls": [
+    {
+      "id": 729,
+      "name": "brionne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-18T01:39:31.373Z"
+    },
     {
       "id": 481,
       "name": "mesprit",
@@ -116,18 +127,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-15T09:57:48.438Z"
-    },
-    {
-      "id": 748,
-      "name": "toxapex",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
-      "types": [
-        "poison",
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-11-15T02:46:19.598Z"
     }
   ],
   "pokemon": {
@@ -3154,6 +3153,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T18:11:48.881Z",
       "lastPulledAt": "2026-10-13T18:11:48.881Z"
+    },
+    "729": {
+      "id": 729,
+      "name": "brionne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-18T01:39:31.373Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T01:39:31.373Z",
+      "lastPulledAt": "2026-11-18T01:39:31.373Z"
     },
     "731": {
       "id": 731,
