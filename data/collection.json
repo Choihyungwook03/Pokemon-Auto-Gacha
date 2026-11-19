@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 330,
-  "updatedAt": "2026-11-19T16:46:12.655Z",
+  "totalPulls": 331,
+  "updatedAt": "2026-11-19T23:16:15.051Z",
   "lastPull": {
-    "id": 820,
-    "name": "greedent",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+    "id": 76,
+    "name": "golem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
     "types": [
-      "normal"
+      "rock",
+      "ground"
     ],
-    "totalStats": 460,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-11-19T16:46:12.655Z"
+    "pulledAt": "2026-11-19T23:16:15.051Z"
   },
   "pulls": [
+    {
+      "id": 76,
+      "name": "golem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-19T23:16:15.051Z"
+    },
     {
       "id": 820,
       "name": "greedent",
@@ -115,17 +128,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-11-17T01:56:23.700Z"
-    },
-    {
-      "id": 26,
-      "name": "raichu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-16T18:24:26.841Z"
     }
   ],
   "pokemon": {
@@ -454,10 +456,10 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-02T13:11:35.371Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T13:11:35.371Z",
-      "lastPulledAt": "2026-10-02T13:11:35.371Z"
+      "lastPulledAt": "2026-11-19T23:16:15.051Z"
     },
     "79": {
       "id": 79,
