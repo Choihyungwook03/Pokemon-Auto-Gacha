@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 327,
-  "updatedAt": "2026-11-18T17:59:44.495Z",
+  "totalPulls": 328,
+  "updatedAt": "2026-11-19T00:12:35.694Z",
   "lastPull": {
-    "id": 642,
-    "name": "thundurus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png",
+    "id": 361,
+    "name": "snorunt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
     "types": [
-      "electric",
-      "flying"
+      "ice"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-18T17:59:44.495Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-19T00:12:35.694Z"
   },
   "pulls": [
+    {
+      "id": 361,
+      "name": "snorunt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-19T00:12:35.694Z"
+    },
     {
       "id": 642,
       "name": "thundurus-incarnate",
@@ -117,18 +127,6 @@
       "totalStats": 521,
       "grade": "SR",
       "pulledAt": "2026-11-16T01:19:03.438Z"
-    },
-    {
-      "id": 251,
-      "name": "celebi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
-      "types": [
-        "psychic",
-        "grass"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-15T21:27:41.975Z"
     }
   ],
   "pokemon": {
@@ -1526,10 +1524,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-10T01:14:47.039Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T01:14:47.039Z",
-      "lastPulledAt": "2026-10-10T01:14:47.039Z"
+      "lastPulledAt": "2026-11-19T00:12:35.694Z"
     },
     "369": {
       "id": 369,
