@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 329,
-  "updatedAt": "2026-11-19T07:35:01.119Z",
+  "totalPulls": 330,
+  "updatedAt": "2026-11-19T16:46:12.655Z",
   "lastPull": {
-    "id": 358,
-    "name": "chimecho",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
+    "id": 820,
+    "name": "greedent",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
     "types": [
-      "psychic"
+      "normal"
     ],
-    "totalStats": 455,
+    "totalStats": 460,
     "grade": "R",
-    "pulledAt": "2026-11-19T07:35:01.119Z"
+    "pulledAt": "2026-11-19T16:46:12.655Z"
   },
   "pulls": [
+    {
+      "id": 820,
+      "name": "greedent",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-11-19T16:46:12.655Z"
+    },
     {
       "id": 358,
       "name": "chimecho",
@@ -115,18 +126,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-16T18:24:26.841Z"
-    },
-    {
-      "id": 695,
-      "name": "heliolisk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
-      "types": [
-        "electric",
-        "normal"
-      ],
-      "totalStats": 481,
-      "grade": "R",
-      "pulledAt": "2026-11-16T08:04:19.860Z"
     }
   ],
   "pokemon": {
@@ -3652,6 +3651,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T19:16:28.353Z",
       "lastPulledAt": "2026-11-10T13:03:53.047Z"
+    },
+    "820": {
+      "id": 820,
+      "name": "greedent",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-11-19T16:46:12.655Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T16:46:12.655Z",
+      "lastPulledAt": "2026-11-19T16:46:12.655Z"
     },
     "823": {
       "id": 823,
