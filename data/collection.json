@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 331,
-  "updatedAt": "2026-11-19T23:16:15.051Z",
+  "totalPulls": 332,
+  "updatedAt": "2026-11-20T04:01:45.723Z",
   "lastPull": {
-    "id": 76,
-    "name": "golem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "id": 875,
+    "name": "eiscue-ice",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
     "types": [
-      "rock",
-      "ground"
+      "ice"
     ],
-    "totalStats": 495,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-11-19T23:16:15.051Z"
+    "pulledAt": "2026-11-20T04:01:45.723Z"
   },
   "pulls": [
+    {
+      "id": 875,
+      "name": "eiscue-ice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-20T04:01:45.723Z"
+    },
     {
       "id": 76,
       "name": "golem",
@@ -116,18 +126,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-11-17T10:17:43.402Z"
-    },
-    {
-      "id": 845,
-      "name": "cramorant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
-      "types": [
-        "flying",
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-11-17T01:56:23.700Z"
     }
   ],
   "pokemon": {
@@ -3901,6 +3899,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-12T10:39:23.168Z",
       "lastPulledAt": "2026-11-12T10:39:23.168Z"
+    },
+    "875": {
+      "id": 875,
+      "name": "eiscue-ice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-20T04:01:45.723Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T04:01:45.723Z",
+      "lastPulledAt": "2026-11-20T04:01:45.723Z"
     },
     "882": {
       "id": 882,
