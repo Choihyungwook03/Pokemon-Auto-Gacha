@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 333,
-  "updatedAt": "2026-11-20T12:46:36.787Z",
+  "totalPulls": 334,
+  "updatedAt": "2026-11-20T20:47:00.067Z",
   "lastPull": {
-    "id": 963,
-    "name": "finizen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+    "id": 94,
+    "name": "gengar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
     "types": [
-      "water"
+      "ghost",
+      "poison"
     ],
-    "totalStats": 315,
-    "grade": "N",
-    "pulledAt": "2026-11-20T12:46:36.787Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-20T20:47:00.067Z"
   },
   "pulls": [
+    {
+      "id": 94,
+      "name": "gengar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-20T20:47:00.067Z"
+    },
     {
       "id": 963,
       "name": "finizen",
@@ -115,17 +128,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-11-18T01:39:31.373Z"
-    },
-    {
-      "id": 481,
-      "name": "mesprit",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-17T19:14:22.256Z"
     }
   ],
   "pokemon": {
@@ -532,10 +534,10 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-06T11:29:11.422Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-06T11:29:11.422Z",
-      "lastPulledAt": "2026-11-06T11:29:11.422Z"
+      "lastPulledAt": "2026-11-20T20:47:00.067Z"
     },
     "95": {
       "id": 95,
