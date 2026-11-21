@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 337,
-  "updatedAt": "2026-11-21T16:35:26.942Z",
+  "totalPulls": 338,
+  "updatedAt": "2026-11-21T21:51:41.506Z",
   "lastPull": {
-    "id": 36,
-    "name": "clefable",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "id": 796,
+    "name": "xurkitree",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
     "types": [
-      "fairy"
+      "electric"
     ],
-    "totalStats": 483,
-    "grade": "R",
-    "pulledAt": "2026-11-21T16:35:26.942Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-21T21:51:41.506Z"
   },
   "pulls": [
+    {
+      "id": 796,
+      "name": "xurkitree",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T21:51:41.506Z"
+    },
     {
       "id": 36,
       "name": "clefable",
@@ -116,17 +127,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-11-19T07:35:01.119Z"
-    },
-    {
-      "id": 361,
-      "name": "snorunt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-19T00:12:35.694Z"
     }
   ],
   "pokemon": {
@@ -3623,6 +3623,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:54:37.954Z",
       "lastPulledAt": "2026-09-16T11:54:37.954Z"
+    },
+    "796": {
+      "id": 796,
+      "name": "xurkitree",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T21:51:41.506Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T21:51:41.506Z",
+      "lastPulledAt": "2026-11-21T21:51:41.506Z"
     },
     "802": {
       "id": 802,
