@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 339,
-  "updatedAt": "2026-11-22T01:53:23.225Z",
+  "totalPulls": 340,
+  "updatedAt": "2026-11-22T09:19:54.242Z",
   "lastPull": {
-    "id": 107,
-    "name": "hitmonchan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "id": 896,
+    "name": "glastrier",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
     "types": [
-      "fighting"
+      "ice"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-11-22T01:53:23.225Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-11-22T09:19:54.242Z"
   },
   "pulls": [
+    {
+      "id": 896,
+      "name": "glastrier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T09:19:54.242Z"
+    },
     {
       "id": 107,
       "name": "hitmonchan",
@@ -116,17 +127,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-11-19T23:16:15.051Z"
-    },
-    {
-      "id": 820,
-      "name": "greedent",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-11-19T16:46:12.655Z"
     }
   ],
   "pokemon": {
@@ -4051,10 +4051,10 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-04T09:37:51.441Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-04T09:37:51.441Z",
-      "lastPulledAt": "2026-11-04T09:37:51.441Z"
+      "lastPulledAt": "2026-11-22T09:19:54.242Z"
     },
     "899": {
       "id": 899,
