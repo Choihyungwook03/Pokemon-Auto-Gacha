@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 338,
-  "updatedAt": "2026-11-21T21:51:41.506Z",
+  "totalPulls": 339,
+  "updatedAt": "2026-11-22T01:53:23.225Z",
   "lastPull": {
-    "id": 796,
-    "name": "xurkitree",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+    "id": 107,
+    "name": "hitmonchan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
     "types": [
-      "electric"
+      "fighting"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-21T21:51:41.506Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-11-22T01:53:23.225Z"
   },
   "pulls": [
+    {
+      "id": 107,
+      "name": "hitmonchan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-22T01:53:23.225Z"
+    },
     {
       "id": 796,
       "name": "xurkitree",
@@ -116,17 +127,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-11-19T16:46:12.655Z"
-    },
-    {
-      "id": 358,
-      "name": "chimecho",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-11-19T07:35:01.119Z"
     }
   ],
   "pokemon": {
@@ -599,6 +599,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T16:55:55.950Z",
       "lastPulledAt": "2026-10-24T16:55:55.950Z"
+    },
+    "107": {
+      "id": 107,
+      "name": "hitmonchan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-22T01:53:23.225Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T01:53:23.225Z",
+      "lastPulledAt": "2026-11-22T01:53:23.225Z"
     },
     "108": {
       "id": 108,
