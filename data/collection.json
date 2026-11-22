@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 340,
-  "updatedAt": "2026-11-22T09:19:54.242Z",
+  "totalPulls": 341,
+  "updatedAt": "2026-11-22T17:14:27.700Z",
   "lastPull": {
-    "id": 896,
-    "name": "glastrier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "id": 332,
+    "name": "cacturne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
     "types": [
-      "ice"
+      "grass",
+      "dark"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-22T09:19:54.242Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-11-22T17:14:27.700Z"
   },
   "pulls": [
+    {
+      "id": 332,
+      "name": "cacturne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-22T17:14:27.700Z"
+    },
     {
       "id": 896,
       "name": "glastrier",
@@ -115,18 +128,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-20T04:01:45.723Z"
-    },
-    {
-      "id": 76,
-      "name": "golem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-11-19T23:16:15.051Z"
     }
   ],
   "pokemon": {
@@ -1497,6 +1498,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T00:47:55.980Z",
       "lastPulledAt": "2026-10-24T00:47:55.980Z"
+    },
+    "332": {
+      "id": 332,
+      "name": "cacturne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-22T17:14:27.700Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T17:14:27.700Z",
+      "lastPulledAt": "2026-11-22T17:14:27.700Z"
     },
     "337": {
       "id": 337,
