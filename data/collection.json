@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 348,
-  "updatedAt": "2026-11-25T03:39:12.467Z",
+  "totalPulls": 349,
+  "updatedAt": "2026-11-25T13:30:08.641Z",
   "lastPull": {
-    "id": 122,
-    "name": "mr-mime",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "id": 11,
+    "name": "metapod",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
     "types": [
-      "psychic",
-      "fairy"
+      "bug"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-11-25T03:39:12.467Z"
+    "totalStats": 205,
+    "grade": "N",
+    "pulledAt": "2026-11-25T13:30:08.641Z"
   },
   "pulls": [
+    {
+      "id": 11,
+      "name": "metapod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-11-25T13:30:08.641Z"
+    },
     {
       "id": 122,
       "name": "mr-mime",
@@ -117,17 +127,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-22T09:19:54.242Z"
-    },
-    {
-      "id": 107,
-      "name": "hitmonchan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-11-22T01:53:23.225Z"
     }
   ],
   "pokemon": {
@@ -157,10 +156,10 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-11-22T22:29:57.522Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-22T22:29:57.522Z",
-      "lastPulledAt": "2026-11-22T22:29:57.522Z"
+      "lastPulledAt": "2026-11-25T13:30:08.641Z"
     },
     "15": {
       "id": 15,
