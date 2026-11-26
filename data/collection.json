@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 352,
-  "updatedAt": "2026-11-26T14:17:00.579Z",
+  "totalPulls": 353,
+  "updatedAt": "2026-11-26T23:04:45.584Z",
   "lastPull": {
-    "id": 222,
-    "name": "corsola",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+    "id": 708,
+    "name": "phantump",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
     "types": [
-      "water",
-      "rock"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-11-26T14:17:00.579Z"
+    "totalStats": 309,
+    "grade": "N",
+    "pulledAt": "2026-11-26T23:04:45.584Z"
   },
   "pulls": [
+    {
+      "id": 708,
+      "name": "phantump",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-11-26T23:04:45.584Z"
+    },
     {
       "id": 222,
       "name": "corsola",
@@ -117,18 +129,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-23T12:19:42.245Z"
-    },
-    {
-      "id": 778,
-      "name": "mimikyu-disguised",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
-      "types": [
-        "ghost",
-        "fairy"
-      ],
-      "totalStats": 476,
-      "grade": "R",
-      "pulledAt": "2026-11-23T03:01:45.308Z"
     }
   ],
   "pokemon": {
@@ -3294,6 +3294,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T18:59:10.382Z",
       "lastPulledAt": "2026-09-17T18:59:10.382Z"
+    },
+    "708": {
+      "id": 708,
+      "name": "phantump",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-11-26T23:04:45.584Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T23:04:45.584Z",
+      "lastPulledAt": "2026-11-26T23:04:45.584Z"
     },
     "710": {
       "id": 710,
