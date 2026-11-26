@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 351,
-  "updatedAt": "2026-11-26T04:29:23.980Z",
+  "totalPulls": 352,
+  "updatedAt": "2026-11-26T14:17:00.579Z",
   "lastPull": {
-    "id": 697,
-    "name": "tyrantrum",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+    "id": 222,
+    "name": "corsola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
     "types": [
-      "rock",
-      "dragon"
+      "water",
+      "rock"
     ],
-    "totalStats": 521,
-    "grade": "SR",
-    "pulledAt": "2026-11-26T04:29:23.980Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-11-26T14:17:00.579Z"
   },
   "pulls": [
+    {
+      "id": 222,
+      "name": "corsola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-26T14:17:00.579Z"
+    },
     {
       "id": 697,
       "name": "tyrantrum",
@@ -117,17 +129,6 @@
       "totalStats": 476,
       "grade": "R",
       "pulledAt": "2026-11-23T03:01:45.308Z"
-    },
-    {
-      "id": 11,
-      "name": "metapod",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 205,
-      "grade": "N",
-      "pulledAt": "2026-11-22T22:29:57.522Z"
     }
   ],
   "pokemon": {
@@ -1187,6 +1188,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T06:31:16.897Z",
       "lastPulledAt": "2026-10-19T06:31:16.897Z"
+    },
+    "222": {
+      "id": 222,
+      "name": "corsola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-26T14:17:00.579Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T14:17:00.579Z",
+      "lastPulledAt": "2026-11-26T14:17:00.579Z"
     },
     "226": {
       "id": 226,
