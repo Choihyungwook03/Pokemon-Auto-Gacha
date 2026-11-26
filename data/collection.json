@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 350,
-  "updatedAt": "2026-11-25T22:41:11.597Z",
+  "totalPulls": 351,
+  "updatedAt": "2026-11-26T04:29:23.980Z",
   "lastPull": {
-    "id": 288,
-    "name": "vigoroth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png",
+    "id": 697,
+    "name": "tyrantrum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
     "types": [
-      "normal"
+      "rock",
+      "dragon"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-11-25T22:41:11.597Z"
+    "totalStats": 521,
+    "grade": "SR",
+    "pulledAt": "2026-11-26T04:29:23.980Z"
   },
   "pulls": [
+    {
+      "id": 697,
+      "name": "tyrantrum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-11-26T04:29:23.980Z"
+    },
     {
       "id": 288,
       "name": "vigoroth",
@@ -115,18 +128,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-11-22T22:29:57.522Z"
-    },
-    {
-      "id": 332,
-      "name": "cacturne",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-11-22T17:14:27.700Z"
     }
   ],
   "pokemon": {
@@ -3213,6 +3214,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-16T08:04:19.860Z",
       "lastPulledAt": "2026-11-16T08:04:19.860Z"
+    },
+    "697": {
+      "id": 697,
+      "name": "tyrantrum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-11-26T04:29:23.980Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T04:29:23.980Z",
+      "lastPulledAt": "2026-11-26T04:29:23.980Z"
     },
     "698": {
       "id": 698,
