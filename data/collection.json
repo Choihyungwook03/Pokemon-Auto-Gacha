@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 353,
-  "updatedAt": "2026-11-26T23:04:45.584Z",
+  "totalPulls": 354,
+  "updatedAt": "2026-11-27T04:57:23.960Z",
   "lastPull": {
-    "id": 708,
-    "name": "phantump",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+    "id": 187,
+    "name": "hoppip",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
     "types": [
-      "ghost",
-      "grass"
+      "grass",
+      "flying"
     ],
-    "totalStats": 309,
+    "totalStats": 250,
     "grade": "N",
-    "pulledAt": "2026-11-26T23:04:45.584Z"
+    "pulledAt": "2026-11-27T04:57:23.960Z"
   },
   "pulls": [
+    {
+      "id": 187,
+      "name": "hoppip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-11-27T04:57:23.960Z"
+    },
     {
       "id": 708,
       "name": "phantump",
@@ -118,17 +130,6 @@
       "totalStats": 487,
       "grade": "R",
       "pulledAt": "2026-11-24T00:05:12.863Z"
-    },
-    {
-      "id": 26,
-      "name": "raichu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-23T12:19:42.245Z"
     }
   ],
   "pokemon": {
@@ -1004,6 +1005,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T00:26:58.356Z",
       "lastPulledAt": "2026-10-11T00:26:58.356Z"
+    },
+    "187": {
+      "id": 187,
+      "name": "hoppip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-11-27T04:57:23.960Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T04:57:23.960Z",
+      "lastPulledAt": "2026-11-27T04:57:23.960Z"
     },
     "190": {
       "id": 190,
