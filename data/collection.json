@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 355,
-  "updatedAt": "2026-11-27T14:48:29.560Z",
+  "totalPulls": 356,
+  "updatedAt": "2026-11-27T23:00:09.082Z",
   "lastPull": {
-    "id": 20,
-    "name": "raticate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "id": 903,
+    "name": "sneasler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
     "types": [
-      "normal"
+      "fighting",
+      "poison"
     ],
-    "totalStats": 413,
-    "grade": "R",
-    "pulledAt": "2026-11-27T14:48:29.560Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-11-27T23:00:09.082Z"
   },
   "pulls": [
+    {
+      "id": 903,
+      "name": "sneasler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
+      "types": [
+        "fighting",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-27T23:00:09.082Z"
+    },
     {
       "id": 20,
       "name": "raticate",
@@ -118,17 +131,6 @@
       "totalStats": 285,
       "grade": "N",
       "pulledAt": "2026-11-24T20:22:56.960Z"
-    },
-    {
-      "id": 152,
-      "name": "chikorita",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 318,
-      "grade": "N",
-      "pulledAt": "2026-11-24T09:44:51.960Z"
     }
   ],
   "pokemon": {
@@ -4292,6 +4294,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T16:47:35.786Z",
       "lastPulledAt": "2026-11-04T17:43:28.753Z"
+    },
+    "903": {
+      "id": 903,
+      "name": "sneasler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
+      "types": [
+        "fighting",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-27T23:00:09.082Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T23:00:09.082Z",
+      "lastPulledAt": "2026-11-27T23:00:09.082Z"
     },
     "906": {
       "id": 906,
