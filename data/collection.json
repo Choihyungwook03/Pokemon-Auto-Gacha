@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 357,
-  "updatedAt": "2026-11-28T04:40:19.916Z",
+  "totalPulls": 358,
+  "updatedAt": "2026-11-28T13:41:05.141Z",
   "lastPull": {
-    "id": 912,
-    "name": "quaxly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
+    "id": 304,
+    "name": "aron",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
     "types": [
-      "water"
+      "steel",
+      "rock"
     ],
-    "totalStats": 310,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-11-28T04:40:19.916Z"
+    "pulledAt": "2026-11-28T13:41:05.141Z"
   },
   "pulls": [
+    {
+      "id": 304,
+      "name": "aron",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-28T13:41:05.141Z"
+    },
     {
       "id": 912,
       "name": "quaxly",
@@ -117,18 +130,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-11-25T13:30:08.641Z"
-    },
-    {
-      "id": 122,
-      "name": "mr-mime",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-11-25T03:39:12.467Z"
     }
   ],
   "pokemon": {
@@ -1577,6 +1578,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T01:51:03.291Z",
       "lastPulledAt": "2026-10-15T01:51:03.291Z"
+    },
+    "304": {
+      "id": 304,
+      "name": "aron",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-28T13:41:05.141Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-28T13:41:05.141Z",
+      "lastPulledAt": "2026-11-28T13:41:05.141Z"
     },
     "310": {
       "id": 310,
